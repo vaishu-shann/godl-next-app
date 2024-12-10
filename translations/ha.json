@@ -1,0 +1,281 @@
+{
+    "topStrip": {
+    "price1": "1 PAXG: xxx USDC",
+    "price2": "1 GODL: xxx USDC",
+    "price3": "1 GODL: xxx PAXG"
+    },
+    "navbar": {
+    "link1": "Home",
+    "link2": "Referral Explorer",
+    "link3": "My Account",
+    "link3OnHover": "Ba kuwa a fannin GODL Network",
+    "link4": "Trade GODL",
+    "link5": "Admin",
+    "connectWalletButton": "Bincika Wallet"
+    },
+    "footer": {
+    "heading": "GODL Gold Ambassador Influence Network",
+    "para1": "GODL Gold shi ne cryptocurrency da aka haifar da hankalin ƙasa, da aka samu matsalar kyautar kula da kudaden harsunan kudi na kullun katin da kullun. Wasu sun bayyana wani shirin taro mai teburin kasuwanci akan GODL, wadannan suka shirya wadannan mutane domin cimma platform da suka taimaka da itsa kasa. Wannan yana sa matsalarin mai matsalarin matsalarin da mai tsayin jama'a a kan GODL.",
+    "button1": "Sanya PAXG",
+    "button2": "Sanya GODL",
+    "button3": "Sanya USDC",
+    "linkSection1": {
+    "heading": "Yan'uwa",
+    "link1": "Telegram",
+    "link2": "Discord",
+    "link3": "Twitter",
+    "link4": "YouTube"
+    },
+    "linkSection2": {
+    "heading": "Wallets",
+    "link1": "Metamask",
+    "link2": "Trust Wallet",
+    "link3": "Wallet Connect"
+    },
+    "linkSection3": {
+    "heading": "Jerin Al'umma",
+    "link1": "Samu PAXG",
+    "link2": "Samu USDC",
+    "link3": "PAXG Token Contract",
+    "link4": "USDC Token Contract",
+    "link5": "GODL Token Contract"
+    },
+    "linkSection4": {
+    "heading": "Taimako & Bayanai",
+    "link1": "Duba Charts a Dextool",
+    "link2": "Shafi na Paxos",
+    "link3": "Aurium Whitepaper",
+    "link4": "Coin Market Cap",
+    "link5": "Coin Gecko"
+    },
+    "copyrightText": "Duk Hakuri - GODL Gold"
+    },
+    "homePage": {
+    "section1": {
+    "heading": "GODL Gold",
+    "subHeading": "A KUSA DA ILIMIN HADARIN ZUCHIYA",
+    "para1": "Zama ƙarshe a duniyar kaya na harshe tare da GODL Gold.",
+    "para2": "Mun ƙara al'ummar ilimi domin watsa labari, da aka samu mai kula kula a cikin wani ƙungiyar mai samar da lafiya da girman baka da kwamfuta. Idan ka samu sauran al'amuran da kake so, kana jin ƙanwa ga 'Yan'uwa na Gold, kamar yadda kake so a wajen jihar na zama da ba a taba a kullum ba - yana cikin iyali!",
+    "button1Text": "Shiga Yanzu!",
+    "button1CTA": {
+    "popup_withoutWalletConnection": {
+    "heading": "Shiga Shafi na Ambassador na GODL",
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Shigar da adireshin masu ruhi",
+    "errorText": "Da fatan ka bincika da katin ku"
+    },
+    "popup_withWalletConnected_alreadyJoined": {
+    "heading": "Da na Gabatar!",
+    "para1": "Baraka da zuwa, kana da muhimmancin hirar GODL Gold!",
+    "para2": "Wanda ke faruwa a wata shirya mai bayanai, yana yanzu juna biyu, har sai an fara aiki da kungiyar da ke samar da lafiya, inda gold da aka fita ne yake girma. Duk kuma mun gode sosai."
+    },
+    "popup_withWalletConnected_newUser": {
+    "heading": "Shiga Shafi na Ambassador na GODL",
+    "popup_approve": {
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Shigar da adireshin masu ruhi",
+    "tncButtonText": "Yi bayani na tsarin tsari",
+    "tncButtonCtaPopup": {
+    "heading": "Tsarin Tsari",
+    "para1": "Tsarin Tsari: Bayanan fannin GODL Gold shine ƙididdiga mai kwamfuta (DApp) da aka bayyana a kan wasu 'kamar yadda suka samu' da 'kamar yadda ake fara' ba tare da bukatar bayanin na alama da kuma maimaitawa na ƙididdiga ba. Mun dauki yawan aikin zama mai tsanani a kan gida. Yi amfani da kwanan wani platform na cryptocurrency, kamar haka GODL Gold, kai tsaye ya kasance bayanin maidauninmu. Ta amfani da wannan shafi, kuna amince da karimci wurin sa."
+    },
+    "buttonApproveText": "Ida PAXG",
+    "buttonApproveOnClickResponse": "Sako'in ku ya tabbatar da ya faru, yana cikin wuri na shaida ne na blockchain. Zai iya dauki da uku dauki game da duniyar na watsa labari. Kyakkyawa!"
+    },
+    "popup_join": {
+    "description": "",
+    "buttonJoinText": "Shiga GODL",
+    "buttonJoinOnClickResponse": "Shiga mai aiki..."
+    },
+    "popup_join_success": {
+    "description": "",
+    "buttonJoinSuccessText": "Da ya Gabatar!",
+    "addTokenText": "Sanya GODL a shafin mai dandalin da aka haifar"
+    }
+    }
+    },
+    "button2Text": "Baƙa GODL",
+    "button3Text": "Sanya PAXG"
+    },
+    "section2": {
+    "stats1": "Yan'uwa",
+    "stats2": "Jumlar Rewards da aka sauya ",
+    "stats3": "Jumlar Rewards da aka gudanar da su "
+    },
+    "section3": {
+    "heading": "Deflationary ta bayar da Siffanta",
+    "para1": "GODL Gold ya kuma shahara ta siffanta da abin da aka canza a kullum, da aka gudanar da abubuwa na gold domin kowane lambobin da ya fita ya zama ɗayan farin jini na asali. Wannan tsari ya tabbatar da cikakken muhimmin gyaran yawan kwatinmu.",
+    "para2": "GODL yana bayar da tsarin canzawa ta kuma kara sauri domin kula da kudi a gold, ya kuma ba ka fita da shi a gold. Wannan ya ba ka da ayyuka da watsa labarai a canzawar fina-finai na duniya mai lamba."
+    },
+    "section4": {
+    "heading": "Bazaba da Amfani na Kudi",
+    "para1": "GODL ya sauye da wani abu mai kyau da ke bayanai - Gold. Wannan zama zuwa gold bai amince masa abubuwa mai kyau don abin da ke cikin yanayi na duniya, ba tare da samun sauran abubuwa mai kyau da kudi a hannunmu. Wannan ya ba ka mai kaunar gare ku da suke kiran ku akan marasa lafiya da kudi a cikin yankin ke ta."
+    },
+    "section5": {
+    "heading": "Yan'uwa mai kyau",
+    "para1": "A kan wannan GODL Gold Ambassador Influencer Network, ka zama wani gida da yawa a cikin yanayin domin kuma girma na kudaden kai tsaye da kula da niyyar al'ummar lafiya. Idan ka samu katin, fara karin halaye ya sauya don kara amfani daga jama'a. Ka bada lafiya da kuma samun labarin yin amfani daga tsarin cikin cikin fannin kudi, don tabbatar da fannin kudaden a samun gwamnati, shigar da karatunmu."
+    }
+    },
+    "referralExplorerPage": {
+    "heading": "GODL Referral Explorer",
+    "para1": "Hankali shi ne asali na wadanda ke kula da kudaden lafiya. Haka yanzu muka sami 'fitowar GODL Referral' mai alaka. Dama suna amfani da fitattun sadarwa na intanet, za ku iya shigar da wani adireshin shafin gida a cibiyar hoto don samar da bayanai masu ruhi. Idan adireshin ya wanzu a cikin jihar da mu, zaku samu bayanai kamar nuniyan yan'uwa na Ambassador da kuma mutane da suka kai muhimmancin labarin da yake kasan hoton su ta hoto mafi alheri.",
+    "para2": "GODL Network Explorer shi ne bincike mai siffanta don ƙwaƙwalwa na al'ummar da muke raye tare da su.",
+    "inputBoxPlaceholder": "Shigar da adireshin shafin gida",
+    "buttonText": "Shigar adireshi",
+    "tableHeadings": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+    ],
+    "stats1": "Adireshin masu ruhi",
+    "stats2": "Kudaden Tashar Jinjina ",
+    "stats3": "Lafiyar jiragen ruhi",
+    "stats4": "Mazaunin Masu ruhi",
+    "stats5": "Rewards da aka samu ",
+    "stats6": "Da aka rubuta duk da wannan"
+    },
+    "myAccountPage": {
+    "section1": {
+    "heading": "Karshen Abokai",
+    "copyLinkText": "KWAFI HANYAR DAIKIN GWAGWADA",
+    "step1": {
+    "title": "Kwafi Yaya Abokai",
+    "description": "Da click akan 'Karshen Abokai' don kwafi jarrabawa ka zuwa gidanmu na daidai."
+    },
+    "step2": {
+    "title": "Raba Hanyar Daikin Gwagwada",
+    "description": "Hanyar ya zama rahoton abokan ku don taimaka su yi gina gidanmu baya amma ba su tabbatar da adireshin shafin gida na cikin cikin."
+    },
+    "step3": {
+    "title": "Samu Rewards",
+    "description": "Idan abokan ku da abokan abokan abokin ku suka taimaka su sekuwa da tashar, za ku samu rewards. Wannan shi ne win-wine don duk wanda ke cikin shi."
+    }
+    },
+    "section2": {
+    "heading": "Tsarin",
+    "stats1": "Adireshin masu ruhi",
+    "stats2": "Kudaden Tsarin Auta ",
+    "stats3": "Tsarin",
+    "stats4": "Mazaunin Masu ruhi",
+    "stats5": "Rewards da aka samu ",
+    "stats6": "Da aka rubuta duk da wannan"
+    },
+    "section3": {
+    "heading": "Auto Tier Up",
+    "para1": "GODL Gold ya ba da shawarar 'Auto-Tier Up', wani kayan ayyuka da ke amfani a cikin jahilin, wanda ya zaɓa idanunin ku a cikin tashar gaba. Bayan da ba za a sake fara adadin rewards daga Kayan Ayyukan Abambuwar ku ba, za a yi amfani da su wajibi don kwafin ku zuwa tashin gaba na biyu. Wannan ba kawai gwamnatin binciken ba, ba tare da yadda kayan ayyukan suka samu bincike ba.",
+    "para2": "Tare da sautunanin ku daga rewards ku, zaku iya wadata tashar kayan jama'a. Tare da Auto-Tier Up, GODL ku ba ku ba shi kawai ne ya zama wani malamman rubutu; yana cikakken jama'a a matsayin hanyoyin ku daidai a cikin jiragenku ta gidanmu.",
+    "para3": "A yanzu yanayin ku na auta na auta ne ${reInvestFlag}",
+    "buttonText": "Cire ${!reInvestFlag}",
+    "buttonOnClickResponse": "Auto Tier-Up yana aiki a cikin..."
+    },
+    "section4": {
+    "heading": "Tsarin Auta",
+    "para1": "A cikin jahilin GODL Gold, gudumawar zama da suka kula a yankuna na kayan tsarin. Hanyar 'Tsarin Auta' na tsare, domin kawo damuwa sakamakon kayan rewards don Abokan Ku amma kuma samun jan hankali ga cikakken matsayi na jiragenku. Kowane adadin tsarin daga tsarin 1 zuwa tsarin 5 ya samu ku kare ku hanyar zama don taimaka aikin tashar GODL ta gare ku.",
+    "para2": "Shin wani abu, yana sauyi cikakken jiranin ku a cikin tashar, ya kasance wanda ya nuna bukatar abun da ke yi wa matsayin tashar daidai na tashar GODL Gold.",
+    "buttonText": "Tsarin Auta",
+    "buttonCtaPopup": {
+    "heading": "Tsarin Auta",
+    "popup_approve": {
+    "buttonApproveText": "Yi Badaidai",
+    "notSelectTier_errorText": "Da fatan za ku zama mafi kyau a cikin matsala na kayan abu",
+    "buttonApproveOnClickResponse": "Fuskarin aiki ne a cikin..."
+    },
+    "popup_tierUp": {
+    "buttonTierUpText": "Tsarin Auta",
+    "approvalSuccessText": "Badaidai ya kammala! Da click yana zuwa tsarin gaba.",
+    "buttonTierUpOnClickResponse": "Harkar aikinku ta samu samun karin data aiki a matsayin blockchain. Yana iya dauka kusan kuma za a samo mintuna hudu daga minti akan cikin jiragenku. Zama yana dauke da ta!"
+    },
+    "popup_tierUp_success": {
+    "buttonTierUpSuccessText": "Hannuɗin Tsarin Yana Tafi gida",
+    "addTokenText": "Duba GODL a cikin shafin gida da aka haɗa."
+    }
+    },
+    "section5": {
+    "heading": "Canza Adireshin Shafin Gida",
+    "para1": "A duniyar digital da aka amfani da wasu lambobin rubutu, adireshin shafin gida na ku ne al'umma na ku. Amma me yasa abun ba zai faruwa? Zaka buƙatar yin canza adireshin shafinku na shafin gida. Mu samu ta wuta.",
+    "para2": "'Canza adireshin shafin gida' maimakon haka da wadannan mutane da suke tsananta a cikin duniyar crypto. Kawai kan kama adireshin shafinku na sabbin adireshin shafin gida, ka iya haduwa adireshin shafin daban da kake so ka tabbatar da canzawa. Tsarin wannan kawai, za ku yi kyakkyawan kwakwalwar fayilolin ku a tashar GODL Gold, kuma zaka ƙara hankali akan babban kayan abu da aka samu da akayi.",
+    "buttonText": "Adireshin Shafin Gida",
+    "buttonCtaPopup": {
+    "heading": "Canza Adireshin Shafin Gida",
+    "para1": "Ka shigar da canza adireshin shafin gida na ku, aikin mafi kyawu a tashin GODL Gold. Da haka, za ka kawo damuwa duk abin da ya kamata ku samu don ya sanya a adireshin shafin ku na sabbin adireshin gida. Tabbatar da tatsuniyarsa kuma kammala canza. Haka yake wuri na damuwar samun daidaituwa don bambanta kimar aure.",
+    "inputBoxPlaceholder": "Shigar adireshin gida sabuwar adireshin shafin",
+    "buttonAddNewAddressText": "Samun adireshin gida sabuwar adireshin shafin",
+    "buttonAddNewAddressOnClickResponse": "Ayyar da adireshin shafin gida sabuwar adireshin..."
+    }
+    }
+    }
+    },
+    "tradeGodlPage": {
+    "section1": {
+    "heading": "Kunna GODL",
+    "subHeading": "BAYYANA SAMUN SHA'AWAR ABIN ALJANNA NA ALOLA",
+    "para1": "Shigo cikin duniyar GODL. Kunna GODL bayanin zai amfani da PAXG ko USDC.",
+    "para2": "Domin mai cewa ya amfani da PAXG, hanyar samun Baya ga GODL yana kare ku samun godiya don amfani da PAXG na ku.",
+    "para3": "Yana da nufin don amfani da USDC? Babu matsala. Duba gaba da shafukan ɗakunan da muke adawa don samun samun bayanin abin.",
+    "button1": {
+    "buttonText": "Baya tare da PAXG",
+    "buttonCta_popup": {
+    "heading": "Baya GODL tare da PAXG",
+    "popup_previewConversion": {
+    "description": "Ka amince da shawarar ɗauka tare da tokenin PAXG na ku don samun bayanin GODL na ku. Wannan ayyuka ya yiwu za ku iya kawo damuwa girman abuwa na aljanna a cikin tokenin GODL na ku, wanda ke tsanin godiya ku na duniyar digital.",
+    "inputBoxPlaceholder": "Shigar kudin PAXG don samun bayanin GODL",
+    "buttonText": "Binciki Bayani"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "Taimaka da PAXG",
+    "buttonApproveOnClickResponse": "Ayyukan ku ta fada a cikin sarari ta blockchain. Yana iya dauka kusan kuma za a samo mintuna hudu daga minti akan cikin jiragenku. Zama yana dauke da ta!"
+    },
+    "popup_mint": {
+    "description": "",
+    "buttonMintText": "Baya GODL",
+    "buttonMintOnClickResponse": "Yana bayar da minti..."
+    },
+    "popup_mint_success": {
+    "buttonMintSuccessfulText": "Minted Mafi sauki",
+    "addTokenText": "Duba GODL a cikin shafin gida da aka haɗa."
+    }
+    }
+    },
+    "button2Text": "Baya tare da USDC"
+    },
+    "section2": {
+    "heading": "Tsage GODL",
+    "subHeading": "CANZA GODL TA PAXG KO USDC",
+    "para1": "Ko yaushe kuna buƙatar, zaka iya canza alamu na ku ta GODL don PAXG ko USDC.",
+    "para2": "Da samun sautunanin Aurium, mutanen da suka kama PAXG zasu iya sakawa da GODL da su biya PAXG a kowanne.",
+    "para3": "Idan kuna so kuma za ku baƙin canzawa ga GODL don USDC, muna ƙunshi ku. Yanzu muna samun kwarewar daidai da shafinmu mai tsanani don shiga cikin wuri.",
+    "button1": {
+    "buttonText": "Biya don PAXG",
+    "buttonCta_popup": {
+    "heading": "Biya GODL don PAXG",
+    "popup_previewConversion": {
+    "description": "Kuna da wani abu don kirkirar GODL na ku don PAXG. Kada ku taimaka ga daga cikin tsarin biyan bayanin da ya kamata ku yin shi da kanan nan. Bayan da ku yi haɗuwa, aikin za a samu sakamakon.",
+    "inputBoxPlaceholder": "Shigar kudin GODL don samun PAXG",
+    "buttonText": "Binciki Bayani"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "Taimaka da GODL",
+    "buttonApproveOnClickResponse": "Ayyukan ku ta fada a cikin sarari ta blockchain. Yana iya dauka kusan kuma za a samo mintuna hudu daga minti akan cikin jiragenku. Zama yana dauke da ta!"
+    },
+    "popup_burn": {
+    "description": "",
+    "buttonMintText": "Baya GODL",
+    "buttonMintOnClickResponse": "Yana bayar da minti..."
+    },
+    "popup_burn_success": {
+    "buttonMintSuccessfulText": "Daɗi Mafi sauki",
+    "addTokenText": "Duba PAXG a cikin shafin gida da aka haɗa."
+    }
+    }
+    },
+    "button2Text": "Baƙin da kuma USDC"
+    }
+    }
+    }
+    
+    
+    

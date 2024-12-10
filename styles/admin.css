@@ -1,0 +1,88 @@
+.a-ring {
+  display: flex;
+flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+  width: 250px;
+}
+.a-user-stats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 50px 95px;
+}
+.edit-sec{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inputfield{
+  border: none;
+  background-color: transparent;
+  font-weight: 400;
+  color: #F8F7F3;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  outline-style: none;
+}
+.admin-table {
+  margin-top: 30px;
+  width:100%;
+  height: 125px;
+  border-collapse: collapse;
+margin-bottom: 30px;
+}
+.a-tb{
+  overflow-x: auto;
+  margin-bottom: 15px;
+}
+  /* Handle */
+  .a-tb::-webkit-scrollbar-thumb {
+    background: #615531 ; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  .a-tb::-webkit-scrollbar-thumb:hover {
+    background: #615531; 
+  }
+
+  .a-tb::-webkit-scrollbar {
+    width: 5px;
+    height: 4px;
+  }
+  
+  /* Track */
+  .a-tb::-webkit-scrollbar-track {
+    background: transparent; 
+  }
+  .cta-large{
+    background: linear-gradient(90deg, #fbdb5d 0%, #e8bc00 79.97%);
+    border-radius: 6px;
+    border: none;
+    text-align: center;
+    padding: 10px 20px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 22px;
+    /* identical to box height */
+    cursor: pointer;
+  width: fit-content;
+    color: #1d1d1f;
+    margin-right: 20px;
+  }
+@media screen and (max-width:960px) {
+  .admin-table {
+    width: 100%!important;
+  }
+  
+  .a-ring {
+    width: auto;
+}
+.a-user-stats{
+  margin: 0 5px 50px;
+}
+}

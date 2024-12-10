@@ -1,0 +1,285 @@
+{
+    "topStrip": {
+      "price1": "1 PAXG: xxx USDC",
+      "price2": "1 GODL: xxx USDC",
+      "price3": "1 GODL: xxx PAXG"
+    },
+    "navbar": {
+      "link1": "Início",
+      "link2": "Explorador de Indicações",
+      "link3": "Minha Conta",
+      "link3OnHover": "Você ainda não se juntou à Rede GODL",
+      "link4": "Negociar GODL",
+      "link5": "Admin",
+      "connectWalletButton": "Conectar Carteira"
+    },
+    "footer": {
+      "heading": "Rede de Influência do Embaixador GODL Gold",
+      "para1": "O GODL Gold é uma criptomoeda deflacionária lastreada em ouro que recompensa a retenção de longo prazo, aumentando gradualmente o valor do ouro subjacente de cada token. O Programa de Embaixadores é uma iniciativa baseada na comunidade dentro do GODL, recompensando os participantes por promover a plataforma e contribuir para o seu crescimento. Isso promove uma comunidade vibrante e engajada em torno do GODL.",
+      "button1": "Adicionar PAXG",
+      "button2": "Adicionar GODL",
+      "button3": "Adicionar USDC",
+      "linkSection1": {
+        "heading": "Comunidade",
+        "link1": "Telegram",
+        "link2": "Discord",
+        "link3": "Twitter",
+        "link4": "YouTube"
+      },
+      "linkSection2": {
+        "heading": "Carteiras",
+        "link1": "Metamask",
+        "link2": "Trust Wallet",
+        "link3": "Wallet Connect"
+      },
+      "linkSection3": {
+        "heading": "Links de Criptomoedas",
+        "link1": "Obter PAXG",
+        "link2": "Obter USDC",
+        "link3": "Contrato do Token PAXG",
+        "link4": "Contrato do Token USDC",
+        "link5": "Contrato do Token GODL"
+      },
+      "linkSection4": {
+        "heading": "Ferramentas e Informações",
+        "link1": "Ver Gráficos no Dextool",
+        "link2": "Site do Paxos",
+        "link3": "Whitepaper do Aurium",
+        "link4": "Coin Market Cap",
+        "link5": "Coin Gecko"
+      },
+      "copyrightText": "Todos os direitos reservados - GODL Gold"
+    },
+    "homePage": {
+      "section1": {
+        "heading": "GODL Gold",
+        "subHeading": "ONDE O OURO ENCONTRA O CRESCIMENTO",
+        "para1": "Adentre o futuro do armazenamento de riquezas com o GODL Gold.",
+        "para2": "Nós reinventamos o ouro para a era digital, garantindo que ele não apenas preserve, mas também multiplique seu valor. Ao se juntar à nossa Rede de Influência do Embaixador do Ouro, você faz parte de uma comunidade ativa que fomenta a prosperidade e o crescimento coletivamente.",
+        "para3": "Se torne um GAINer e experimente uma nova dimensão na gestão de riquezas, onde o ouro não é apenas armazenado, ele prospera!",
+        "button1Text": "Junte-se Agora!",
+        "button1CTA": {
+          "popup_withoutWalletConnection": {
+            "heading": "Junte-se à Rede de Embaixadores GODL",
+            "description": "",
+            "referrerAddressInputBoxPlaceholder": "Digite o endereço do seu indicador",
+            "errorText": "Por favor, conecte sua carteira"
+          },
+          "popup_withWalletConnected_alreadyJoined": {
+            "heading": "Já se Juntou!",
+            "para1": "Parabéns, você se juntou com sucesso à Rede GODL Gold!",
+            "para2": "Como um novo embaixador, você agora faz parte de um ecossistema próspero, onde o ouro encontra o crescimento. Vamos criar uma jornada impactante juntos.",
+            "para3": "Bem-vindo a bordo!"
+          },
+          "popup_withWalletConnected_newUser": {
+            "heading": "Junte-se à Rede de Embaixadores GODL",
+            "popup_approve": {
+              "description": "",
+              "referrerAddressInputBoxPlaceholder": "Digite o endereço do seu indicador",
+              "tncButtonText": "Aceitar nossos Termos e Condições",
+              "tncButtonCtaPopup": {
+                "heading": "Termos e Condições",
+                "para1": "Aviso: A plataforma GODL Gold é um aplicativo descentralizado (DApp) fornecido 'como está' e 'conforme disponível', sem garantias expressas ou implícitas de qualquer tipo. Nos esforçamos para manter os mais altos padrões possíveis de serviço e desempenho, mas não podemos garantir segurança, confiabilidade ou precisão completas.",
+                "para2": "Como usuário, você é o único responsável por suas ações dentro da rede. Por favor, use nossa plataforma de forma responsável, conduza uma diligência completa e lembre-se de que o envolvimento com qualquer plataforma de criptomoeda, incluindo a GODL Gold, carrega riscos inerentes. Ao usar esta plataforma, você reconhece e aceita esses riscos."
+              },
+              "buttonApproveText": "Aprovar PAXG",
+              "buttonApproveOnClickResponse": "Sua transação foi iniciada e está sendo processada na blockchain. Isso pode levar alguns minutos, dependendo da congestão da rede. Aguarde!"
+            },
+            "popup_join": {
+              "description": "",
+              "buttonJoinText": "Junte-se ao GODL",
+              "buttonJoinOnClickResponse": "Juntando em andamento..."
+            },
+            "popup_join_success": {
+              "description": "",
+              "buttonJoinSuccessText": "Juntou-se com Sucesso!",
+              "addTokenText": "Adicione GODL à sua carteira conectada."
+            }
+          }
+        },
+        "button2Text": "Negociar GODL",
+        "button3Text": "Comprar PAXG"
+      },
+      "section2": {
+        "stats1": "Embaixadores",
+        "stats2": "Total de Recompensas Geradas ",
+        "stats3": "Total de Recompensas Acumuladas "
+      },
+      "section3": {
+        "heading": "Deflacionário por Design",
+        "para1": "O GODL Gold se destaca pela sua natureza deflacionária e valor resgatável em ouro. À medida que o número de tokens diminui ao longo do tempo, cada token restante se torna resgatável por uma parcela maior da reserva de ouro subjacente. Esse design garante que o valor intrínseco de suas participações cresça continuamente.",
+        "para2": "O GODL oferece uma abordagem inovadora para expandir sua riqueza em ouro, tornando-a simples e digital."
+      },
+      "section4": {
+        "heading": "Garantia Lastreada em Ouro",
+        "para1": "O GODL é lastreado por um ativo tangível com valor comprovado - o ouro. Essa ligação com o ouro não apenas fornece uma base sólida de valor para seus ativos digitais, mas também permite que você os resgate por ouro físico. Isso lhe oferece segurança e liquidez incomparáveis no espaço financeiro digital em constante evolução."
+      },
+      "section5": {
+        "heading": "Uma Rede Próspera",
+        "para1": "Através da Rede de Influência de Embaixadores GODL Gold, você se torna parte de uma comunidade dinâmica focada no objetivo comum de criação de valor e preservação de riquezas. Como detentor de tokens, seu papel vai além da participação. Você contribui e se beneficia de um sistema coletivo que recompensa o engajamento e a contribuição ativa, transformando o crescimento da riqueza em uma jornada comunitária."
+      }
+    },
+    "referralExplorerPage": {
+      "heading": "Explorador de Indicações GODL",
+      "para1": "A curiosidade é a pedra angular de uma comunidade próspera. É por isso que incluímos o recurso 'Explorador de Indicações GODL'. Assim como você usaria um mecanismo de busca na internet, você pode inserir qualquer endereço de carteira na barra de pesquisa para ver os detalhes relacionados. Se o endereço existir em nossa rede, você verá informações como sua classificação de embaixador e indicações. Além disso, nossa interface intuitiva permite navegar nesses endereços até suas transações individuais por meio de um link direto para o Etherscan.",
+      "para2": "O Explorador da Rede GODL é sua janela transparente para o ecossistema vibrante que estamos construindo juntos.",
+      "inputBoxPlaceholder": "Digite o endereço da carteira",
+      "buttonText": "Buscar Endereço",
+      "tableHeadings": [
+        "Nível 1",
+        "Nível 2",
+        "Nível 3",
+        "Nível 4",
+        "Nível 5"
+      ],
+      "stats1": "Endereço do Indicador",
+      "stats2": "Saldo de Nível Automático ",
+      "stats3": "Nível",
+      "stats4": "Total de Indicações",
+      "stats5": "Recompensas Recebidas ",
+      "stats6": "Registrado Desde"
+    },
+  "myAccountPage": {
+  "section1": {
+  "heading": "Convidar Amigos",
+  "copyLinkText": "COPIAR SEU LINK DE INDICAÇÃO",
+  "step1": {
+  "title": "Copiar Link de Convite",
+  "description": "Clique no botão 'Convidar Amigos' para copiar seu link exclusivo para a área de transferência."
+  },
+  "step2": {
+  "title": "Compartilhar Link de Convite",
+  "description": "O link facilita para os amigos se juntarem à rede sem precisar inserir manualmente o seu endereço de carteira."
+  },
+  "step3": {
+  "title": "Ganhar Recompensas",
+  "description": "Quando seus amigos e os amigos deles se juntarem à rede, você ganha recompensas. É um ganha-ganha para todos."
+  }
+  },
+  "section2": {
+  "heading": "Estatísticas",
+  "stats1": "Endereço do Indicador",
+  "stats2": "Saldo de Nível Automático ",
+  "stats3": "Nível",
+  "stats4": "Total de Indicações",
+  "stats5": "Recompensas Recebidas ",
+  "stats6": "Registrado Desde"
+  },
+  "section3": {
+  "heading": "Auto Upgrade de Nível",
+  "para1": "O GODL Gold incorpora um mecanismo de 'Auto Upgrade de Nível', uma ferramenta inovadora que amplia seu potencial de crescimento na rede. Em vez de deixar suas recompensas do Programa de Embaixadores ficarem ociosas, elas são automaticamente usadas para impulsionar você para o próximo nível. Isso não é apenas acumulação, mas progresso.",
+  "para2": "Ao traduzir perfeitamente suas recompensas em avanço, você pode subir nas fileiras da rede. Com o Auto Upgrade de Nível, seu GODL é mais do que apenas uma posse; é um participante ativo em sua jornada pela rede.",
+  "para3": "Atualmente, o modo de atualização automática de nível está ${reInvestFlag}",
+  "buttonText": "Ativar ${!reInvestFlag}",
+  "buttonOnClickResponse": "Atualizando o modo de atualização automática de nível..."
+  },
+  "section4": {
+  "heading": "Upgrade de Nível",
+  "para1": "Na rede GODL Gold, o crescimento está associado a avançar nos níveis. O recurso 'Upgrade de Nível' é projetado para permitir que os Embaixadores avancem ativamente em sua posição. Ao comprar um nível mais alto, você não apenas aumenta seu próprio potencial de recompensa, mas também contribui para a força geral da rede. Cada passo para cima, do Nível 1 ao Nível 5, o aproxima de realizar todo o potencial da rede GODL.",
+  "para2": "Além disso, ele amplia sua influência dentro da rede, tornando você um contribuinte fundamental para o seu sucesso. Com o 'Upgrade de Nível', você não apenas participa, mas assume o controle de sua jornada na rede GODL Gold.",
+  "buttonText": "Upgrade de Nível",
+  "buttonCtaPopup": {
+  "heading": "Upgrade de Nível",
+  "popup_approve": {
+  "buttonApproveText": "Aprovar Texto",
+  "notSelectTier_errorText": "Selecione um nível de pacote",
+  "buttonApproveOnClickResponse": "Aprovação em andamento..."
+  },
+  "popup_tierUp": {
+  "buttonTierUpText": "Upgrade de Nível",
+  "approvalSuccessText": "Aprovação bem-sucedida! Clique acima para fazer o Upgrade de Nível.",
+  "buttonTierUpOnClickResponse": "Sua transação foi iniciada e está sendo processada na blockchain. Pode levar alguns minutos dependendo do congestionamento da rede. Aguarde!"
+  },
+  "popup_tierUp_success": {
+  "buttonTierUpSuccessText": "Nível Atualizado com Sucesso",
+  "addTokenText": "Adicione GODL à carteira conectada."
+  }
+  },
+  "section5": {
+  "heading": "Alterar Endereço da Carteira",
+  "para1": "No mundo digital das criptomoedas, seu endereço de carteira é sua identidade. Mas e se algo acontecer? Você pode precisar alterar o endereço da carteira da sua conta. Tornamos isso fácil.",
+  "para2": "Nosso recurso 'Alterar Endereço da Carteira' foi projetado para ser simples, mesmo para aqueles que são novos no espaço de criptomoedas. Assim como você pode alterar seu endereço físico ao se mudar para uma nova casa, esse recurso permite que você atualize seu endereço digital na rede GODL Gold. É tão simples quanto inserir seu novo endereço da carteira e confirmar a alteração. Dessa forma, você mantém o controle sobre sua identidade na rede, garantindo que todas as suas recompensas e benefícios vão para o lugar certo.",
+  "buttonText": "Endereço da Carteira",
+  "buttonCtaPopup": {
+  "heading": "Alterar Endereço da Carteira",
+  "para1": "Você está prestes a atualizar seu endereço de carteira, um identificador chave na rede GODL Gold. Ao fazer isso, você garante que todas as recompensas e benefícios permaneçam corretamente vinculados ao seu novo endereço. Lembre-se de confirmar a alteração. É uma etapa rápida e segura para gerenciar sua identidade cripto.",
+  "inputBoxPlaceholder": "Inserir novo endereço da carteira",
+  "buttonAddNewAddressText": "Adicionar Novo Endereço",
+  "buttonAddNewAddressOnClickResponse": "Adicionando novo endereço da carteira..."
+  }
+  }
+  }
+  },
+  "tradeGodlPage": {
+  "section1": {
+  "heading": "Adquirir GODL",
+  "subHeading": "DESCUBRA O POTENCIAL DO OURO DIGITAL",
+  "para1": "Faça sua jogada no mundo do GODL. Adquira GODL diretamente usando PAXG ou USDC.",
+  "para2": "Para os detentores de PAXG, a interface amigável da Aurium permite que você crie GODL usando seus PAX.",
+  "para3": "Prefere usar USDC? Sem problemas. Visite nossa exchange descentralizada parceira para um processo de aquisição tranquilo.",
+  "button1": {
+  "buttonText": "Criar com PAXG",
+  "buttonCta_popup": {
+  "heading": "Criar GODL com PAXG",
+  "popup_previewConversion": {
+  "description": "Você está iniciando o processo para criar um novo GODL usando seus tokens PAXG. Essa ação vincula o valor intrínseco do ouro aos seus tokens GODL, permitindo que sua riqueza digital cresça. Basta confirmar para criar seu GODL!",
+  "inputBoxPlaceholder": "Inserir a quantidade de PAXG para criar GODL",
+  "buttonText": "Visualizar Conversão"
+  },
+  "popup_approve": {
+  "description": "",
+  "buttonApproveText": "Aprovar PAXG",
+  "buttonApproveOnClickResponse": "Sua transação foi iniciada e está sendo processada na blockchain. Pode levar alguns minutos dependendo do congestionamento da rede. Aguarde!"
+  },
+  "popup_mint": {
+  "description": "",
+  "buttonMintText": "Criar GODL",
+  "buttonMintOnClickResponse": "Processo de criação em andamento..."
+  },
+  "popup_mint_success": {
+  "buttonMintSuccessfulText": "Criado com Sucesso",
+  "addTokenText": "Adicione GODL à carteira conectada."
+  }
+  }
+  },
+  "button2Text": "Comprar com USDC"
+  },
+  "section2": {
+  "heading": "Liquidar GODL",
+  "subHeading": "TRANSFORME SEU GODL EM PAXG OU USDC",
+  "para1": "Sempre que você sentir a necessidade, é possível liquidar facilmente suas participações em GODL por PAXG ou USDC.",
+  "para2": "Com a interface da Aurium, os detentores de PAXG podem queimar seus GODL com facilidade, recebendo PAXG em troca.",
+  "para3": "Se você deseja trocar seu GODL por USDC, nós temos a solução. Basta visitar nossa exchange descentralizada parceira para uma transação rápida.",
+  "button1": {
+  "buttonText": "Queimar por PAXG",
+  "buttonCta_popup": {
+  "heading": "Queimar GODL por PAXG",
+  "popup_previewConversion": {
+  "description": "Você está prestes a converter seu GODL em PAXG. Verifique as taxas de conversão e esteja preparado para executar a troca. Uma vez confirmada, a transação será processada.",
+  "inputBoxPlaceholder": "Inserir a quantidade de GODL para obter PAXG",
+  "buttonText": "Visualizar Conversão"
+  },
+  "popup_approve": {
+  "description": "",
+  "buttonApproveText": "Aprovar GODL",
+  "buttonApproveOnClickResponse": "Sua transação foi iniciada e está sendo processada na blockchain. Pode levar alguns minutos dependendo do congestionamento da rede. Aguarde!"
+  },
+  "popup_burn": {
+  "description": "",
+  "buttonMintText": "Criar GODL",
+  "buttonMintOnClickResponse": "Processo de criação em andamento..."
+  },
+  "popup_burn_success": {
+  "buttonMintSuccessfulText": "Vendido com Sucesso",
+  "addTokenText": "Adicione PAXG à carteira conectada."
+  }
+  }
+  },
+  "button2Text": "Vender por USDC"
+  }
+  }
+  }
+  
+  
+  
+  

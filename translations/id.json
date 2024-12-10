@@ -1,0 +1,284 @@
+{
+    "topStrip": {
+    "price1": "1 PAXG: xxx USDC",
+    "price2": "1 GODL: xxx USDC",
+    "price3": "1 GODL: xxx PAXG"
+    },
+    "navbar": {
+    "link1": "Beranda",
+    "link2": "Penjelajah Referensi",
+    "link3": "Akun Saya",
+    "link3OnHover": "Anda belum bergabung dengan Jaringan GODL",
+    "link4": "Perdagangan GODL",
+    "link5": "Admin",
+    "connectWalletButton": "Hubungkan Wallet"
+    },
+    "footer": {
+    "heading": "Jaringan Pengaruh Duta Emas GODL",
+    "para1": "GODL Gold adalah cryptocurrency yang didukung oleh emas dengan mekanisme deflasi yang memberikan hadiah bagi pemegang jangka panjang dengan meningkatkan nilai emas dasar setiap token. Program Duta adalah inisiatif yang didorong oleh komunitas di dalam GODL, memberikan hadiah kepada peserta yang mempromosikan platform dan berkontribusi pada pertumbuhannya. Hal ini menciptakan komunitas yang dinamis dan berpartisipasi di sekitar GODL.",
+    "button1": "Tambahkan PAXG",
+    "button2": "Tambahkan GODL",
+    "button3": "Tambahkan USDC",
+    "linkSection1": {
+    "heading": "Komunitas",
+    "link1": "Telegram",
+    "link2": "Discord",
+    "link3": "Twitter",
+    "link4": "YouTube"
+    },
+    "linkSection2": {
+    "heading": "Dompet",
+    "link1": "Metamask",
+    "link2": "Trust Wallet",
+    "link3": "Wallet Connect"
+    },
+    "linkSection3": {
+    "heading": "Tautan Kripto",
+    "link1": "Dapatkan PAXG",
+    "link2": "Dapatkan USDC",
+    "link3": "Kontrak Token PAXG",
+    "link4": "Kontrak Token USDC",
+    "link5": "Kontrak Token GODL"
+    },
+    "linkSection4": {
+    "heading": "Alat & Informasi",
+    "link1": "Lihat Grafik di Dextool",
+    "link2": "Situs Paxos",
+    "link3": "Whitepaper Aurium",
+    "link4": "Coin Market Cap",
+    "link5": "Coin Gecko"
+    },
+    "copyrightText": "Hak Cipta Dilindungi - GODL Gold"
+    },
+    "homePage": {
+    "section1": {
+    "heading": "GODL Gold",
+    "subHeading": "TEMPAT EMAS BERTEMU PERTUMBUHAN",
+    "para1": "Masuki masa depan penyimpanan kekayaan dengan GODL Gold.",
+    "para2": "Kami telah mengubah emas untuk era digital, memastikan tidak hanya mempertahankan tetapi juga menggandakan nilainya. Dengan bergabung dalam Jaringan Pengaruh Duta Emas kami, Anda menjadi bagian dari komunitas aktif yang secara bersama-sama menumbuhkan kemakmuran dan pertumbuhan.",
+    "para3": "Jadilah GAINer dan alami dimensi baru dalam pengelolaan kekayaan di mana emas tidak hanya disimpan - tetapi berkembang!",
+    "button1Text": "Gabung Sekarang!",
+    "button1CTA": {
+    "popup_withoutWalletConnection": {
+    "heading": "Bergabung dengan Jaringan Duta GODL",
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Masukkan alamat pemberi referensi",
+    "errorText": "Harap hubungkan wallet Anda"
+    },
+    "popup_withWalletConnected_alreadyJoined": {
+    "heading": "Sudah Bergabung!",
+    "para1": "Selamat, Anda telah berhasil bergabung dalam Jaringan Emas GODL!",
+    "para2": "Sebagai duta baru, Anda sekarang menjadi bagian dari ekosistem yang berkembang pesat, di mana emas bertemu pertumbuhan. Mari kita ciptakan perjalanan berdampak bersama.",
+    "para3": "Selamat datang!"
+    },
+    "popup_withWalletConnected_newUser": {
+    "heading": "Bergabung dengan Jaringan Duta GODL",
+    "popup_approve": {
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Masukkan alamat pemberi referensi",
+    "tncButtonText": "Terima Syarat & Ketentuan kami",
+    "tncButtonCtaPopup": {
+    "heading": "Syarat dan Ketentuan",
+    "para1": "Penyangkalan: Platform GODL Gold adalah aplikasi terdesentralisasi (DApp) yang disediakan dalam keadaan apa adanya dan tersedia sebagaimana adanya, tanpa jaminan tersurat maupun tersirat dari jenis apapun. Kami berusaha untuk menjaga standar pelayanan dan kinerja tertinggi, namun kami tidak dapat menjamin keamanan, keandalan, atau ketepatan sepenuhnya.",
+    "para2": "Sebagai pengguna, Anda bertanggung jawab sepenuhnya atas tindakan Anda dalam jaringan ini. Gunakan platform kami dengan bertanggung jawab, lakukan penelitian menyeluruh, dan ingatlah bahwa keterlibatan dengan platform cryptocurrency apa pun, termasuk GODL Gold, memiliki risiko inheren. Dengan menggunakan platform ini, Anda mengakui dan menerima risiko ini."
+    },
+    "buttonApproveText": "Setujui PAXG",
+    "buttonApproveOnClickResponse": "Transaksi Anda telah diinisiasi dan sedang diproses di blockchain. Ini mungkin memakan waktu beberapa menit tergantung pada kemacetan jaringan. Bersabarlah!"
+    },
+    "popup_join": {
+    "description": "",
+    "buttonJoinText": "Gabung GODL",
+    "buttonJoinOnClickResponse": "Gabung dalam proses..."
+    },
+    "popup_join_success": {
+    "description": "",
+    "buttonJoinSuccessText": "Bergabung dengan Sukses!",
+    "addTokenText": "Tambahkan GODL ke wallet yang terhubung."
+    }
+    }
+    },
+    "button2Text": "Perdagangan GODL",
+    "button3Text": "Beli PAXG"
+    },
+    "section2": {
+    "stats1": "Duta",
+    "stats2": "Total Hadiah yang Dihasilkan ",
+    "stats3": "Total Hadiah yang Dikumpulkan "
+    },
+    "section3": {
+    "heading": "Desain Deflasi",
+    "para1": "GODL Gold membedakan dirinya dengan sifatnya yang deflasi dan nilai yang dapat ditukarkan dengan emas. Seiring berkurangnya jumlah token dari waktu ke waktu, setiap token yang tersisa dapat ditukarkan dengan bagian yang lebih besar dari cadangan emas yang mendasarinya. Desain ini memastikan nilai intrinsik dari aset Anda terus berkembang.",
+    "para2": "GODL menawarkan pendekatan inovatif untuk memperluas kekayaan Anda dalam bentuk emas, membuatnya sederhana dan digital."
+    },
+    "section4": {
+    "heading": "Jaminan Berbasis Emas",
+    "para1": "GODL didukung oleh aset nyata dengan nilai terbukti - Emas. Keterkaitan ini dengan emas tidak hanya memberikan dasar nilai yang solid untuk aset digital Anda, tetapi juga memungkinkan Anda menukarnya dengan emas fisik. Hal ini memberikan keamanan dan likuiditas yang tak tertandingi dalam ruang keuangan digital yang terus berkembang pesat."
+    },
+    "section5": {
+    "heading": "Jaringan Berkembang",
+    "para1": "Melalui Jaringan Pengaruh Duta Emas GODL, Anda menjadi bagian dari komunitas dinamis yang fokus pada tujuan bersama penciptaan nilai dan pelestarian kekayaan. Sebagai pemegang token, peran Anda melampaui partisipasi belaka. Anda berkontribusi pada dan mendapatkan manfaat dari sistem kolektif yang memberikan hadiah bagi keterlibatan dan kontribusi aktif, mengubah pertumbuhan kekayaan menjadi perjalanan bersama."
+    }
+    },
+    "referralExplorerPage": {
+    "heading": "Penjelajah Referensi GODL",
+    "para1": "Rasa ingin tahu adalah dasar dari komunitas yang berkembang. Itulah mengapa kami menyertakan fitur 'Penjelajah Referensi GODL'. Seperti yang Anda lakukan pada mesin pencari internet, Anda dapat memasukkan alamat wallet apa pun ke dalam bilah pencarian untuk menampilkan detail terkait. Jika alamat tersebut ada dalam jaringan kami, Anda akan melihat informasi seperti tingkat Duta dan referensi mereka. Bukan hanya itu, antarmuka intuitif kami memungkinkan Anda menjelajahi alamat-alamat ini hingga ke transaksi individunya melalui tautan langsung ke Etherscan.",
+    "para2": "Penjelajah Jaringan GODL adalah jendela transparan Anda ke dalam ekosistem yang penuh semangat yang kami bangun bersama.",
+    "inputBoxPlaceholder": "Masukkan alamat wallet",
+    "buttonText": "Cari Alamat",
+    "tableHeadings": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+    ],
+    "stats1": "Alamat Pemberi Referensi",
+    "stats2": "Saldo Oto Tier ",
+    "stats3": "Tingkat",
+    "stats4": "Jumlah Referensi",
+    "stats5": "Hadiah yang Diperoleh ",
+    "stats6": "Terdaftar Sejak"
+    },
+    "myAccountPage": {
+    "section1": {
+    "heading": "Undang Teman",
+    "copyLinkText": "SALIN TAUTAN REFERAL ANDA",
+    "step1": {
+    "title": "Salin Tautan Undangan",
+    "description": "Klik tombol 'Undang Teman' untuk menyalin tautan unik Anda ke clipboard Anda."
+    },
+    "step2": {
+    "title": "Bagikan Tautan Undangan",
+    "description": "Tautan tersebut memudahkan teman-teman Anda untuk bergabung dengan jaringan tanpa perlu memasukkan alamat dompet Anda secara manual."
+    },
+    "step3": {
+    "title": "Dapatkan Hadiah",
+    "description": "Ketika teman-teman Anda dan teman-teman mereka bergabung dengan jaringan, Anda mendapatkan hadiah. Ini adalah kemenangan bagi semua orang."
+    }
+    },
+    "section2": {
+    "heading": "Statistik",
+    "stats1": "Alamat Pemberi Referal",
+    "stats2": "Saldo Auto Tier ",
+    "stats3": "Tingkat",
+    "stats4": "Jumlah Referal",
+    "stats5": "Hadiah yang Diperoleh ",
+    "stats6": "Terdaftar Sejak"
+    },
+    "section3": {
+    "heading": "Auto Tier Up",
+    "para1": "GODL Gold menggabungkan mekanisme 'Auto-Tier Up', sebuah alat inovatif yang meningkatkan potensi pertumbuhan Anda dalam jaringan. Alih-alih membiarkan hadiah dari Program Duta tetap menganggur, mereka secara otomatis digunakan untuk mendorong Anda menuju tingkat berikutnya. Ini bukan hanya akumulasi tetapi kemajuan.",
+    "para2": "Dengan menerjemahkan hadiah Anda menjadi pergerakan ke atas yang lancar, Anda dapat naik peringkat dalam jaringan. Dengan Auto Tier-Up, GODL Anda lebih dari sekadar milik; itu merupakan peserta aktif dalam perjalanan Anda melalui jaringan.",
+    "para3": "Saat ini mode auto tier-up Anda adalah ${reInvestFlag}",
+    "buttonText": "Nyalakan ${!reInvestFlag}",
+    "buttonOnClickResponse": "Auto Tier-Up dalam proses..."
+    },
+    "section4": {
+    "heading": "Naik Tingkat",
+    "para1": "Dalam jaringan GODL Gold, pertumbuhan sejalan dengan naik tingkat. Fitur 'Naik Tingkat' dirancang untuk memungkinkan Duta untuk secara aktif meningkatkan posisinya. Dengan membeli tingkat yang lebih tinggi, Anda tidak hanya meningkatkan potensi hadiah Anda sendiri tetapi juga berkontribusi pada kekuatan jaringan secara keseluruhan. Setiap langkah ke atas, dari Tingkat 1 hingga Tingkat 5, membawa Anda lebih dekat untuk mewujudkan potensi penuh jaringan GODL.",
+    "para2": "Lebih dari itu, ini meningkatkan pengaruh Anda dalam jaringan, membuat Anda menjadi kontributor penting bagi kesuksesannya. Dengan 'Naik Tingkat', Anda tidak hanya berpartisipasi, tetapi mengambil kendali perjalanan Anda dalam jaringan GODL Gold",
+    "buttonText": "Naik Tingkat",
+    "buttonCtaPopup": {
+    "heading": "Naik Tingkat",
+    "popup_approve": {
+    "buttonApproveText": "Setujui Teks",
+    "notSelectTier_errorText": "Harap pilih tingkat paket",
+    "buttonApproveOnClickResponse": "Persetujuan dalam proses..."
+    },
+    "popup_tierUp": {
+    "buttonTierUpText": "Naik Tingkat",
+    "approvalSuccessText": "Persetujuan berhasil! Klik di atas untuk Naik Tingkat.",
+    "buttonTierUpOnClickResponse": "Transaksi Anda telah dimulai dan sedang diproses di blockchain. Mungkin membutuhkan beberapa menit tergantung pada kemacetan jaringan. Tunggu sebentar!"
+    },
+    "popup_tierUp_success": {
+    "buttonTierUpSuccessText": "Tingkat Diperbarui dengan Sukses",
+    "addTokenText": "Tambahkan GODL ke dompet yang terhubung."
+    }
+    },
+    "section5": {
+    "heading": "Ubah Alamat Dompet",
+    "para1": "Di dunia digital cryptocurrency, alamat dompet Anda adalah identitas Anda. Tetapi bagaimana jika terjadi sesuatu? Anda mungkin perlu mengubah alamat dompet akun Anda. Kami memudahkan itu.",
+    "para2": "Fitur 'Ubah Alamat Dompet' kami dirancang untuk menjadi sederhana, bahkan untuk mereka yang baru mengenal dunia kripto. Sama seperti Anda mungkin mengubah alamat fisik Anda saat pindah ke rumah baru, fitur ini memungkinkan Anda memperbarui alamat digital Anda di jaringan GODL Gold. Caranya sangat sederhana, cukup masukkan alamat dompet baru Anda dan konfirmasikan perubahan tersebut. Dengan cara ini, Anda tetap memiliki kontrol atas identitas Anda di jaringan, memastikan bahwa semua hadiah dan manfaat Anda pergi ke tempat yang tepat.",
+    "buttonText": "Alamat Dompet",
+    "buttonCtaPopup": {
+    "heading": "Ubah Alamat Dompet",
+    "para1": "Anda akan memperbarui alamat dompet Anda, sebuah pengenal kunci dalam jaringan GODL Gold. Dengan melakukannya, Anda memastikan bahwa semua hadiah dan manfaat tetap terhubung dengan alamat baru Anda. Ingatlah untuk mengkonfirmasi perubahan tersebut. Ini adalah langkah cepat dan aman untuk mengelola identitas kripto Anda.",
+    "inputBoxPlaceholder": "Masukkan alamat dompet baru",
+    "buttonAddNewAddressText": "Tambahkan Alamat Baru",
+    "buttonAddNewAddressOnClickResponse": "Menambahkan alamat dompet baru..."
+    }
+    }
+    }
+    },
+    "tradeGodlPage": {
+    "section1": {
+    "heading": "Peroleh GODL",
+    "subHeading": "BUKA POTENSI EMAS DIGITAL",
+    "para1": "Ambil langkah Anda ke dunia GODL. Peroleh GODL langsung, menggunakan PAXG atau USDC.",
+    "para2": "Bagi pemegang PAXG, antarmuka Aurium yang ramah pengguna memungkinkan Anda mencetak GODL menggunakan PAX Anda",
+    "para3": "Prefer menggunakan USDC? Tidak masalah. Kunjungi pertukaran desentralisasi mitra kami untuk proses perolehan yang lancar.",
+    "button1": {
+    "buttonText": "Cetak dengan PAXG",
+    "buttonCta_popup": {
+    "heading": "Cetak GODL dengan PAXG",
+    "popup_previewConversion": {
+    "description": "Anda sedang memulai proses untuk membuat GODL baru menggunakan token PAXG Anda. Tindakan ini menghubungkan nilai intrinsik emas ke token GODL Anda, memungkinkan kekayaan digital Anda berkembang. Hanya konfirmasikan untuk mencetak GODL Anda!",
+    "inputBoxPlaceholder": "Masukkan jumlah PAXG untuk mencetak GODL",
+    "buttonText": "Pratinjau Konversi"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "Setujui PAXG",
+    "buttonApproveOnClickResponse": "Transaksi Anda telah dimulai dan sedang diproses di blockchain. Mungkin membutuhkan beberapa menit tergantung pada kemacetan jaringan. Tunggu sebentar!"
+    },
+    "popup_mint": {
+    "description": "",
+    "buttonMintText": "Cetak GODL",
+    "buttonMintOnClickResponse": "Sedang mencetak..."
+    },
+    "popup_mint_success": {
+    "buttonMintSuccessfulText": "Berhasil Mencetak",
+    "addTokenText": "Tambahkan GODL ke dompet yang terhubung."
+    }
+    }
+    },
+    "button2Text": "Beli dengan USDC"
+    },
+    "section2": {
+    "heading": "Likuidasi GODL",
+    "subHeading": "UBAH GODL ANDA MENJADI PAXG ATAU USDC",
+    "para1": "Kapan pun Anda merasa perlu, Anda dapat dengan mudah melikuidasi kepemilikan GODL Anda menjadi PAXG atau USDC.",
+    "para2": "Dengan antarmuka Aurium, pemegang PAXG dapat dengan mudah membakar GODL mereka, menerima PAXG sebagai imbalannya.",
+    "para3": "Jika Anda ingin menukar GODL Anda dengan USDC, kami telah menyediakannya. Cukup kunjungi pertukaran desentralisasi mitra kami untuk transaksi yang cepat.",
+    "button1": {
+    "buttonText": "Bakar Untuk PAXG",
+    "buttonCta_popup": {
+    "heading": "Bakar GODL Untuk PAXG",
+    "popup_previewConversion": {
+    "description": "Anda akan mengonversi GODL Anda menjadi PAXG. Pastikan Anda telah memeriksa nilai tukar dan siap untuk melaksanakan swap. Setelah dikonfirmasi, transaksi akan diproses.",
+    "inputBoxPlaceholder": "Masukkan jumlah GODL untuk mendapatkan PAXG",
+    "buttonText": "Pratinjau Konversi"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "Setujui GODL",
+    "buttonApproveOnClickResponse": "Transaksi Anda telah dimulai dan sedang diproses di blockchain. Mungkin membutuhkan beberapa menit tergantung pada kemacetan jaringan. Tunggu sebentar!"
+    },
+    "popup_burn": {
+    "description": "",
+    "buttonMintText": "Cetak GODL",
+    "buttonMintOnClickResponse": "Sedang mencetak..."
+    },
+    "popup_burn_success": {
+    "buttonMintSuccessfulText": "Terjual dengan Sukses",
+    "addTokenText": "Tambahkan PAXG ke dompet yang terhubung."
+    }
+    }
+    },
+    "button2Text": "Jual untuk USDC"
+    }
+    }
+    }
+    
+    
+    

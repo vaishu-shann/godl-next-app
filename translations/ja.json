@@ -1,0 +1,283 @@
+{
+    "topStrip": {
+    "price1": "1 PAXG : xxx USDC",
+    "price2": "1 GODL : xxx USDC",
+    "price3": "1 GODL : xxx PAXG"
+    },
+    "navbar": {
+    "link1": "ホーム",
+    "link2": "紹介者エクスプローラー",
+    "link3": "マイアカウント",
+    "link3OnHover": "あなたはまだGODLネットワークに参加していません",
+    "link4": "GODLを取引する",
+    "link5": "管理者",
+    "connectWalletButton": "ウォレットに接続"
+    },
+    "footer": {
+    "heading": "GODL Gold Ambassador Influence Network",
+    "para1": "GODL Goldは、各トークンの基礎となるゴールドの価値を徐々に増加させることで、長期保有を報酬とするデフレーション型のゴールドバックの暗号通貨です。 アンバサダープログラムはGODL内のコミュニティ主導のイニシアチブであり、プラットフォームの促進と成長への貢献を報酬とします。 これにより、GODLを中心に活気ある関与型コミュニティが育まれます。",
+    "button1": "PAXGを追加",
+    "button2": "GODLを追加",
+    "button3": "USDCを追加",
+    "linkSection1": {
+    "heading": "コミュニティ",
+    "link1": "Telegram",
+    "link2": "Discord",
+    "link3": "Twitter",
+    "link4": "YouTube"
+    },
+    "linkSection2": {
+    "heading": "ウォレット",
+    "link1": "Metamask",
+    "link2": "Trust Wallet",
+    "link3": "Wallet Connect"
+    },
+    "linkSection3": {
+    "heading": "クリプトリンク",
+    "link1": "PAXGを取得する",
+    "link2": "USDCを取得する",
+    "link3": "PAXGトークン契約",
+    "link4": "USDCトークン契約",
+    "link5": "GODLトークン契約"
+    },
+    "linkSection4": {
+    "heading": "ツールと情報",
+    "link1": "Dextoolでチャートを見る",
+    "link2": "Paxosのウェブサイト",
+    "link3": "Auriumホワイトペーパー",
+    "link4": "Coin Market Cap",
+    "link5": "Coin Gecko"
+    },
+    "copyrightText": "全著作権所有 - GODL Gold"
+    },
+    "homePage": {
+    "section1": {
+    "heading": "GODL Gold",
+    "subHeading": "ゴールドと成長が出会う場所",
+    "para1": "GODL Goldと一緒に、財産保管の未来に進んでください。",
+    "para2": "私たちはゴールドをデジタル時代のために再発明し、その価値を保存するだけでなく増やすことを保証しています。 ゴールドアンバサダーインフルエンスネットワークに参加することで、繁栄と成長を共に促進するアクティブなコミュニティの一部となります。",
+    "para3": "GAINerになり、ゴールドを単に保管するのではなく、成長する新しい資産管理の次元を体験してください！",
+    "button1Text": "今すぐ参加！",
+    "button1CTA": {
+    "popup_withoutWalletConnection": {
+    "heading": "GODLアンバサダーネットワークに参加する",
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "リファラーアドレスを入力してください",
+    "errorText": "ウォレットとの接続をお願いします"
+    },
+    "popup_withWalletConnected_alreadyJoined": {
+    "heading": "すでに参加しました！",
+    "para1": "おめでとうございます、GODL Goldネットワークに正常に参加しました！",
+    "para2": "新しいアンバサダーとして、ゴールドと成長が出会う繁栄のエコシステムの一部となりました。 一緒に意義ある旅を創造しましょう。",
+    "para3": "ようこそ！"
+    },
+    "popup_withWalletConnected_newUser": {
+    "heading": "GODLアンバサダーネットワークに参加する",
+    "popup_approve": {
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "リファラーアドレスを入力してください",
+    "tncButtonText": "利用規約に同意する",
+    "tncButtonCtaPopup": {
+    "heading": "利用規約",
+    "para1": "免責事項：GODL Goldプラットフォームは、「現状のまま」で、「利用可能な状態」で提供される分散型アプリケーション（DApp）であり、明示または黙示を問わず、いかなる種類の保証もありません。 私たちは最高のサービスとパフォーマンスを維持するために最善の努力をしていますが、完全なセキュリティ、信頼性、または正確性を保証することはできません。",
+    "para2": "ユーザーとして、ネットワーク内でのあなたの行動に対して単独で責任を負います。 当プラットフォームを適切に使用し、徹底したデューデリジェンスを行い、GODL Goldを含むすべての暗号通貨プラットフォームとの関与には固有のリスクがあることを忘れないでください。 このプラットフォームを使用することにより、これらのリスクを認識し、受け入れるものとします。"
+    },
+    "buttonApproveText": "PAXGを承認する",
+    "buttonApproveOnClickResponse": "トランザクションが開始され、ブロックチェーンで処理中です。ネットワークの混雑状況に応じて数分かかる場合があります。お待ちください！"
+    },
+    "popup_join": {
+    "description": "",
+    "buttonJoinText": "GODLに参加する",
+    "buttonJoinOnClickResponse": "参加中..."
+    },
+    "popup_join_success": {
+    "description": "",
+    "buttonJoinSuccessText": "参加が成功しました！",
+    "addTokenText": "接続されたウォレットにGODLを追加してください。"
+    }
+    }
+    },
+    "button2Text": "GODLを取引する",
+    "button3Text": "PAXGを購入する"
+    },
+    "section2": {
+    "stats1": "アンバサダー数",
+    "stats2": "総報酬額（PAXG）",
+    "stats3": "累積報酬額（PAXG）"
+    },
+    "section3": {
+    "heading": "デフレ設計",
+    "para1": "GODL Goldは、デフレーションの性質とゴールドでの償還価値で他とは一線を画しています。 時間とともにトークンの数が減少するにつれ、残りのトークンは基礎となるゴールド準備の大きなシェアと交換可能になります。 この設計により、保有資産の内在価値が絶えず成長することが保証されます。",
+    "para2": "GODLは、ゴールドを活用した資産拡大の革新的なアプローチを提供し、シンプルかつデジタルな形であなたの富を拡大します。"
+    },
+    "section4": {
+    "heading": "ゴールドバックの保証",
+    "para1": "GODLは、証明された価値を持つ具体的な資産であるゴールドにバックアップされています。 このゴールドとのリンクは、デジタル資産に堅固な価値基盤を提供するだけでなく、物理的なゴールドとの交換も可能にします。 これにより、急速に変化するデジタル金融空間において、前例のないセキュリティと流動性を提供します。"
+    },
+    "section5": {
+    "heading": "活気あるネットワーク",
+    "para1": "GODL Gold Ambassador Influencer Networkを通じて、価値創造と財産保全を共有するダイナミックなコミュニティの一員となります。 トークン保有者として、あなたの役割は単なる参加だけではありません。 あなたは関与と積極的な貢献に報いられる集合的なシステムに貢献し、財富の成長を共同の旅に変えます。"
+    }
+    },
+    "referralExplorerPage": {
+    "heading": "GODLリファラーエクスプローラー",
+    "para1": "好奇心は繁栄するコミュニティの基盤です。 それが、'GODLリファラーエクスプローラー'機能を含めた理由です。 インターネットの検索エンジンを使用するかのように、検索バーに任意のウォレットアドレスを入力するだけで、関連する詳細情報が表示されます。 アドレスが当社のネットワーク内に存在する場合、アンバサダーティアやリファラルなどの情報が表示されます。 さらに、直接Etherscanへのリンクを介して個々のトランザクションまでこれらのアドレスをナビゲートできる直感的なインターフェースも提供しています。",
+    "para2": "GODLネットワークエクスプローラーは、私たちが一緒に築いている活気あるエコシステムへの透明な窓です。",
+    "inputBoxPlaceholder": "ウォレットアドレスを入力してください",
+    "buttonText": "アドレスを検索",
+    "tableHeadings": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+    ],
+    "stats1": "リファラーアドレス",
+    "stats2": "自動ティア残高（PAXG）",
+    "stats3": "ティア",
+    "stats4": "リファラル数",
+    "stats5": "獲得報酬（PAXG）",
+    "stats6": "登録日時"
+    },
+    "myAccountPage": {
+    "section1": {
+    "heading": "友達を招待する",
+    "copyLinkText": "リファラルリンクをコピー",
+    "step1": {
+    "title": "招待リンクをコピー",
+    "description": "「友達を招待する」ボタンをクリックして、ユニークなリンクをクリップボードにコピーします。"
+    },
+    "step2": {
+    "title": "招待リンクを共有する",
+    "description": "リンクを使用することで、友達がウォレットアドレスを手動で入力する必要なくネットワークに参加できます。"
+    },
+    "step3": {
+    "title": "報酬を獲得する",
+    "description": "友達とその友達がネットワークに参加すると、報酬が得られます。 皆にとってWin-Winの関係です。"
+    }
+    },
+    "section2": {
+    "heading": "統計",
+    "stats1": "リファラーアドレス",
+    "stats2": "自動ティア残高（PAXG）",
+    "stats3": "ティア",
+    "stats4": "リファラル数",
+    "stats5": "獲得報酬（PAXG）",
+    "stats6": "登録日時"
+    },
+    "section3": {
+    "heading": "自動ティアアップ",
+    "para1": "GODL Goldには「自動ティアアップ」メカニズムが組み込まれており、ネットワーク内での成長ポテンシャルを最大化する革新的なツールです。 アンバサダープログラムからの報酬をただ保管するのではなく、自動的に次のティアに進むために使用されます。 これは単なる蓄積ではなく、進歩です。",
+    "para2": "報酬を上方へと無理なく変換することで、ネットワーク内でのランクを上げることができます。 自動ティアアップにより、GODLは単なる所有物にとどまらず、ネットワークを通じた旅に積極的に参加します。",
+    "para3": "現在の自動ティアアップモードは ${reInvestFlag}です",
+    "buttonText": "${!reInvestFlag}に切り替える",
+    "buttonOnClickResponse": "自動ティアアップの進行中..."
+    },
+    "section4": {
+    "heading": "ティアアップ",
+    "para1": "GODL Goldネットワークでは、成長はティアを上がることと同義です。 「ティアアップ」機能は、アンバサダーが自らの地位を積極的に前進させることを可能にするために設計されています。 より高いティアを購入することで、自身の報酬ポテンシャルを向上させるだけでなく、全体的なネットワークの強さに貢献します。 ティア1からティア5への上昇の各段階は、GODLネットワークのフルポテンシャルの実現に一歩近づくものです。",
+    "para2": "さらに、ネットワーク内での影響力を高め、成功において重要な貢献者となります。 「ティアアップ」では単なる参加者ではなく、GODL Goldネットワークでの旅路を自ら主導することができます。",
+    "buttonText": "ティアアップ",
+    "buttonCtaPopup": {
+    "heading": "ティアアップ",
+    "popup_approve": {
+    "buttonApproveText": "承認テキスト",
+    "notSelectTier_errorText": "パッケージティアを選択してください",
+    "buttonApproveOnClickResponse": "承認中..."
+    },
+    "popup_tierUp": {
+    "buttonTierUpText": "ティアアップ",
+    "approvalSuccessText": "承認に成功しました！ 上記をクリックしてティアアップしてください。",
+    "buttonTierUpOnClickResponse": "トランザクションが開始され、ブロックチェーンで処理中です。ネットワークの混雑状況に応じて数分かかる場合があります。お待ちください！"
+    },
+    "popup_tierUp_success": {
+    "buttonTierUpSuccessText": "ティアの更新に成功しました",
+    "addTokenText": "接続されたウォレットにGODLを追加してください。"
+    }
+    },
+    "section5": {
+    "heading": "ウォレットアドレスの変更",
+    "para1": "暗号通貨のデジタル世界では、ウォレットアドレスがあなたのアイデンティティです。 しかし、何か問題が発生した場合はどうでしょうか？ アカウントのウォレットアドレスを変更する必要があるかもしれません。 それを簡単に行うことができます。",
+    "para2": "「ウォレットアドレスの変更」機能は、暗号通貨の世界に初めて触れる方々でも簡単に使用できるように設計されています。 新しい住所に引っ越す際に物理的な住所を変更するように、この機能を使用するとGODL Goldネットワーク内のデジタルアドレスを更新できます。 新しいウォレットアドレスを入力し、変更を確認するだけの簡単な手順です。 これにより、ネットワーク内でのアイデンティティをコントロールし、報酬や特典が正しい場所に届くことを確保できます。",
+    "buttonText": "ウォレットアドレス",
+    "buttonCtaPopup": {
+    "heading": "ウォレットアドレスの変更",
+    "para1": "ウォレットアドレス、GODL Goldネットワークにおける重要な識別子を更新しようとしています。 変更を確認してください。 クイックかつ安全なステップで、暗号通貨のアイデンティティを管理できます。",
+    "inputBoxPlaceholder": "新しいウォレットアドレスを入力してください",
+    "buttonAddNewAddressText": "新しいアドレスを追加",
+    "buttonAddNewAddressOnClickResponse": "新しいウォレットアドレスの追加中..."
+    }
+    }
+    }
+    },
+    "tradeGodlPage": {
+    "section1": {
+    "heading": "GODLの取得",
+    "subHeading": "デジタルゴールドの潜在能力を解き放つ",
+    "para1": "GODLの世界に進出しましょう。 PAXGまたはUSDCを使用して直接GODLを取得できます。",
+    "para2": "PAXG保有者には、使いやすいAuriumインターフェースを使用して、PAXを使用してGODLを作成できます。",
+    "para3": "USDCを使用したい場合は、問題ありません。 スムーズな取得プロセスのために、パートナーデセントラル化取引所をご利用ください。",
+    "button1": {
+    "buttonText": "PAXGで作成",
+    "buttonCta_popup": {
+    "heading": "PAXGでGODLを作成",
+    "popup_previewConversion": {
+    "description": "PAXGトークンを使用して新しいGODLを作成するプロセスを開始しています。 このアクションにより、GODLトークンにゴールドの内在価値がリンクされ、デジタルの富が成長します。 GODLを作成するために確認してください！",
+    "inputBoxPlaceholder": "GODLを作成するためのPAXGの量を入力してください",
+    "buttonText": "変換をプレビュー"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "PAXGを承認",
+    "buttonApproveOnClickResponse": "トランザクションが開始され、ブロックチェーンで処理中です。ネットワークの混雑状況に応じて数分かかる場合があります。お待ちください！"
+    },
+    "popup_mint": {
+    "description": "",
+    "buttonMintText": "GODLを作成",
+    "buttonMintOnClickResponse": "作成中..."
+    },
+    "popup_mint_success": {
+    "buttonMintSuccessfulText": "作成に成功しました",
+    "addTokenText": "接続されたウォレットにGODLを追加してください。"
+    }
+    }
+    },
+    "button2Text": "USDCで購入する"
+    },
+    "section2": {
+    "heading": "GODLを売却",
+    "subHeading": "GODLをPAXGまたはUSDCに変換する",
+    "para1": "必要に応じて、GODLの保有をPAXGまたはUSDCに簡単に変換できます。",
+    "para2": "Auriumインターフェースを使用すると、PAXG保有者は簡単にGODLを燃やし、その代わりにPAXGを受け取ることができます。",
+    "para3": "GODLをUSDCに交換したい場合は、心配しないでください。 スムーズなトランザクションのために、パートナーデセントラル化取引所をご利用いただけます。",
+    "button1": {
+    "buttonText": "PAXGに燃やす",
+    "buttonCta_popup": {
+    "heading": "PAXGにGODLを燃やす",
+    "popup_previewConversion": {
+    "description": "GODLをPAXGに変換しようとしています。 変換レートを確認し、スワップを実行する準備が整っていることを確認してください。 確認後、トランザクションが処理されます。",
+    "inputBoxPlaceholder": "PAXGを取得するためのGODLの量を入力してください",
+    "buttonText": "変換をプレビュー"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "GODLを承認",
+    "buttonApproveOnClickResponse": "トランザクションが開始され、ブロックチェーンで処理中です。ネットワークの混雑状況に応じて数分かかる場合があります。お待ちください！"
+    },
+    "popup_burn": {
+    "description": "",
+    "buttonMintText": "GODLを燃やす",
+    "buttonMintOnClickResponse": "燃焼中..."
+    },
+    "popup_burn_success": {
+    "buttonMintSuccessfulText": "売却に成功しました",
+    "addTokenText": "接続されたウォレットにPAXGを追加してください。"
+    }
+    }
+    },
+    "button2Text": "USDCと交換する"
+    }
+    }
+    }
+    
+    

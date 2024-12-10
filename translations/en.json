@@ -1,0 +1,275 @@
+{
+  "topStrip": {
+    "price1": "1 PAXG : xxx USDC",
+    "price2": "1 GODL : xxx USDC",
+    "price3": "1 GODL : xxx PAXG"
+  },
+  "navbar": {
+    "link1": "Home",
+    "link2": "Referral Explorer",
+    "link3": "My Account",
+    "link3OnHover": "You have not yet joined the GODL Network",
+    "link4": "Trade GODL",
+    "link5": "Admin",
+    "connectWalletButton": "Connect Wallet"
+  },
+  "footer": {
+    "heading": "GODL Gold Ambassador Influence Network",
+    "para1": "GODL Gold is a deflationary, gold-backed cryptocurrency that rewards long-term holding by gradually increasing the underlying gold value of each token. The Ambassador Program is a community-driven initiative within GODL, rewarding participants for promoting the platform and contributing to its growth. This fosters a vibrant and engaged community around GODL.",
+    "button1": "Add PAXG",
+    "button2": "Add GODL",
+    "button3": "Add USDC",
+    "linkSection1": {
+      "heading": "Community",
+      "link1": "Telegram",
+      "link2": "Discord",
+      "link3": "Twitter",
+      "link4": "YouTube"
+    },
+    "linkSection2": {
+      "heading": "Wallets",
+      "link1": "Metamask",
+      "link2": "Trust Wallet",
+      "link3": "Wallet Connect"
+    },
+    "linkSection3": {
+      "heading": "Crypto Links",
+      "link1": "Get PAXG",
+      "link2": "Get USDC",
+      "link3": "PAXG Token Contract",
+      "link4": "USDC Token Contract",
+      "link5": "GODL Token Contract"
+    },
+    "linkSection4": {
+      "heading": "Tools & Info",
+      "link1": "See Charts on Dextool",
+      "link2": "Paxos Website",
+      "link3": "Aurium Whitepaper",
+      "link4": "Coin Market Cap",
+      "link5": "Coin Gecko"
+    },
+    "copyrightText": "All Rights Reserved - GODL Gold"
+  },
+  "homePage": {
+    "section1": { 
+      "heading": "GODL Gold",
+      "subHeading": "WHERE GOLD MEETS GROWTH",
+      "para1": "Step into the future of wealth storage with GODL Gold.",
+      "para2": "We've reinvented gold for the digital era, ensuring it not only preserves but also multiplies its worth. By joining our Gold Ambassador Influence Network, you are part of an active community collectively fostering prosperity and growth.",
+      "para3": "Become a GAINer and experience a new dimension of wealth management where gold isn’t merely stored - it thrives!",
+      "button1Text": "Join Now!",
+      "button1CTA": {
+        "popup_withoutWalletConnection": {
+          "heading": "Join GODL Ambassador Network",
+          "description": "",
+          "referrerAddressInputBoxPlaceholder": "Enter referrer address",
+          "errorText": "Kindly connect with your wallet"
+        },
+        "popup_withWalletConnected_alreadyJoined": {
+          "heading": "Already Joined!",
+          "para1": "Congratulations, you've successfully joined the GODL Gold Network!",
+          "para2": "As a new ambassador, you're now part of a thriving ecosystem, where gold meets growth. Let's create an impactful journey together.",
+          "para3": "Welcome aboard!"
+        },
+        "popup_withWalletConnected_newUser": {
+          "heading": "Join GODL Ambassador Network",
+          "popup_approve": {
+            "description": "",
+            "referrerAddressInputBoxPlaceholder": "Enter referrer address",
+            "tncButtonText": "Accept our Terms & Conditions",
+            "tncButtonCtaPopup": {
+              "heading": "Terms and Conditions",
+              "para1": "Disclaimer: The GODL Gold platform is a decentralized application (DApp) provided on an 'as is' and 'as available' basis, with no express or implied warranties of any kind. We strive to maintain the highest possible standards of service and performance, but we cannot guarantee complete security, reliability, or accuracy.",
+              "para2": "As a user, you bear the sole responsibility for your actions within the network. Please use our platform responsibly, conduct thorough due diligence, and remember that engagement with any cryptocurrency platform, including GODL Gold, carries inherent risks. By using this platform, you acknowledge and accept these risks."
+            },
+            "buttonApproveText": "Approve PAXG",
+            "buttonApproveOnClickResponse": "Your transaction has been initiated and is now being processed on the blockchain. It might take a few minutes depending on the network congestion. Hold tight!"
+          },
+          "popup_join": {
+            "description": "",
+            "buttonJoinText": "Join GODL",
+            "buttonJoinOnClickResponse": "Join under progress..."
+          },
+          "popup_join_success": {
+            "description": "",
+            "buttonJoinSuccessText": "Successfully Joined!",
+            "addTokenText": "Add GODL to connected wallet."
+          }
+        }
+      },
+      "button2Text": "Trade GODL",
+      "button3Text": "Buy PAXG"
+    },
+    "section2": {
+      "stats1": "Ambassadors",
+      "stats2": "Total Rewards Generated ",
+      "stats3": "Total Rewards Accumulated "
+    },
+    "section3": {
+      "heading": "Deflationary By Design",
+      "para1": "GODL Gold sets itself apart with its deflationary nature and redeemable value in gold. As the number of tokens diminishes over time, each remaining token becomes redeemable for a larger share of the underlying gold reserve. This design ensures the intrinsic value of your holdings grows continually.",
+      "para2": "GODL offers an innovative approach to expand your wealth in gold, making it simple and digital."
+    },
+    "section4": {
+      "heading": "Gold-Backed Assurance",
+      "para1": "GODL is backed by a tangible asset with proven value - Gold. This linkage to gold not only provides a solid value base for your digital assets but also lets you redeem them for physical gold. This gives you unparalleled security and liquidity in the rapidly evolving digital finance space."
+    },
+    "section5": {
+      "heading": "A Thriving Network",
+      "para1": "Through the GODL Gold Ambassador Influencer Network, you become a part of a dynamic community focused on the shared goal of value creation and wealth preservation. As a token holder, your role extends beyond mere participation. You contribute to, and benefit from, a collective system that rewards engagement and active contribution, turning wealth growth into a communal journey."
+    }
+  },
+  "referralExplorerPage": {
+    "heading": "GODL Referral Explorer",
+    "para1": "Curiosity is the cornerstone of a thriving community. That's why we've included the 'GODL Referral Explorer' feature. Just as you might use an internet search engine, you can enter any wallet address into the search bar to pull up the related details. If the address exists within our network, you'll see information like their Ambassador tier and referrals. Not just that, our intuitive interface lets you navigate these addresses right down to their individual transactions via a direct link to Etherscan.",
+    "para2": "The GODL Network Explorer is your transparent window into the vibrant ecosystem we're building together.",
+    "inputBoxPlaceholder": "Enter wallet address",
+    "buttonText": "Search Address",
+    "tableHeadings": ["L1", "L2", "L3", "L4", "L5"],
+    "stats1": "Referrer Address",
+    "stats2": "Pending Rewards",
+    "stats3": "Tier",
+    "stats4": "Referral Count",
+    "stats5": "Rewards Earned",
+    "stats6": "Registered Since"
+  },
+  "myAccountPage": {
+    "section1": {
+      "heading": "Invite Friends",
+      "copyLinkText": "COPY YOUR REFERRAL LINK",
+      "step1": {
+        "title": "Copy Invite Link",
+        "description": "Click on the 'Invite Friends' button to copy your unique link to your clipboard."
+      },
+      "step2": {
+        "title": "Share Invite Link",
+        "description": "The link makes it easy for friends to join the network without needing to manually input your wallet address."
+      },
+      "step3": {
+        "title": "Earn Rewards",
+        "description": "When your friends and their friends join the network, you earn rewards. It's a win-win for everyone."
+      }
+    },
+    "section2": {
+      "heading": "Stastics",
+      "stats1": "Referrer Address",
+      "stats2": "Auto Tier Balance ",
+      "stats3": "Tier",
+      "stats4": "Referral Count",
+      "stats5": "Rewards Earned ",
+      "stats6": "Registered Since"
+    },
+    "section3": {
+      "heading": "Auto Tier Up",
+      "para1": "GODL Gold incorporates an 'Auto-Tier Up' mechanism, an innovative tool that amplifies your growth potential in the network. Rather than letting your rewards from the Ambassador Program remain idle, they are automatically used to push you towards the next tier. This is not merely accumulation but progression.",
+      "para2": "By seamlessly translating your rewards into upward movement, you can climb the network's ranks. With Auto-Tier Up, your GODL is more than just a possession; it's an active participant in your journey through the network.",
+      "para3": "Currently your auto tier-up mode is ${reInvestFlag}",
+      "buttonText": "Turn ${!reInvestFlag}",
+      "buttonOnClickResponse": "Auto Tier-Up under progress..."
+    },
+    "section4": {
+      "heading": "Tier Up",
+      "para1": "In the GODL Gold network, growth is synonymous with rising through the tiers. The 'Tier Up' feature is designed to enable Ambassadors to actively advance their standing. By purchasing a higher tier, you not only increase your own reward potential but also contribute to the overall network strength. Each step upwards, from Tier 1 to Tier 5, brings you closer to realizing the full potential of the GODL network.",
+      "para2": "What's more, it amplifies your influence within the network, making you a pivotal contributor to its success. With 'Tier Up', you don't just participate, you take charge of your journey in the GODL Gold network",
+      "buttonText": "Tier Up",
+      "buttonCtaPopup": {
+        "heading": "Tier Up",
+        "popup_approve": {
+          "buttonApproveText": "Approve Text",
+          "notSelectTier_errorText": "Kindly select a package tier",
+          "buttonApproveOnClickResponse": "Approval under progress..."
+        },
+        "popup_tierUp": {
+          "buttonTierUpText": "Tier Up",
+          "approvalSuccessText": "Approval successful! Click above to Tier Up.",
+          "buttonTierUpOnClickResponse": "Your transaction has been initiated and is now being processed on the blockchain. It might take a few minutes depending on the network congestion. Hold tight!"
+        },
+        "popup_tierUp_success": {
+          "buttonTierUpSuccessText": "Successfully Updated Tier",
+          "addTokenText": "Add GODL to connected wallet."
+        }
+      },
+      "section5": {
+        "heading": "Change Wallet Address",
+        "para1": "In the digital world of cryptocurrencies, your wallet address is your identity. But what if something happens? You may need to change your account’s wallet address. We make that easy.",
+        "para2": "Our 'Change Wallet Address' feature is designed to be simple, even for those who are new to the crypto space. Just as you might change your physical address when moving to a new home, this feature allows you to update your digital address in the GODL Gold network. It's as simple as inputting your new wallet address and confirming the change. This way, you maintain control over your identity in the network, ensuring that all your rewards and benefits go to the right place.",
+        "buttonText": "Wallet Address",
+        "buttonCtaPopup": {
+          "heading": "Change Wallet Address",
+          "para1": "You're about to update your wallet address, a key identifier in the GODL Gold network. By doing so, you ensure that all rewards and benefits remain properly linked to your new address. Remember to confirm the change. It's a quick and secure step to manage your crypto identity.",
+          "inputBoxPlaceholder": "Enter new wallet address",
+          "buttonAddNewAddressText": "Add New Address",
+          "buttonAddNewAddressOnClickResponse": "Adding new wallet address..."
+        }
+      }
+    }
+  },
+  "tradeGodlPage": {
+    "section1": {
+      "heading": "Acquire GODL",
+      "subHeading": "UNLOCK THE POTENTIAL OF DIGITAL GOLD",
+      "para1": "Make your move into the world of GODL. Acquire GODL directly, using either PAXG or USDC.",
+      "para2": "For PAXG holders, the user-friendly Aurium interface allows you to mint GODL using your PAXG",
+      "para3": "Prefer using USDC? No problem. Visit our partner decentralized exchange for a smooth acquisition process.",
+      "button1": {
+        "buttonText": "Mint with PAXG",
+        "buttonCta_popup": {
+          "heading": "Mint GODL with PAXG",
+          "popup_previewConversion": {
+            "description": "You're initiating the process to create a new GODL using your PAXG tokens. This action links the intrinsic value of gold to your GODL tokens, enabling your digital wealth to grow. Just confirm to mint your GODL!",
+            "inputBoxPlaceholder": "Enter the amount of PAXG to mint GODL",
+            "buttonText": "Preview Conversion"
+          },
+          "popup_approve": {
+            "description": "",
+            "buttonApproveText": "Approve PAXG",
+            "buttonApproveOnClickResponse": "Your transaction has been initiated and is now being processed on the blockchain. It might take a few minutes depending on the network congestion. Hold tight!"
+          },
+          "popup_mint": {
+            "description": "",
+            "buttonMintText": "Mint GODL",
+            "buttonMintOnClickResponse": "Minting in progress..."
+          },
+          "popup_mint_success": {
+            "buttonMintSuccessfulText": "Minted Successfully",
+            "addTokenText": "Add GODL to connected wallet."
+          }
+        }
+      },
+      "button2Text": "Buy with USDC"
+    },
+    "section2": {
+      "heading": "Liquidate GODL",
+      "subHeading": "TURN YOUR GODL INTO PAXG OR USDC",
+      "para1": "Whenever you feel the need, you can easily liquidate your GODL holdings for either PAXG or USDC.",
+      "para2": "With the Aurium interface, PAXG holders can conveniently burn their GODL, receiving PAXG in return.",
+      "para3": "If you're looking to exchange your GODL for USDC, we’ve got you covered. Simply visit our partner decentralized exchange for a swift transaction.",
+      "button1": {
+        "buttonText": "Burn For PAXG",
+        "buttonCta_popup": {
+          "heading": "Burn GODL For PAXG",
+          "popup_previewConversion": {
+            "description": "You're about to convert your GODL into PAXG. Ensure you've checked the conversion rates and are prepared to execute the swap. Once confirmed, the transaction will be processed.",
+            "inputBoxPlaceholder": "Enter the amount of GODL to get PAXG",
+            "buttonText": "Preview Conversion"
+          },
+          "popup_approve": {
+            "description": "",
+            "buttonApproveText": "Approve GODL",
+            "buttonApproveOnClickResponse": "Your transaction has been initiated and is now being processed on the blockchain. It might take a few minutes depending on the network congestion. Hold tight!"
+          },
+          "popup_burn": {
+            "description": "",
+            "buttonMintText": "Mint GODL",
+            "buttonMintOnClickResponse": "Minting in progress..."
+          },
+          "popup_burn_success": {
+            "buttonMintSuccessfulText": "Sold Successfully",
+            "addTokenText": "Add PAXG to connected wallet."
+          }
+        }
+      },
+      "button2Text": "Sell for USDC"
+    }
+  }
+}

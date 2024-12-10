@@ -1,0 +1,246 @@
+.main-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1250px;
+  margin: 75px auto;
+}
+
+.home-text {
+  max-width: 50%;
+}
+
+.react-player{
+  max-width: 1300px;
+  margin: auto auto 75px;
+  border-radius: 4px;
+  width: 100%!important;
+  height: 600px!important;
+}
+
+.home-img {
+  height: 500px;
+  width: 500px;
+}
+
+.home-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 66px;
+  padding: 15px 0 5px;
+  color: #ecc51f;
+}
+
+.home-subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 39px;
+  padding-bottom: 18px;
+  color: #f8f7f3;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+
+.home-desc {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #f8f7f3;
+  width: 525px;
+}
+
+.home-cta {
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.start-btn {
+  background: linear-gradient(90deg, #fbdb5d 0%, #e8bc00 79.97%);
+  border-radius: 6px;
+  padding: 15px 20px;
+  color: #1d1d1f;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.start-btn-gray {
+  background-color: gray;
+  border-radius: 6px;
+  border: none;
+  text-align: center;
+  padding: 10px 20px;
+  color: #fff;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 22px;
+  border: none;
+  cursor: not-allowed;
+  opacity: 0.65;
+}
+
+.join-btn {
+  border-radius: 6px;
+  color: #ecc51f;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  padding: 15px 20px;
+  background: transparent;
+  border: 1px solid #fbdb5d;
+  margin-left: 26px;
+  cursor: pointer;
+}
+
+.join-btn-gray {
+  border-radius: 6px;
+  color: gray;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  padding: 15px 20px;
+  background: transparent;
+  border: 1px solid gray;
+  margin-left: 26px;
+  cursor: not-allowed;
+
+}
+
+.countup {
+  display: flex;
+  align-items: center;
+  margin-top: 35px;
+}
+
+.count-desc {
+  color: #ecc51f;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  padding-top: 12px;
+  text-align: center;
+}
+
+.count {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 44px;
+  color: #f8f7f3;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.add-metamask a {
+  color: #ecc51f;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 15px auto;
+  text-decoration: underline;
+}
+.disclaimer-head{
+  color: #ecc51f;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 15px 0;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.check-disclaimer{
+  cursor: pointer;
+}
+@media (min-width:1000px) and (max-width:1250px) {
+  .main-page {
+    width: 90%;
+  }
+
+  .count {
+    margin-right: 10px;
+  }
+  .count-desc{
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width:960px) {
+  .main-page {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .react-player{
+
+    width: 85%!important;
+    height: 250px!important;
+  }
+  .count {
+    margin-right: 20px;
+    font-size: 32px;
+  }
+
+  .home-text {
+    max-width: 100%;
+  }
+
+  .home-img {
+    /* margin-top: 75px; */
+    width: 300px;
+    height: 300px;
+  }
+
+  .home-desc {
+    width: 300px;
+  }
+
+  .count {
+    margin-right: 10px;
+    text-align: center;
+  }
+
+  .count-desc {
+    font-size: 10px;
+  }
+
+  .home-title {
+    font-size: 28px;
+    line-height: 36px;
+  }
+
+  .home-subtitle {
+    font-size: 26px;
+    padding-bottom: 15px;
+  }
+
+  .home-desc {
+    font-size: 14px;
+  }
+
+  .join-btn,
+  .start-btn {
+    width: 100px;
+    font-size: 12px;
+    padding: 15px 5px;
+  }
+}

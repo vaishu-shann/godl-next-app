@@ -1,0 +1,263 @@
+{
+  "topStrip": {
+    "price1": "1 PAXG : xxx USDC",
+    "price2": "1 GODL : xxx USDC",
+    "price3": "1 GODL : xxx PAXG"
+  },
+  "navbar": {
+    "link1": "Inicio",
+    "link2": "Explorador de Referencias",
+    "link3": "Mi Cuenta",
+    "link3OnHover": "Aún no te has unido a la Red GODL",
+    "link4": "Comercia GODL",
+    "link5": "Admin",
+    "connectWalletButton": "Conectar Cartera"
+  },
+  "footer": {
+    "heading": "Red de Influencia del Embajador de Oro GODL",
+    "para1": "GODL Gold es una criptomoneda respaldada por oro y deflacionaria que recompensa la tenencia a largo plazo al aumentar gradualmente el valor en oro subyacente de cada token. El Programa de Embajadores es una iniciativa impulsada por la comunidad dentro de GODL, que recompensa a los participantes por promover la plataforma y contribuir a su crecimiento. Esto fomenta una comunidad vibrante y comprometida en torno a GODL.",
+    "button1": "Añadir PAXG",
+    "button2": "Añadir GODL",
+    "button3": "Añadir USDC",
+    "linkSection1": {
+      "heading": "Comunidad",
+      "link1": "Telegram",
+      "link2": "Discord",
+      "link3": "Twitter",
+      "link4": "YouTube"
+    },
+    "linkSection2": {
+      "heading": "Carteras",
+      "link1": "Metamask",
+      "link2": "Trust Wallet",
+      "link3": "Wallet Connect"
+    },
+    "linkSection3": {
+      "heading": "Enlaces de Cripto",
+      "link1": "Obtener PAXG",
+      "link2": "Obtener USDC",
+      "link3": "Contrato de Token PAXG",
+      "link4": "Contrato de Token USDC",
+      "link5": "Contrato de Token GODL"
+    },
+    "linkSection4": {
+      "heading": "Herramientas e Información",
+      "link1": "Ver Gráficos en Dextool",
+      "link2": "Sitio Web de Paxos",
+      "link3": "Whitepaper de Aurium",
+      "link4": "Coin Market Cap",
+      "link5": "Coin Gecko"
+    },
+    "copyrightText": "Todos los Derechos Reservados - GODL Gold"
+  },
+  "homePage": {
+    "section1": {
+      "heading": "GODL Gold",
+      "subHeading": "DONDE EL ORO ENCUENTRA EL CRECIMIENTO",
+      "para1": "Entra en el futuro del almacenamiento de la riqueza con GODL Gold.",
+      "para2": "Hemos reinventado el oro para la era digital, asegurándonos de que no solo preserve sino que también multiplique su valor. Al unirte a nuestra Red de Influencia del Embajador de Oro, formas parte de una comunidad activa que fomenta colectivamente la prosperidad y el crecimiento.",
+      "para3": "Conviértete en un GAINer y experimenta una nueva dimensión de la gestión de la riqueza donde el oro no se almacena simplemente - ¡prospera!",
+      "button1Text": "¡Unirse ahora!",
+      "button1CTA": {
+        "popup_withoutWalletConnection": {
+          "heading": "Unirse a la Red de Embajadores GODL",
+          "description": "",
+          "referrerAddressInputBoxPlaceholder": "Introducir dirección de referencia",
+          "errorText": "Por favor, conecte con su cartera"
+        },
+        "popup_withWalletConnected_alreadyJoined": {
+          "heading": "¡Ya te has unido!",
+          "para1": "¡Felicidades, has ingresado exitosamente a la Red de Oro GODL!",
+          "para2": "Como nuevo embajador, ahora eres parte de un ecosistema próspero, donde el oro se encuentra con el crecimiento. Vamos a crear un viaje impactante juntos.",
+          "para3": "¡Bienvenido a bordo!"
+        },
+        "popup_withWalletConnected_newUser": {
+          "heading": "Unirse a la Red de Embajadores GODL",
+          "popup_approve": {
+            "description": "",
+            "referrerAddressInputBoxPlaceholder": "Introducir dirección de referencia",
+            "tncButtonText": "Aceptar nuestros Términos y Condiciones",
+            "tncButtonCtaPopup": {
+              "heading": "Términos y Condiciones",
+              "para1": "Descargo de responsabilidad: La plataforma GODL Gold es una aplicación descentralizada (DApp) proporcionada 'tal cual' y 'según disponibilidad', sin garantías expresas o implícitas de ningún tipo. Nos esforzamos por mantener los más altos estándares posibles de servicio y rendimiento, pero no podemos garantizar la seguridad, fiabilidad o precisión completas.",
+              "para2": "Como usuario, usted es el único responsable de sus acciones dentro de la red. Por favor, use nuestra plataforma de manera responsable, realice una debida diligencia exhaustiva y recuerde que el compromiso con cualquier plataforma de criptomonedas, incluyendo GODL Gold, conlleva riesgos inherentes. Al usar esta plataforma, usted reconoce y acepta estos riesgos."
+            },
+            "buttonApproveText": "Aprobar PAXG",
+            "buttonApproveOnClickResponse": "Tu transacción ha sido iniciada y ahora está siendo procesada en la blockchain. Podría tardar unos minutos dependiendo de la congestión de la red. ¡Aguanta!"
+          },
+          "popup_join": {
+            "description": "",
+            "buttonJoinText": "Unirse a GODL",
+            "buttonJoinOnClickResponse": "Unirse en progreso..."
+          },
+          "popup_join_success": {
+            "description": "",
+            "buttonJoinSuccessText": "¡Te has unido con éxito!",
+            "addTokenText": "Añadir GODL a la cartera conectada."
+          }
+        }
+      },
+      "button2Text": "Comerciar GODL",
+      "button3Text": "Comprar PAXG"
+    },
+    "section2": {
+      "stats1": "Embajadores",
+      "stats2": "Total de Recompensas Generadas ",
+      "stats3": "Total de Recompensas Acumuladas "
+    },
+    "section3": {
+      "heading": "Deflacionario por Diseño",
+      "para1": "GODL Gold se distingue por su naturaleza deflacionaria y su valor canjeable en oro. A medida que el número de tokens disminuye con el tiempo, cada token restante se puede canjear por una mayor parte de la reserva de oro subyacente. Este diseño asegura que el valor intrínseco de tus tenencias crece continuamente.",
+      "para2": "GODL ofrece un enfoque innovador para expandir tu riqueza en oro, haciéndolo simple y digital."
+    },
+    "section4": {
+      "heading": "Seguro respaldado por Oro",
+      "para1": "GODL está respaldado por un activo tangible con valor probado - Oro. Esta vinculación con el oro no sólo proporciona una sólida base de valor para tus activos digitales, sino que también te permite canjearlos por oro físico. Esto te da una seguridad y liquidez inigualables en el espacio financiero digital en rápida evolución."
+    },
+    "section5": {
+      "heading": "Una Red en Crecimiento",
+      "para1": "A través de la Red de Influencia de Embajadores de Oro GODL, te conviertes en parte de una comunidad dinámica enfocada en el objetivo compartido de creación de valor y preservación de la riqueza. Como titular de tokens, tu papel se extiende más allá de la simple participación. Contribuyes a, y te beneficias de, un sistema colectivo que recompensa la participación y la contribución activa, convirtiendo el crecimiento de la riqueza en un viaje comunitario."
+    }
+  },
+  "referralExplorerPage": {
+    "heading": "Explorador de Referencias GODL",
+    "para1": "La curiosidad es la piedra angular de una comunidad próspera. Por eso hemos incluido la función 'Explorador de Referencias GODL'. Al igual que podrías usar un motor de búsqueda en internet, puedes introducir cualquier dirección de cartera en la barra de búsqueda para obtener los detalles relacionados. Si la dirección existe dentro de nuestra red, verás información como su nivel de Embajador y referencias. No sólo eso, nuestra interfaz intuitiva te permite navegar estas direcciones hasta sus transacciones individuales a través de un enlace directo a Etherscan.",
+    "para2": "El Explorador de la Red GODL es tu ventana transparente al vibrante ecosistema que estamos construyendo juntos.",
+    "inputBoxPlaceholder": "Introduce la dirección de la cartera",
+    "buttonText": "Buscar dirección",
+    "tableHeadings": ["L1", "L2", "L3", "L4", "L5"],
+    "stats1": "Dirección de Referrers",
+    "stats2": "Balance Automático de Niveles ",
+    "stats3": "Nivel",
+    "stats4": "Cuenta de Referencia",
+    "stats5": "Recompensas Ganadas ",
+    "stats6": "Registrado desde"
+  },
+  "myAccountPage": {
+    "section1": {
+      "heading": "Invita a amigos",
+      "description": "Cuando tus amigos y sus amigos se unen a la red, tú ganas recompensas. Es una situación beneficiosa para todos."
+    },
+    "section2": {
+      "heading": "Estadísticas",
+      "stats1": "Dirección del Referente",
+      "stats2": "Balance Automático de Niveles ",
+      "stats3": "Nivel",
+      "stats4": "Cuenta de Referencia",
+      "stats5": "Recompensas Ganadas ",
+      "stats6": "Registrado desde"
+    },
+    "section3": {
+      "heading": "Subir de Nivel Automáticamente",
+      "para1": "GODL Gold incorpora un mecanismo de 'Subida Automática de Nivel', una herramienta innovadora que amplifica tu potencial de crecimiento en la red. En lugar de dejar que tus recompensas del Programa Embajador permanezcan inactivas, se utilizan automáticamente para impulsarte hacia el siguiente nivel. Esto no es simplemente acumulación sino progresión.",
+      "para2": "Al traducir sin problemas tus recompensas en movimiento ascendente, puedes escalar los rangos de la red. Con Subida Automática de Nivel, tu GODL es más que una posesión; es un participante activo en tu viaje a través de la red.",
+      "para3": "Actualmente tu modo de subida automática de nivel es ${reInvestFlag}",
+      "buttonText": "Cambiar a ${!reInvestFlag}",
+      "buttonOnClickResponse": "Subida Automática de Nivel en progreso..."
+    },
+    "section4": {
+      "heading": "Subir de Nivel",
+      "para1": "En la red GODL Gold, crecer es sinónimo de ascender en los niveles. La función 'Subir de Nivel' está diseñada para permitir a los Embajadores avanzar activamente en su posición. Al comprar un nivel superior, no sólo aumentas tu propio potencial de recompensa sino que también contribuyes a la fortaleza general de la red. Cada paso hacia arriba, desde el Nivel 1 al Nivel 5, te acerca a realizar el potencial completo de la red GODL.",
+      "para2": "Además, amplifica tu influencia dentro de la red, convirtiéndote en un contribuyente esencial para su éxito. Con 'Subir de Nivel', no sólo participas, sino que tomas el control de tu viaje en la red GODL Gold",
+      "buttonText": "Subir de Nivel",
+      "buttonCtaPopup": {
+        "heading": "Subir de Nivel",
+        "popup_approve": {
+          "buttonApproveText": "Aprobar Texto",
+          "notSelectTier_errorText": "Por favor, selecciona un paquete de nivel",
+          "buttonApproveOnClickResponse": "Aprobación en progreso..."
+        },
+        "popup_tierUp": {
+          "buttonTierUpText": "Subir de Nivel",
+          "approvalSuccessText": "¡Aprobación exitosa! Haz clic arriba para subir de nivel.",
+          "buttonTierUpOnClickResponse": "Tu transacción ha sido iniciada y ahora se está procesando en la blockchain. Puede tomar unos minutos dependiendo de la congestión de la red. ¡Paciencia!"
+        },
+        "popup_tierUp_success": {
+          "buttonTierUpSuccessText": "Nivel Actualizado con Éxito",
+          "addTokenText": "Agregar GODL a la cartera conectada."
+        }
+      },
+      "section5": {
+        "heading": "Cambiar la Dirección de la Cartera",
+        "para1": "En el mundo digital de las criptomonedas, tu dirección de cartera es tu identidad. Pero ¿qué pasa si algo sucede? Puede que necesites cambiar la dirección de la cartera de tu cuenta. Nosotros lo hacemos fácil.",
+        "para2": "Nuestra función 'Cambiar Dirección de la Cartera' está diseñada para ser simple, incluso para aquellos que son nuevos en el espacio cripto. Al igual que podrías cambiar tu dirección física al mudarte a una nueva casa, esta función te permite actualizar tu dirección digital en la red GODL Gold. Es tan simple como ingresar tu nueva dirección de cartera y confirmar el cambio. De esta manera, mantienes el control sobre tu identidad en la red, asegurando que todas tus recompensas y beneficios vayan al lugar correcto.",
+        "buttonText": "Dirección de la Cartera",
+        "buttonCtaPopup": {
+          "heading": "Cambiar la Dirección de la Cartera",
+          "para1": "Estás a punto de actualizar tu dirección de cartera, un identificador clave en la red GODL Gold. Al hacerlo, aseguras que todas las recompensas y beneficios permanezcan correctamente vinculados a tu nueva dirección. Recuerda confirmar el cambio. Es un paso rápido y seguro para gestionar tu identidad cripto.",
+          "inputBoxPlaceholder": "Ingresa la nueva dirección de la cartera",
+          "buttonAddNewAddressText": "Agregar Nueva Dirección",
+          "buttonAddNewAddressOnClickResponse": "Agregando nueva dirección de cartera..."
+        }
+      }
+    }
+  },
+  "tradeGodlPage": {
+    "section1": {
+      "heading": "Adquirir GODL",
+      "subHeading": "DESBLOQUEA EL POTENCIAL DEL ORO DIGITAL",
+      "para1": "Haz tu movimiento en el mundo de GODL. Adquiere GODL directamente, usando ya sea PAXG o USDC.",
+      "para2": "Para los poseedores de PAXG, la interfaz amigable de Aurium te permite acuñar GODL usando tu PAX",
+      "para3": "¿Prefieres usar USDC? No hay problema. Visita nuestro intercambio descentralizado asociado para un proceso de adquisición suave.",
+      "button1": {
+        "buttonText": "Acuñar con PAXG",
+        "buttonCta_popup": {
+          "heading": "Acuñar GODL con PAXG",
+          "popup_previewConversion": {
+            "description": "Estás iniciando el proceso para crear un nuevo GODL usando tus tokens PAXG. Esta acción enlaza el valor intrínseco del oro a tus tokens GODL, permitiendo que tu riqueza digital crezca. ¡Sólo confirma para acuñar tu GODL!",
+            "inputBoxPlaceholder": "Ingresa la cantidad de PAXG para acuñar GODL",
+            "buttonText": "Previsualizar Conversión"
+          },
+          "popup_approve": {
+            "description": "",
+            "buttonApproveText": "Aprobar PAXG",
+            "buttonApproveOnClickResponse": "Tu transacción ha sido iniciada y ahora se está procesando en la blockchain. Podría tomar algunos minutos dependiendo de la congestión de la red. ¡Paciencia!"
+          },
+          "popup_mint": {
+            "description": "",
+            "buttonMintText": "Acuñar GODL",
+            "buttonMintOnClickResponse": "Acuñación en progreso..."
+          },
+          "popup_mint_success": {
+            "buttonMintSuccessfulText": "Acuñado con Éxito",
+            "addTokenText": "Agregar GODL a la cartera conectada."
+          }
+        }
+      },
+      "button2Text": "Comprar con USDC"
+    },
+    "section2": {
+      "heading": "Liquidar GODL",
+      "subHeading": "CONVIERTE TU GODL EN PAXG O USDC",
+      "para1": "Cuando sientas la necesidad, puedes liquidar fácilmente tus tenencias de GODL por PAXG o USDC.",
+      "para2": "Con la interfaz de Aurium, los poseedores de PAXG pueden quemar su GODL convenientemente, recibiendo PAXG a cambio.",
+      "para3": "Si estás buscando intercambiar tu GODL por USDC, te tenemos cubierto. Simplemente visita nuestro intercambio descentralizado asociado para una transacción rápida.",
+      "button1": {
+        "buttonText": "Quemar por PAXG",
+        "buttonCta_popup": {
+          "heading": "Quemar GODL por PAXG",
+          "popup_previewConversion": {
+            "description": "Estás a punto de convertir tu GODL en PAXG. Asegúrate de haber comprobado las tasas de conversión y estar preparado para ejecutar el cambio. Una vez confirmada, la transacción será procesada.",
+            "inputBoxPlaceholder": "Ingresa la cantidad de GODL para obtener PAXG",
+            "buttonText": "Previsualizar Conversión"
+          },
+          "popup_approve": {
+            "description": "",
+            "buttonApproveText": "Aprobar GODL",
+            "buttonApproveOnClickResponse": "Tu transacción ha sido iniciada y ahora se está procesando en la blockchain. Podría tomar algunos minutos dependiendo de la congestión de la red. ¡Paciencia!"
+          },
+          "popup_burn": {
+            "description": "",
+            "buttonMintText": "Acuñar GODL",
+            "buttonMintOnClickResponse": "Acuñación en progreso..."
+          },
+          "popup_burn_success": {
+            "buttonMintSuccessfulText": "Vendido con Éxito",
+            "addTokenText": "Agregar PAXG a la cartera conectada."
+          }
+        }
+      },
+      "button2Text": "Vender por USDC"
+    }
+  }
+}

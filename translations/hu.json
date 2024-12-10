@@ -1,0 +1,284 @@
+{
+    "topStrip": {
+    "price1": "1 PAXG : xxx USDC",
+    "price2": "1 GODL : xxx USDC",
+    "price3": "1 GODL : xxx PAXG"
+    },
+    "navbar": {
+    "link1": "Főoldal",
+    "link2": "Ajánlások böngészése",
+    "link3": "Saját fiókom",
+    "link3OnHover": "Még nem csatlakoztál a GODL hálózathoz",
+    "link4": "GODL kereskedése",
+    "link5": "Adminisztráció",
+    "connectWalletButton": "Pénztárca csatlakoztatása"
+    },
+    "footer": {
+    "heading": "GODL Gold nagykövet befolyás hálózat",
+    "para1": "A GODL Gold egy deflációs, aranytámogatott kriptovaluta, amely jutalmazza a hosszú távú tartást a tokenek alapjául szolgáló arany értékének fokozatos növelésével. A Nagykövet Program a GODL közösség által vezérelt kezdeményezése, amely jutalmazza a platform népszerűsítését és növekedéséhez való hozzájárulást. Ez egy élénk és elkötelezett közösséget teremt a GODL körül.",
+    "button1": "PAXG hozzáadása",
+    "button2": "GODL hozzáadása",
+    "button3": "USDC hozzáadása",
+    "linkSection1": {
+    "heading": "Közösség",
+    "link1": "Telegram",
+    "link2": "Discord",
+    "link3": "Twitter",
+    "link4": "YouTube"
+    },
+    "linkSection2": {
+    "heading": "Pénztárca",
+    "link1": "Metamask",
+    "link2": "Trust Wallet",
+    "link3": "Wallet Connect"
+    },
+    "linkSection3": {
+    "heading": "Kriptó linkek",
+    "link1": "PAXG megszerzése",
+    "link2": "USDC megszerzése",
+    "link3": "PAXG token szerződés",
+    "link4": "USDC token szerződés",
+    "link5": "GODL token szerződés"
+    },
+    "linkSection4": {
+    "heading": "Eszközök és információk",
+    "link1": "Nézze meg a diagramokat a Dextoolon",
+    "link2": "Paxos webhely",
+    "link3": "Aurium fehér könyv",
+    "link4": "Coin Market Cap",
+    "link5": "Coin Gecko"
+    },
+    "copyrightText": "Minden jog fenntartva - GODL Gold"
+    },
+    "homePage": {
+    "section1": {
+    "heading": "GODL Gold",
+    "subHeading": "AHOL AZ ARANY TALÁLKOZIK A NÖVEKEDÉSSEL",
+    "para1": "Lépj be az arany tárolásának jövőjébe a GODL Gold-al.",
+    "para2": "Újradefiniáltuk az aranyat a digitális korszak számára, biztosítva, hogy nemcsak megőrzi, hanem megsokszorozza értékét. A Gold Ambassador Influence Network-höz csatlakozva aktív közösség része leszel, amely közösen elősegíti a jólétet és a növekedést.",
+    "para3": "Légy GAINer és tapasztald meg a vagyonkezelés új dimenzióját, ahol az arany nem csak tárolódik - hanem fejlődik!",
+    "button1Text": "Csatlakozz most!",
+    "button1CTA": {
+    "popup_withoutWalletConnection": {
+    "heading": "Csatlakozz a GODL nagykövet hálózathoz",
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Adja meg ajánlói címét",
+    "errorText": "Kérjük, csatlakozzon a pénztárcájával"
+    },
+    "popup_withWalletConnected_alreadyJoined": {
+    "heading": "Már csatlakozott!",
+    "para1": "Gratulálunk, sikeresen csatlakozott a GODL Gold hálózathoz!",
+    "para2": "Új nagykövetként most része vagy egy virágzó ökoszisztémának, ahol az arany találkozik a növekedéssel. Teremtsünk közösen hatásos utat.",
+    "para3": "Üdvözöljük fedélzeten!"
+    },
+    "popup_withWalletConnected_newUser": {
+    "heading": "Csatlakozz a GODL nagykövet hálózathoz",
+    "popup_approve": {
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Adja meg ajánlói címét",
+    "tncButtonText": "Elfogadom az Általános Szerződési Feltételeket",
+    "tncButtonCtaPopup": {
+    "heading": "Általános Szerződési Feltételek",
+    "para1": "Figyelem: A GODL Gold platform decentralizált alkalmazás (DApp), amelyet 'amint van' és 'amint elérhető' alapon nyújtanak, semmilyen nyilvános vagy titkos garanciával. Arra törekszünk, hogy a szolgáltatás és a teljesítmény legmagasabb szintjét biztosítsuk, de nem tudjuk garantálni a teljes biztonságot, megbízhatóságot és pontosságot.",
+    "para2": "Felhasználóként Ön viseli az egyedüli felelősséget a hálózaton belüli cselekedeteiért. Használja platformunkat felelősen, végezzen alapos due diligence-t, és ne feledje, hogy bármely kriptopénz platformmal, ideértve a GODL Gold-ot is, járó részvétel bizonyos kockázatokkal jár. A platform használatával elismeri és elfogadja ezeket a kockázatokat."
+    },
+    "buttonApproveText": "PAXG jóváhagyása",
+    "buttonApproveOnClickResponse": "Tranzakciód elindításra került, és jelenleg a blokkláncon feldolgozás alatt áll. Ez néhány percet vehet igénybe a hálózati torlódástól függően. Tarts ki!"
+    },
+    "popup_join": {
+    "description": "",
+    "buttonJoinText": "Csatlakozz a GODL-hoz",
+    "buttonJoinOnClickResponse": "Csatlakozás folyamatban..."
+    },
+    "popup_join_success": {
+    "description": "",
+    "buttonJoinSuccessText": "Sikeresen csatlakozott!",
+    "addTokenText": "Adja hozzá a GODL-t a csatlakoztatott pénztárcához."
+    }
+    }
+    },
+    "button2Text": "GODL kereskedése",
+    "button3Text": "PAXG vásárlása"
+    },
+    "section2": {
+    "stats1": "Nagykövetek",
+    "stats2": "Összes generált jutalom ",
+    "stats3": "Összes felhalmozott jutalom "
+    },
+    "section3": {
+    "heading": "Deflációs tervezés",
+    "para1": "A GODL Gold deflációs jellege és az aranyban való beváltható értéke megkülönbözteti azt. Ahogy az érmék száma idővel csökken, minden fennmaradó token beválthatóvá válik az alapul szolgáló aranytartalék egyre nagyobb részére. Ez a tervezés biztosítja a vagyonban tartott értékek növekedését.",
+    "para2": "A GODL innovatív megközelítést kínál a vagyon bővítéséhez aranyban, egyszerű és digitális módon."
+    },
+    "section4": {
+    "heading": "Aranytámogatott garancia",
+    "para1": "A GODL-t egy értékkel rendelkező kézzelfogható eszköz, az arany támasztja alá. Ez a kapcsolat az arannyal nemcsak stabil érték alapot biztosít digitális eszközeid számára, hanem lehetővé teszi számodra, hogy fizikai aranyért is beváltsd azokat. Ez páratlan biztonságot és likviditást nyújt a gyorsan változó digitális pénzügyi térben."
+    },
+    "section5": {
+    "heading": "Virágzó hálózat",
+    "para1": "A GODL Gold Ambassador Influencer Network révén részese leszel egy dinamikus közösségnek, amely a közös értékteremtés és vagyonmegőrzés céljára összpontosít. Mint token tulajdonos, szereped túlmutat a pusztán részvételen. Hozzájárulsz és részesülsz egy kollektív rendszerben, amely jutalmazza az aktív részvételt és hozzájárulást, a vagyonnövekedést közösségi úttá alakítva."
+    }
+    },
+    "referralExplorerPage": {
+    "heading": "GODL Ajánlók böngészése",
+    "para1": "A kíváncsiság a virágzó közösség alapköve. Ezért belefoglaltuk a „GODL Ajánlók böngészése” funkciót. Ahogyan egy internetes keresőmotort használhatod, itt beírhatod bármely pénztárca címét a keresősávba, hogy megjelenítse a kapcsolódó részleteket. Ha az adott cím létezik a hálózatunkban, látni fogod például a Nagykövet szintjét és ajánlásait. De ez nem minden, intuitív felületünk segítségével közvetlen linken keresztül navigálhatsz ezekhez a címekhez egészen az egyes tranzakciókig az Etherscan-en keresztül.",
+    "para2": "A GODL Network Explorer átlátható ablakot nyújt a közösen épített élénk ökoszisztémánkba.",
+    "inputBoxPlaceholder": "Adja meg a pénztárca címét",
+    "buttonText": "Cím keresése",
+    "tableHeadings": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+    ],
+    "stats1": "Ajánló címe",
+    "stats2": "Automatikus szint egyenlege ",
+    "stats3": "Szint",
+    "stats4": "Ajánlások száma",
+    "stats5": "Jutalmak ",
+    "stats6": "Regisztráció dátuma"
+    },
+    "myAccountPage": {
+    "section1": {
+    "heading": "Barátok meghívása",
+    "copyLinkText": "SAJÁT AJÁNLÓI LINK MÁSOLÁSA",
+    "step1": {
+    "title": "Ajánlói link másolása",
+    "description": "Kattintson a „Barátok meghívása” gombra, hogy másolja saját egyedi linkjét a vágólapra."
+    },
+    "step2": {
+    "title": "Ajánlói link megosztása",
+    "description": "A link megkönnyíti a barátok csatlakozását a hálózathoz anélkül, hogy kézzel be kellene írniük a pénztárcacímét."
+    },
+    "step3": {
+    "title": "Jutalmak megszerzése",
+    "description": "Amikor a barátai és az ő barátaik csatlakoznak a hálózathoz, ön jutalmakat kap. Ez mindenki számára egy nyerő helyzet."
+    }
+    },
+    "section2": {
+    "heading": "Statisztikák",
+    "stats1": "Ajánló címe",
+    "stats2": "Automatikus szint egyenlege ",
+    "stats3": "Szint",
+    "stats4": "Ajánlások száma",
+    "stats5": "Jutalmak ",
+    "stats6": "Regisztrált időtől"
+    },
+    "section3": {
+    "heading": "Automatikus szintlépés",
+    "para1": "A GODL Gold beépített „Automatikus szintlépés” mechanizmusa egy innovatív eszköz, amely fokozza a növekedési potenciálját a hálózatban. A Nagykövet Programból származó jutalmait nem hagyja tétlenül, hanem automatikusan használja a következő szint felé történő előmozdulásához. Ez nem csak felhalmozás, hanem fejlődés.",
+    "para2": "A jutalmait gördülékenyen fordítva felfelé mozgásra, előre léphet a hálózat rangsorában. Az Automatikus szintlépéssel a GODL nemcsak egy tulajdon, hanem aktív résztvevő a hálózaton keresztüli utazásában.",
+    "para3": "Jelenleg az automatikus szintlépés módja: ${reInvestFlag}",
+    "buttonText": "${!reInvestFlag} bekapcsolása",
+    "buttonOnClickResponse": "Az Automatikus szintlépés folyamatban..."
+    },
+    "section4": {
+    "heading": "Szintlépés",
+    "para1": "A GODL Gold hálózatban a növekedés a szintek emelkedésével azonos. A „Szintlépés” funkció lehetővé teszi a Nagykövetek számára, hogy aktívan előre lépjenek a pozíciójukban. Egy magasabb szint megvásárlásával nemcsak saját jutalmi potenciáljukat növelik, hanem hozzájárulnak a teljes hálózat erősségéhez is. Minden lépés felfelé, az 1. szinttől az 5. szintig, közelebb visz a GODL hálózat teljes potenciáljának megvalósításához.",
+    "para2": "Ezenkívül fokozza befolyását a hálózaton belül, és kulcsfontosságú hozzájárulóvá válik sikeréhez. A „Szintlépéssel” nem csak részt vesz, hanem irányítja az utazását a GODL Gold hálózatban.",
+    "buttonText": "Szintlépés",
+    "buttonCtaPopup": {
+    "heading": "Szintlépés",
+    "popup_approve": {
+    "buttonApproveText": "Jóváhagyás szövege",
+    "notSelectTier_errorText": "Kérjük, válasszon csomag szintet",
+    "buttonApproveOnClickResponse": "A jóváhagyás folyamatban..."
+    },
+    "popup_tierUp": {
+    "buttonTierUpText": "Szintlépés",
+    "approvalSuccessText": "A jóváhagyás sikeres! Kattintson a fenti gombra a Szintlépéshez.",
+    "buttonTierUpOnClickResponse": "Tranzakcióját elindítottuk, és jelenleg feldolgozzuk a blokkláncban. A feldolgozás néhány percet vehet igénybe a hálózati torlódástól függően. Tartsa a vonalat!"
+    },
+    "popup_tierUp_success": {
+    "buttonTierUpSuccessText": "Sikeres szint frissítés",
+    "addTokenText": "Add hozzá a GODL-t a csatlakoztatott pénztárcához."
+    }
+    },
+    "section5": {
+    "heading": "Pénztárca cím módosítása",
+    "para1": "A kriptovaluták digitális világában a pénztárcacímed azonosítód. De mi történik, ha valami történik? Szükséged lehet a fiókod pénztárcacímének megváltoztatására. Ezt könnyűvé tesszük számodra.",
+    "para2": "A „Pénztárca cím módosítása” funkció egyszerűen használható még azoknak is, akik újak a kriptovaluták világában. Pontosan úgy, ahogyan fizikai címedet is megváltoztatod, amikor új otthonba költözöl, ez a funkció lehetővé teszi, hogy frissítsd digitális címedet a GODL Gold hálózatban. Csak add meg az új pénztárcacímedet, és erősítsd meg a változtatást. Így ellenőrzést gyakorolsz digitális azonosságod felett a hálózaton belül, és biztosítod, hogy minden jutalmad és előnyöd a megfelelő helyre kerüljön.",
+    "buttonText": "Pénztárca cím",
+    "buttonCtaPopup": {
+    "heading": "Pénztárca cím módosítása",
+    "para1": "Az új pénztárcacím beállítására készülsz, amely a GODL Gold hálózatban kulcsfontosságú azonosító. Ezzel biztosítod, hogy minden jutalom és előny megfelelően kapcsolódjon az új címhez. Ne felejtsd el megerősíteni a változtatást. Ez egy gyors és biztonságos lépés a kriptovaluta azonosságod kezeléséhez.",
+    "inputBoxPlaceholder": "Adja meg az új pénztárcacímet",
+    "buttonAddNewAddressText": "Új cím hozzáadása",
+    "buttonAddNewAddressOnClickResponse": "Az új pénztárcacím hozzáadása folyamatban..."
+    }
+    }
+    }
+    },
+    "tradeGodlPage": {
+    "section1": {
+    "heading": "GODL megszerzése",
+    "subHeading": "AZ ELEKTRONIKUS ARANY POTENCIÁLJÁNAK FELTÁRÁSA",
+    "para1": "Lépj be a GODL világába. Szerezd be a GODL-t közvetlenül, használva a PAXG vagy az USDC-t.",
+    "para2": "A PAXG tulajdonosok számára a felhasználóbarát Aurium felület lehetővé teszi a GODL létrehozását a PAXG használatával",
+    "para3": "Ha az USDC-t szeretnéd használni, ne aggódj. Látogass el partnerünk decentralizált tőzsdéjére a zökkenőmentes beszerzés érdekében.",
+    "button1": {
+    "buttonText": "PAXG-mal létrehozás",
+    "buttonCta_popup": {
+    "heading": "GODL létrehozása PAXG segítségével",
+    "popup_previewConversion": {
+    "description": "A PAXG tokenjeid felhasználásával új GODL-t készülsz létrehozni. Ez a művelet összekapcsolja a GOLD tokenek belső értékét a GODL tokenjeiddel, lehetővé téve digitális vagyonod növekedését. Csak erősítsd meg a GODL létrehozását!",
+    "inputBoxPlaceholder": "Adja meg a GODL létrehozásához szükséges PAXG mennyiségét",
+    "buttonText": "Konverzió előnézete"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "PAXG jóváhagyása",
+    "buttonApproveOnClickResponse": "Tranzakciód elindításra került, és jelenleg feldolgozzuk a blokkláncban. A feldolgozás néhány percet vehet igénybe a hálózati torlódástól függően. Tartsa a vonalat!"
+    },
+    "popup_mint": {
+    "description": "",
+    "buttonMintText": "GODL létrehozása",
+    "buttonMintOnClickResponse": "Létrehozás folyamatban..."
+    },
+    "popup_mint_success": {
+    "buttonMintSuccessfulText": "Sikeres GODL létrehozás",
+    "addTokenText": "Add hozzá a GODL-t a csatlakoztatott pénztárcához."
+    }
+    }
+    },
+    "button2Text": "Vásárlás USDC-vel"
+    },
+    "section2": {
+    "heading": "GODL átváltása",
+    "subHeading": "VÁLTS GODL-T PAXG-VÉ VAGY USDC-VÉ",
+    "para1": "Amikor úgy érzed, hogy szükséged van rá, könnyedén átválthatod GODL-állományodat PAXG-re vagy USDC-re.",
+    "para2": "Az Aurium felületen a PAXG tulajdonosok kényelmesen elégethetik GODL-jüket, és cserébe PAXG-t kapnak.",
+    "para3": "Ha GODL-t szeretnél USDC-re váltani, az ügy érdekében partnerünk decentralizált tőzsdéjét látogathatod meg, ahol gyors tranzakció vár rád.",
+    "button1": {
+    "buttonText": "Elégetés PAXG-ért",
+    "buttonCta_popup": {
+    "heading": "GODL elégetése PAXG-ért",
+    "popup_previewConversion": {
+    "description": "A GODL-t PAXG-gé kívánod átváltani. Győződj meg a konverziós árfolyamokról, és légy felkészült a tranzakció végrehajtására. Miután megerősítetted, a tranzakció feldolgozásra kerül.",
+    "inputBoxPlaceholder": "Adja meg a PAXG-hez tartozó GODL mennyiségét",
+    "buttonText": "Konverzió előnézete"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "GODL jóváhagyása",
+    "buttonApproveOnClickResponse": "Tranzakciód elindításra került, és jelenleg feldolgozzuk a blokkláncban. A feldolgozás néhány percet vehet igénybe a hálózati torlódástól függően. Tartsa a vonalat!"
+    },
+    "popup_burn": {
+    "description": "",
+    "buttonMintText": "GODL elégetése",
+    "buttonMintOnClickResponse": "Elégetés folyamatban..."
+    },
+    "popup_burn_success": {
+    "buttonMintSuccessfulText": "Sikeres értékesítés",
+    "addTokenText": "Add hozzá a PAXG-t a csatlakoztatott pénztárcához."
+    }
+    }
+    },
+    "button2Text": "Eladás USDC-ért"
+    }
+    }
+    }
+    
+    
+    

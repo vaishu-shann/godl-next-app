@@ -1,0 +1,276 @@
+{
+    "topStrip": {
+        "price1": "1 PAXG : xxx USDC",
+        "price2": "1 GODL : xxx USDC",
+        "price3": "1 GODL : xxx PAXG"
+    },
+    "navbar": {
+        "link1": "Bahay",
+        "link2": "Referral Explorer",
+        "link3": "Aking Account",
+        "link3OnHover": "Hindi ka pa sumali sa GODL Network",
+        "link4": "Kalakalan ng GODL",
+        "link5": "Admin",
+        "connectWalletButton": "Ikonekta ang Wallet"
+    },
+    "footer": {
+        "heading": "GODL Gold Ambassador Influence Network",
+        "para1": "Ang GODL Gold ay isang deflationary, gold-backed na cryptocurrency na nagbibigay pabuya sa matagalang paghahawak sa pamamagitan ng unti-unting pagtaas ng pangunahing halaga ng ginto ng bawat token. Ang Ambassador Program ay isang komunidad na inisyatibo sa loob ng GODL, nagbibigay ng gantimpala sa mga kalahok na nagtataguyod ng platform at nag-aambag sa kanyang paglago. Ito ay nagbubunsod ng isang masigla at aktibong komunidad sa paligid ng GODL.",
+        "button1": "Magdagdag ng PAXG",
+        "button2": "Magdagdag ng GODL",
+        "button3": "Magdagdag ng USDC",
+        "linkSection1": {
+            "heading": "Komunidad",
+            "link1": "Telegram",
+            "link2": "Discord",
+            "link3": "Twitter",
+            "link4": "YouTube"
+        },
+        "linkSection2": {
+            "heading": "Mga Wallet",
+            "link1": "Metamask",
+            "link2": "Trust Wallet",
+            "link3": "Wallet Connect"
+        },
+        "linkSection3": {
+            "heading": "Mga Link ng Crypto",
+            "link1": "Kumuha ng PAXG",
+            "link2": "Kumuha ng USDC",
+            "link3": "PAXG Token Contract",
+            "link4": "USDC Token Contract",
+            "link5": "GODL Token Contract"
+        },
+        "linkSection4": {
+            "heading": "Mga Tool at Info",
+            "link1": "Tingnan ang Mga Chart sa Dextool",
+            "link2": "Paxos Website",
+            "link3": "Aurium Whitepaper",
+            "link4": "Coin Market Cap",
+            "link5": "Coin Gecko"
+        },
+        "copyrightText": "Lahat ng Karapatan ay Nai-reserba - GODL Gold"
+    },
+    "homePage": {
+        "section1": {
+            "heading": "GODL Gold",
+            "subHeading": "KUNG SAAN ANG GINTO AY NAKATAGPO NG PAGLAKI",
+            "para1": "Tumapak sa hinaharap ng pag-iimbak ng kayamanan kasama ang GODL Gold.",
+            "para2": "Muling naimbento namin ang ginto para sa digital na era, tinitiyak na hindi lamang ito nagpapanatili kundi nagpaparami rin ng kanyang halaga. Sa pagsali sa aming Gold Ambassador Influence Network, ikaw ay bahagi ng isang aktibong komunidad na sama-samang nagpapalago ng kasaganaan at paglago.",
+            "para3": "Maging isang GAINer at maranasan ang isang bagong dimensyon ng pamamahala ng kayamanan kung saan ang ginto ay hindi lamang iniimbak - ito ay lumalago!",
+            "button1Text": "Sumali Na!",
+            "button1CTA": {
+                "popup_withoutWalletConnection": {
+                    "heading": "Sumali sa GODL Ambassador Network",
+                    "description": "",
+                    "referrerAddressInputBoxPlaceholder": "Ilagay ang address ng referrer",
+                    "errorText": "Maaaring kumonekta sa iyong wallet"
+                },
+                "popup_withWalletConnected_alreadyJoined": {
+                    "heading": "Nasali na!",
+                    "para1": "Binabati ka, matagumpay kang sumali sa GODL Gold Network!",
+                    "para2": "Bilang isang bagong ambassador, ikaw ay bahagi na ngayon ng isang lumalagong ekosistema, kung saan ang ginto ay nakatagpo ng paglago. Gumawa tayo ng isang makabuluhang paglalakbay kasama.",
+                    "para3": "Maligayang pagdating sa bordo!"
+                },
+                "popup_withWalletConnected_newUser": {
+                    "heading": "Sumali sa GODL Ambassador Network",
+                    "popup_approve": {
+                        "description": "",
+                        "referrerAddressInputBoxPlaceholder": "Ilagay ang address ng referrer",
+                        "tncButtonText": "Tanggapin ang aming mga Tuntunin at Kondisyon",
+                        "tncButtonCtaPopup": {
+                            "heading": "Mga Tuntunin at Kondisyon",
+                            "para1": "Disclaimer: Ang platform ng GODL Gold ay isang desentralisadong application (DApp) na ibinigay sa isang 'kung ano' at 'kung saan magagamit' na base, na walang express o implied na warranties ng anumang uri. Sinisikap namin na panatilihin ang pinakamataas na posible na mga pamantayan ng serbisyo at pagganap, ngunit hindi namin masisiguro ang kumpletong seguridad, pagiging maaasahan, o kawastuan.",
+                            "para2": "Bilang isang gumagamit, ikaw lamang ang may pananagutan para sa iyong mga aksyon sa loob ng network. Mangyaring gamitin ang aming platform na responsable, magsagawa ng masusing due diligence, at tandaan na ang pakikipag-ugnay sa anumang platform ng cryptocurrency, kasama ang GODL Gold, ay nagdadala ng katutubong mga panganib. Sa paggamit ng platform na ito, kinikilala at tinatanggap mo ang mga panganib na ito."
+                        },
+                        "buttonApproveText": "Aprubahan ang PAXG",
+                        "buttonApproveOnClickResponse": "Ang iyong transaksyon ay naumpisahan na at ngayon ay pinoproseso sa blockchain. Maaaring tumagal ito ng ilang minuto depende sa congestion ng network. Maghintay lang!"
+                    },
+                    "popup_join": {
+                        "description": "",
+                        "buttonJoinText": "Sumali sa GODL",
+                        "buttonJoinOnClickResponse": "Kasalukuyang sumasali..."
+                    },
+                    "popup_join_success": {
+                        "description": "",
+                        "buttonJoinSuccessText": "Matagumpay na sumali!",
+                        "addTokenText": "Magdagdag ng GODL sa konektadong wallet."
+                    }
+                }
+            },
+            "button2Text": "Kalakalan ang GODL",
+            "button3Text": "Bumili ng PAXG"
+        },
+        "section2": {
+            "stats1": "Mga Ambassador",
+            "stats2": "Kabuuang Mga Gantimpala na Nalikha ",
+            "stats3": "Kabuuang Mga Gantimpala na Naipon "
+        },
+        "section3": {
+            "heading": "Deflationary By Design",
+            "para1": "Ang GODL Gold ay nag-iiba sa kanyang deflationary na katangian at maaring ma-redeem na halaga sa ginto. Habang ang bilang ng mga token ay nagbabawas sa paglipas ng panahon, bawat natitirang token ay maaring ma-redeem para sa mas malaking bahagi ng nakalaang reserba ng ginto. Tinitiyak ng disenyo na ito ang patuloy na paglago ng tunay na halaga ng iyong mga hawak.",
+            "para2": "Nag-aalok ang GODL ng isang makabagong paraan upang palakihin ang iyong yaman sa ginto, ginagawa itong simple at digital."
+        },
+        "section4": {
+            "heading": "Segurong Nakasandal sa Ginto",
+            "para1": "Ang GODL ay suportado ng isang tangible na asset na may patunay na halaga - Ginto. Ang linkage na ito sa ginto ay hindi lamang nagbibigay ng isang matatag na base ng halaga para sa iyong digital na mga ari-arian kundi nagbibigay rin ito ng kakayahang ma-redeem sila para sa pisikal na ginto. Ito ay nagbibigay sa iyo ng hindi mapantayang seguridad at likas na katangian sa mabilis na nagbabagong espasyo ng digital na pananalapi."
+        },
+        "section5": {
+            "heading": "Isang Lumalagong Network",
+            "para1": "Sa pamamagitan ng GODL Gold Ambassador Influencer Network, naging bahagi ka ng isang dinamikong komunidad na nakatuon sa shared na layunin ng paglikha ng halaga at pangangalaga ng yaman. Bilang isang may-hawak ng token, ang iyong papel ay lumalagawas sa simpleng partisipasyon. Nag-aambag ka sa, at nagmumula mula sa, isang kolektibong sistema na nagpapahalaga sa pakikipag-ugnayan at aktibong kontribusyon, ginagawa ang paglago ng yaman bilang isang communal na paglalakbay."
+        }
+    },
+    "referralExplorerPage": {
+        "heading": "GODL Referral Explorer",
+        "para1": "Pangalagaan ang iyong posisyon sa network at makita ang iyong direct at indirect na mga referral dito. Bilang isang ambassador, mayroon kang direktang access sa mga detalye ng iyong referrals, kasama ang kanilang ambassador level, aktibong referral count, at kabuuang mga gantimpala na nalikha mula sa kanilang referral network.",
+        "para2": "Gamitin ang referral explorer para ma-monitor ang iyong pakikibahagi at panatilihing aktibo ang iyong network.",
+        "searchBoxPlaceholder": "Ilagay ang Ethereum address...",
+        "searchButtonText": "Maghanap",
+        "levelColumn": "Antas",
+        "activeReferralCountColumn": "Aktibong Bilang ng Referral",
+        "totalRewardsFromNetworkColumn": "Kabuuang mga Gantimpala mula sa Network "
+    },
+ "myAccountPage": {
+"section1": {
+"heading": "Imbitahan ang mga Kaibigan",
+"copyLinkText": "KOPYAHIN ANG INYONG REFERRAL LINK",
+"step1": {
+"title": "Kopyahin ang Link sa Imbitasyon",
+"description": "I-click ang 'Imbitahan ang mga Kaibigan' button upang kopyahin ang inyong natatanging link sa inyong clipboard."
+},
+"step2": {
+"title": "Ibahagi ang Link sa Imbitasyon",
+"description": "Ang link ay nagpapadali sa inyong mga kaibigan na sumali sa network nang hindi kinakailangang manu-mano na mag-input ng inyong wallet address."
+},
+"step3": {
+"title": "Kumita ng mga Gantimpala",
+"description": "Kapag sumali ang inyong mga kaibigan at ang kanilang mga kaibigan sa network, kumikita kayo ng mga gantimpala. Pareho kayong panalo."
+}
+},
+"section2": {
+"heading": "Estadistika",
+"stats1": "Address ng Nagre-refer",
+"stats2": "Auto Tier Balance ",
+"stats3": "Antas",
+"stats4": "Bilang ng Nagre-refer",
+"stats5": "Mga Gantimpala na Nakamit ",
+"stats6": "Nakarehistro Mula"
+},
+"section3": {
+"heading": "Auto Tier Up",
+"para1": "Ang GODL Gold ay naglalaman ng mekanismong 'Auto-Tier Up', isang inobatibong tool na nagpapalakas sa inyong potensyal na lumago sa network. Sa halip na hayaan ang iyong mga gantimpala mula sa Ambassador Program na manatiling hindi ginagamit, awtomatikong ginagamit ang mga ito upang itulak ka patungo sa susunod na antas. Ito ay hindi lamang pag-aambak kundi pag-unlad.",
+"para2": "Sa pamamagitan ng walang-hadlang na pagsasalin ng iyong mga gantimpala tungo sa pag-angat, maaari kang umakyat sa mga antas ng network. Sa Auto Tier Up, ang iyong GODL ay hindi lamang isang pag-aari; ito ay aktibong kalahok sa iyong paglalakbay sa network.",
+"para3": "Sa kasalukuyan, ang inyong auto tier-up mode ay ${reInvestFlag}",
+"buttonText": "I-on ang ${!reInvestFlag}",
+"buttonOnClickResponse": "Auto Tier-Up sa progreso..."
+},
+"section4": {
+"heading": "Magtaas ng Antas",
+"para1": "Sa GODL Gold network, ang paglago ay katumbas ng pag-angat sa mga antas. Ang tampok na 'Magtaas ng Antas' ay dinisenyo upang bigyang-kakayahan ang mga Ambassador na aktibong umunlad sa kanilang katayuan. Sa pamamagitan ng pagbili ng mas mataas na antas, hindi lamang nadaragdagan ang iyong potensyal na gantimpala kundi naglalakas ka rin ng kabuuang lakas ng network. Ang bawat hakbang papunta sa mga antas mula 1 hanggang 5, nagdadala sa iyo sa pagkaabot ng buong potensyal ng GODL network.",
+"para2": "Higit pa riyan, pinalalakas nito ang iyong impluwensiya sa loob ng network, ginagawa kang mahalagang kontribyutor sa tagumpay nito. Sa 'Magtaas ng Antas', hindi ka lamang nakikilahok, kundi ikaw ang namamahala sa iyong paglalakbay sa GODL Gold network.",
+"buttonText": "Magtaas ng Antas",
+"buttonCtaPopup": {
+"heading": "Magtaas ng Antas",
+"popup_approve": {
+"buttonApproveText": "Teksto ng Pagsang-ayon",
+"notSelectTier_errorText": "Pakipili ng isang tier ng package",
+"buttonApproveOnClickResponse": "Pagsang-ayon sa progreso..."
+},
+"popup_tierUp": {
+"buttonTierUpText": "Magtaas ng Antas",
+"approvalSuccessText": "Tagumpay ang pagsang-ayon! I-click sa itaas para magtaas ng antas.",
+"buttonTierUpOnClickResponse": "Ang iyong transaksyon ay nagsimula at kasalukuyang nasa proseso sa blockchain. Maaaring tumagal ng ilang minuto depende sa pagka-abala ng network. Maghintay lamang!"
+},
+"popup_tierUp_success": {
+"buttonTierUpSuccessText": "Matagumpay na Na-update ang Antas",
+"addTokenText": "Magdagdag ng GODL sa konektadong wallet."
+}
+},
+"section5": {
+"heading": "Palitan ang Address ng Wallet",
+"para1": "Sa digital na mundo ng mga cryptocurrencies, ang inyong wallet address ay inyong pagkakakilanlan. Ngunit paano kung may mangyari? Maaaring kailanganin ninyong palitan ang wallet address ng inyong account. Ginagawa namin itong madali para sa inyo.",
+"para2": "Ang aming 'Palitan ang Address ng Wallet' na tampok ay dinisenyo upang maging simple, kahit para sa mga baguhan sa mundo ng crypto. Katulad ng pagbabago ng inyong pisikal na address kapag naglipat kayo ng tahanan, ang tampok na ito ay nagbibigay-daan sa inyo na i-update ang inyong digital address sa GODL Gold network. Napakadali lamang na ilagay ang inyong bagong wallet address at kumpirmahin ang pagbabago. Sa ganitong paraan, pinapanatili ninyo ang kontrol sa inyong pagkakakilanlan sa network, na nagtitiyak na ang lahat ng inyong mga gantimpala at benepisyo ay mapupunta sa tamang lugar.",
+"buttonText": "Address ng Wallet",
+"buttonCtaPopup": {
+"heading": "Palitan ang Address ng Wallet",
+"para1": "Ikaw ay patapos nang magpalit ng wallet address, isang mahalagang identifier sa GODL Gold network. Sa pamamagitan nito, pinananatiling maayos ang koneksyon ng lahat ng inyong mga gantimpala at benepisyo sa inyong bagong address. Tandaan na kumpirmahin ang pagbabago. Ito ay mabilis at ligtas na hakbang upang pamahalaan ang inyong crypto identity.",
+"inputBoxPlaceholder": "Ilagay ang bagong wallet address",
+"buttonAddNewAddressText": "Magdagdag ng Bagong Address",
+"buttonAddNewAddressOnClickResponse": "Pagsasama ng bagong wallet address..."
+}
+}
+}
+},
+"tradeGodlPage": {
+"section1": {
+"heading": "Bumili ng GODL",
+"subHeading": "BUKSAN ANG POTENSYAL NG DIGITAL NA GINTONG PAMPINANSIYAL",
+"para1": "Simulan ang inyong pagkilos sa mundo ng GODL. Bumili ng GODL nang direkta, gamit ang PAXG o USDC.",
+"para2": "Para sa mga may hawak ng PAXG, ang user-friendly na Aurium interface ay nagbibigay-daan sa inyo na magminta ng GODL gamit ang inyong PAX",
+"para3": "Gusto ninyong gumamit ng USDC? Walang problema. Bisitahin ang aming partner na decentralized exchange para sa mabilis na proseso ng pagbili.",
+"button1": {
+"buttonText": "Magmintang PAXG",
+"buttonCta_popup": {
+"heading": "Magmintang GODL gamit ang PAXG",
+"popup_previewConversion": {
+"description": "Ikaw ay nagsisimula ng proseso upang lumikha ng bagong GODL gamit ang iyong mga PAXG token. Ang aksyong ito ay nag-uugnay ng katangiang halaga ng ginto sa inyong mga GODL token, na nagpapahintulot sa inyong digital na kayamanan na lumago. Tiyakin lamang na kumpirmahin upang magmintang GODL!",
+"inputBoxPlaceholder": "Ilagay ang halaga ng PAXG na nais magmintang GODL",
+"buttonText": "Mag-preview ng Konbersyon"
+},
+"popup_approve": {
+"description": "",
+"buttonApproveText": "Mag-apruba ng PAXG",
+"buttonApproveOnClickResponse": "Ang inyong transaksyon ay nagsimula at kasalukuyang nasa proseso sa blockchain. Maaaring tumagal ng ilang minuto depende sa pagka-abala ng network. Maghintay lamang!"
+},
+"popup_mint": {
+"description": "",
+"buttonMintText": "Magmintang GODL",
+"buttonMintOnClickResponse": "Minting sa progreso..."
+},
+"popup_mint_success": {
+"buttonMintSuccessfulText": "Matagumpay na Nag-mint",
+"addTokenText": "Magdagdag ng GODL sa konektadong wallet."
+}
+}
+},
+"button2Text": "Bumili gamit ang USDC"
+},
+"section2": {
+"heading": "I-liquidate ang GODL",
+"subHeading": "ISAPAGPALIT ANG INYONG GODL PARA SA PAXG O USDC",
+"para1": "Sa anumang pagkakataon na nais ninyo, maaari ninyong madaling isapagpalit ang inyong mga pag-aaring GODL para sa PAXG o USDC.",
+"para2": "Gamit ang Aurium interface, ang mga may hawak ng PAXG ay madaling mag-sunog ng kanilang mga GODL, at makatanggap ng PAXG bilang kapalit.",
+"para3": "Kung naghahanap kayo na palitan ang inyong GODL para sa USDC, kami ay may solusyon para sa inyo. Bisitahin lamang ang aming partner na decentralized exchange para sa mabilis na transaksyon.",
+"button1": {
+"buttonText": "Sunugin para sa PAXG",
+"buttonCta_popup": {
+"heading": "Sunugin ang GODL Para sa PAXG",
+"popup_previewConversion": {
+"description": "Ikaw ay malapit ng i-convert ang inyong GODL para sa PAXG. Siguraduhing nacheck ninyo ang mga rates ng conversion at handa na kayong magtuloy sa swap. Kapag kumpirmado na, ang transaksyon ay ipo-process.",
+"inputBoxPlaceholder": "Ilagay ang halaga ng GODL na nais ma-convert sa PAXG",
+"buttonText": "Mag-preview ng Konbersyon"
+},
+"popup_approve": {
+"description": "",
+"buttonApproveText": "Aprubahan ang GODL",
+"buttonApproveOnClickResponse": "Ang inyong transaksyon ay nagsimula at kasalukuyang nasa proseso sa blockchain. Maaaring tumagal ng ilang minuto depende sa pagka-abala ng network. Maghintay lamang!"
+},
+"popup_burn": {
+"description": "",
+"buttonMintText": "Magmintang GODL",
+"buttonMintOnClickResponse": "Minting sa progreso..."
+},
+"popup_burn_success": {
+"buttonMintSuccessfulText": "Tagumpay na Naibenta",
+"addTokenText": "Magdagdag ng PAXG sa konektadong wallet."
+}
+}
+},
+"button2Text": "Ibenta para sa USDC"
+}
+}
+}
+
+
+
+
+

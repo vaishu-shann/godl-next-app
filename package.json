@@ -1,0 +1,43 @@
+{
+  "name": "godl-gold-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@thirdweb-dev/react": "^3.16.1",
+    "@thirdweb-dev/sdk": "^3.10.63",
+    "@walletconnect/web3-provider": "^1.5.1",
+    "@web3modal/wagmi": "^3.1.0",
+    "antd": "^5.9.4",
+    "axios": "^1.5.1",
+    "browserify-fs": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "i18next": "^23.5.1",
+    "next": "13.5.4",
+    "react": "^18",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-countup": "^6.4.2",
+    "react-dom": "^18",
+    "react-i18next": "^13.2.2",
+    "react-icons": "^4.11.0",
+    "react-player": "^2.13.0",
+    "react-scroll": "^1.9.0",
+    "react-select": "^5.7.7",
+    "thirdweb": "^0.12.10",
+    "viem": "^1.16.5",
+    "wagmi": "^1.4.3",
+    "web3": "^1.10.0",
+    "web3modal": "^1.9.12"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "typescript": "5.2.2"
+  }
+}

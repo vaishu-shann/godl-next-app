@@ -1,0 +1,283 @@
+{
+    "topStrip": {
+    "price1": "1 PAXG: xxx USDC",
+    "price2": "1 GODL: xxx USDC",
+    "price3": "1 GODL: xxx PAXG"
+    },
+    "navbar": {
+    "link1": "Home",
+    "link2": "Verwijs Verkenner",
+    "link3": "Mijn Account",
+    "link3OnHover": "U hebt zich nog niet aangesloten bij het GODL-netwerk",
+    "link4": "Handel in GODL",
+    "link5": "Beheerder",
+    "connectWalletButton": "Verbind Wallet"
+    },
+    "footer": {
+    "heading": "GODL Goud Ambassadeur Invloedsnetwerk",
+    "para1": "GODL Goud is een deflatoire, door goud gedekte cryptocurrency die beloningen biedt voor langdurig vasthouden door de onderliggende goudwaarde van elke token geleidelijk te verhogen. Het Ambassadeursprogramma is een door de gemeenschap gedreven initiatief binnen GODL, dat deelnemers beloont voor het promoten van het platform en bijdragen aan de groei ervan. Dit bevordert een levendige en betrokken gemeenschap rond GODL.",
+    "button1": "PAXG toevoegen",
+    "button2": "GODL toevoegen",
+    "button3": "USDC toevoegen",
+    "linkSection1": {
+    "heading": "Gemeenschap",
+    "link1": "Telegram",
+    "link2": "Discord",
+    "link3": "Twitter",
+    "link4": "YouTube"
+    },
+    "linkSection2": {
+    "heading": "Portefeuilles",
+    "link1": "Metamask",
+    "link2": "Trust Wallet",
+    "link3": "Wallet Connect"
+    },
+    "linkSection3": {
+    "heading": "Crypto Links",
+    "link1": "PAXG krijgen",
+    "link2": "USDC krijgen",
+    "link3": "PAXG-tokencontract",
+    "link4": "USDC-tokencontract",
+    "link5": "GODL-tokencontract"
+    },
+    "linkSection4": {
+    "heading": "Hulpmiddelen en informatie",
+    "link1": "Bekijk grafieken op Dextool",
+    "link2": "Paxos-website",
+    "link3": "Aurium Whitepaper",
+    "link4": "Coin Market Cap",
+    "link5": "Coin Gecko"
+    },
+    "copyrightText": "Alle rechten voorbehouden - GODL Goud"
+    },
+    "homePage": {
+    "section1": {
+    "heading": "GODL Goud",
+    "subHeading": "WAAR GOUD GROEI ONTMOET",
+    "para1": "Stap in de toekomst van vermogensopslag met GODL Goud.",
+    "para2": "We hebben goud opnieuw uitgevonden voor het digitale tijdperk, waarbij we ervoor zorgen dat het niet alleen behouden blijft, maar ook in waarde vermeerdert. Door lid te worden van ons Gold Ambassador Influence Network maak je deel uit van een actieve gemeenschap die gezamenlijk welvaart en groei bevordert.",
+    "para3": "Word een GAINer en ervaar een nieuwe dimensie van vermogensbeheer waarin goud niet alleen wordt opgeslagen, maar gedijt!",
+    "button1Text": "Nu meedoen!",
+    "button1CTA": {
+    "popup_withoutWalletConnection": {
+    "heading": "Word lid van het GODL Ambassador Network",
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Voer het doorverwijzingsadres in",
+    "errorText": "Maak verbinding met uw portefeuille"
+    },
+    "popup_withWalletConnected_alreadyJoined": {
+    "heading": "Al lid!",
+    "para1": "Gefeliciteerd, je hebt succesvol deelgenomen aan het GODL Gold Network!",
+    "para2": "Als nieuwe ambassadeur maak je nu deel uit van een bloeiend ecosysteem, waar goud groei ontmoet. Laten we samen een impactvolle reis creëren.",
+    "para3": "Welkom aan boord!"
+    },
+    "popup_withWalletConnected_newUser": {
+    "heading": "Word lid van het GODL Ambassador Network",
+    "popup_approve": {
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Voer het doorverwijzingsadres in",
+    "tncButtonText": "Accepteer onze Algemene voorwaarden",
+    "tncButtonCtaPopup": {
+    "heading": "Algemene voorwaarden",
+    "para1": "Disclaimer: Het GODL Gold-platform is een gedecentraliseerde applicatie (DApp) die wordt geleverd op basis van 'as is' en 'as available', zonder expliciete of impliciete garanties van welke aard dan ook. We streven naar het handhaven van de hoogst mogelijke normen van service en prestaties, maar we kunnen geen volledige beveiliging, betrouwbaarheid of nauwkeurigheid garanderen.",
+    "para2": "Als gebruiker draagt u de volledige verantwoordelijkheid voor uw acties binnen het netwerk. Gebruik ons platform verantwoordelijk, voer grondig due diligence uit en onthoud dat betrokkenheid bij elk cryptocurrency-platform, inclusief GODL Gold, inherente risico's met zich meebrengt. Door dit platform te gebruiken, erkent en accepteert u deze risico's."
+    },
+    "buttonApproveText": "Keur PAXG goed",
+    "buttonApproveOnClickResponse": "Uw transactie is gestart en wordt nu verwerkt op de blockchain. Het kan enkele minuten duren, afhankelijk van de netwerkcongestie. Even geduld!"
+    },
+    "popup_join": {
+    "description": "",
+    "buttonJoinText": "Doe mee met GODL",
+    "buttonJoinOnClickResponse": "Aanmelding in behandeling..."
+    },
+    "popup_join_success": {
+    "description": "",
+    "buttonJoinSuccessText": "Met succes lid geworden!",
+    "addTokenText": "Voeg GODL toe aan uw verbonden portefeuille."
+    }
+    }
+    },
+    "button2Text": "Handel in GODL",
+    "button3Text": "Koop PAXG"
+    },
+    "section2": {
+    "stats1": "Ambassadeurs",
+    "stats2": "Totaal gegenereerde beloningen ",
+    "stats3": "Totaal opgebouwde beloningen "
+    },
+    "section3": {
+    "heading": "Deflatoir ontwerp",
+    "para1": "GODL Gold onderscheidt zich door zijn deflatoire karakter en inwisselbare waarde in goud. Naarmate het aantal tokens in de loop van de tijd afneemt, wordt elke overgebleven token inwisselbaar voor een groter deel van de onderliggende goudreserve. Dit ontwerp zorgt ervoor dat de intrinsieke waarde van uw bezittingen voortdurend groeit.",
+    "para2": "GODL biedt een innovatieve aanpak om uw vermogen in goud uit te breiden, eenvoudig en digitaal."
+    },
+    "section4": {
+    "heading": "Goudgedekte zekerheid",
+    "para1": "GODL is gedekt door een tastbaar bezit met bewezen waarde: goud. Deze koppeling aan goud biedt niet alleen een solide waardebasis voor uw digitale activa, maar stelt u ook in staat om ze in te wisselen voor fysiek goud. Dit geeft u ongeëvenaarde veiligheid en liquiditeit in de snel evoluerende digitale financiële wereld."
+    },
+    "section5": {
+    "heading": "Een bloeiend netwerk",
+    "para1": "Via het GODL Gold Ambassador Influencer Network maakt u deel uit van een dynamische gemeenschap die zich richt op het gemeenschappelijke doel van waardecreatie en vermogensbehoud. Als tokenhouder gaat uw rol verder dan alleen deelname. U draagt bij aan en profiteert van een collectief systeem dat betrokkenheid en actieve bijdrage beloont, waardoor vermogensgroei een gemeenschappelijke reis wordt."
+    }
+    },
+    "referralExplorerPage": {
+    "heading": "GODL Verwijs Verkenner",
+    "para1": "Nieuwsgierigheid is de hoeksteen van een bloeiende gemeenschap. Daarom hebben we de functie 'GODL Verwijs Verkenner' opgenomen. Net zoals u een zoekmachine op internet zou gebruiken, kunt u elk portefeuilleadres invoeren in de zoekbalk om de bijbehorende gegevens op te halen. Als het adres binnen ons netwerk bestaat, ziet u informatie zoals hun ambassadeurstatus en verwijzingen. En alsof dat nog niet genoeg is, kunt u met onze intuïtieve interface deze adressen tot op individuele transacties volgen via een rechtstreekse link naar Etherscan.",
+    "para2": "De GODL Netwerk Verkenner is uw transparante venster naar het levendige ecosysteem dat we samen opbouwen.",
+    "inputBoxPlaceholder": "Voer het portefeuilleadres in",
+    "buttonText": "Adres zoeken",
+    "tableHeadings": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+    ],
+    "stats1": "Doorverwijzeradres",
+    "stats2": "Auto Tier Saldo ",
+    "stats3": "Tier",
+    "stats4": "Verwijzingstelling",
+    "stats5": "Verdiende beloningen ",
+    "stats6": "Geregistreerd sinds"
+    },
+    "myAccountPage": {
+    "section1": {
+    "heading": "Vrienden Uitnodigen",
+    "copyLinkText": "KOPIEER UW VERWIJZINGSLINK",
+    "step1": {
+    "title": "Kopieer Uitnodigingslink",
+    "description": "Klik op de 'Vrienden Uitnodigen' knop om uw unieke link naar uw klembord te kopiëren."
+    },
+    "step2": {
+    "title": "Deel Uitnodigingslink",
+    "description": "Met de link is het gemakkelijk voor vrienden om lid te worden van het netwerk zonder uw portefeuilleadres handmatig in te voeren."
+    },
+    "step3": {
+    "title": "Verdien Beloningen",
+    "description": "Wanneer uw vrienden en hun vrienden zich bij het netwerk aansluiten, verdient u beloningen. Het is een win-win situatie voor iedereen."
+    }
+    },
+    "section2": {
+    "heading": "Statistieken",
+    "stats1": "Doorverwijzeradres",
+    "stats2": "Auto Tier Saldo ",
+    "stats3": "Tier",
+    "stats4": "Aantal Verwijzingen",
+    "stats5": "Verdiende Beloningen ",
+    "stats6": "Geregistreerd Sinds"
+    },
+    "section3": {
+    "heading": "Auto Tier Up",
+    "para1": "GODL Gold bevat een 'Auto Tier Up'-mechanisme, een innovatieve tool die uw groeipotentieel in het netwerk vergroot. In plaats van uw beloningen uit het Ambassadeursprogramma ongebruikt te laten, worden ze automatisch gebruikt om u naar het volgende niveau te brengen. Dit is niet alleen accumulatie, maar progressie.",
+    "para2": "Door uw beloningen naadloos om te zetten in vooruitgang, kunt u stijgen in de rangen van het netwerk. Met Auto Tier Up is uw GODL meer dan alleen een bezitting; het is een actieve deelnemer aan uw reis door het netwerk.",
+    "para3": "Momenteel staat uw auto tier-up-modus op ${reInvestFlag}",
+    "buttonText": "${!reInvestFlag} inschakelen",
+    "buttonOnClickResponse": "Auto Tier-Up in behandeling..."
+    },
+    "section4": {
+    "heading": "Tier Up",
+    "para1": "In het GODL Gold-netwerk staat groei synoniem voor het stijgen naar hogere niveaus. De 'Tier Up'-functie is ontworpen om Ambassadeurs actief te helpen hun positie te verbeteren. Door een hoger niveau aan te schaffen, vergroot u niet alleen uw eigen potentieel voor beloningen, maar draagt u ook bij aan de algehele kracht van het netwerk. Elke stap omhoog, van Tier 1 tot Tier 5, brengt u dichter bij het realiseren van het volledige potentieel van het GODL-netwerk.",
+    "para2": "Bovendien vergroot het uw invloed binnen het netwerk, waardoor u een essentiële bijdrager wordt aan het succes ervan. Met 'Tier Up' doet u niet alleen mee, u neemt de leiding over uw reis in het GODL Gold-netwerk.",
+    "buttonText": "Tier Up",
+    "buttonCtaPopup": {
+    "heading": "Tier Up",
+    "popup_approve": {
+    "buttonApproveText": "Goedkeuring Tekst",
+    "notSelectTier_errorText": "Selecteer alstublieft een pakketniveau",
+    "buttonApproveOnClickResponse": "Goedkeuring in behandeling..."
+    },
+    "popup_tierUp": {
+    "buttonTierUpText": "Tier Up",
+    "approvalSuccessText": "Goedkeuring succesvol! Klik hierboven om te Tier Up.",
+    "buttonTierUpOnClickResponse": "Uw transactie is gestart en wordt nu verwerkt op de blockchain. Het kan enkele minuten duren, afhankelijk van de netwerkcongestie. Even geduld!"
+    },
+    "popup_tierUp_success": {
+    "buttonTierUpSuccessText": "Tier Succesvol Bijgewerkt",
+    "addTokenText": "Voeg GODL toe aan uw verbonden portefeuille."
+    }
+    },
+    "section5": {
+    "heading": "Portefeuilleadres Wijzigen",
+    "para1": "In de digitale wereld van cryptocurrencies is uw portefeuilleadres uw identiteit. Maar wat als er iets gebeurt? U moet mogelijk het portefeuilleadres van uw account wijzigen. Dat maken we eenvoudig.",
+    "para2": "Onze 'Portefeuilleadres Wijzigen'-functie is ontworpen om eenvoudig te zijn, zelfs voor degenen die nieuw zijn in de crypto-ruimte. Net zoals u uw fysieke adres zou wijzigen wanneer u naar een nieuw huis verhuist, stelt deze functie u in staat om uw digitale adres in het GODL Gold-netwerk bij te werken. Het is zo simpel als het invoeren van uw nieuwe portefeuilleadres en de wijziging bevestigen. Op deze manier behoudt u controle over uw identiteit in het netwerk, zodat al uw beloningen en voordelen naar de juiste plaats gaan.",
+    "buttonText": "Portefeuilleadres",
+    "buttonCtaPopup": {
+    "heading": "Portefeuilleadres Wijzigen",
+    "para1": "U staat op het punt uw portefeuilleadres bij te werken, een belangrijke identificatie in het GODL Gold-netwerk. Hiermee zorgt u ervoor dat alle beloningen en voordelen correct gekoppeld blijven aan uw nieuwe adres. Vergeet niet de wijziging te bevestigen. Het is een snelle en veilige stap om uw crypto-identiteit te beheren.",
+    "inputBoxPlaceholder": "Voer het nieuwe portefeuilleadres in",
+    "buttonAddNewAddressText": "Voeg Nieuw Adres Toe",
+    "buttonAddNewAddressOnClickResponse": "Nieuw portefeuilleadres toevoegen..."
+    }
+    }
+    }
+    },
+    "tradeGodlPage": {
+    "section1": {
+    "heading": "GODL Verwerven",
+    "subHeading": "ONTGRENDEL HET POTENTIEEL VAN DIGITAAL GOUD",
+    "para1": "Maak de stap naar de wereld van GODL. Verkrijg GODL rechtstreeks met behulp van PAXG of USDC.",
+    "para2": "Voor PAXG-houders maakt de gebruiksvriendelijke Aurium-interface het mogelijk om GODL te slaan met behulp van uw PAXG",
+    "para3": "Geef de voorkeur aan het gebruik van USDC? Geen probleem. Bezoek onze partner gedecentraliseerde exchange voor een soepel verwervingsproces.",
+    "button1": {
+    "buttonText": "Slaan met PAXG",
+    "buttonCta_popup": {
+    "heading": "GODL Slaan met PAXG",
+    "popup_previewConversion": {
+    "description": "U start het proces om nieuwe GODL te creëren met behulp van uw PAXG-tokens. Deze actie koppelt de intrinsieke waarde van goud aan uw GODL-tokens, waardoor uw digitale vermogen groeit. Bevestig gewoon om uw GODL te slaan!",
+    "inputBoxPlaceholder": "Voer het bedrag van PAXG in om GODL te slaan",
+    "buttonText": "Voorbeeld Conversie"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "Goedkeuring PAXG",
+    "buttonApproveOnClickResponse": "Uw transactie is gestart en wordt nu verwerkt op de blockchain. Het kan enkele minuten duren, afhankelijk van de netwerkcongestie. Even geduld!"
+    },
+    "popup_mint": {
+    "description": "",
+    "buttonMintText": "GODL Slaan",
+    "buttonMintOnClickResponse": "Slaan in behandeling..."
+    },
+    "popup_mint_success": {
+    "buttonMintSuccessfulText": "Succesvol Geslagen",
+    "addTokenText": "Voeg GODL toe aan uw verbonden portefeuille."
+    }
+    }
+    },
+    "button2Text": "Koop met USDC"
+    },
+    "section2": {
+    "heading": "Liquidate GODL",
+    "subHeading": "ZET JE GODL OM IN PAXG OF USDC",
+    "para1": "Wanneer je maar wilt, kun je eenvoudig je GODL-bezit liquideren voor PAXG of USDC.",
+    "para2": "Met de Aurium-interface kunnen PAXG-houders eenvoudig hun GODL verbranden en PAXG ontvangen in ruil daarvoor.",
+    "para3": "Als je je GODL wilt omwisselen voor USDC, hebben we dat voor je geregeld. Bezoek gewoon onze partner gedecentraliseerde exchange voor een snelle transactie.",
+    "button1": {
+    "buttonText": "Verbranden voor PAXG",
+    "buttonCta_popup": {
+    "heading": "GODL Verbranden voor PAXG",
+    "popup_previewConversion": {
+    "description": "U staat op het punt uw GODL om te zetten in PAXG. Zorg ervoor dat u de conversiekoersen heeft gecontroleerd en klaar bent om de swap uit te voeren. Zodra bevestigd, zal de transactie worden verwerkt.",
+    "inputBoxPlaceholder": "Voer het bedrag van GODL in om PAXG te ontvangen",
+    "buttonText": "Voorbeeld Conversie"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "Goedkeuring GODL",
+    "buttonApproveOnClickResponse": "Uw transactie is gestart en wordt nu verwerkt op de blockchain. Het kan enkele minuten duren, afhankelijk van de netwerkcongestie. Even geduld!"
+    },
+    "popup_burn": {
+    "description": "",
+    "buttonMintText": "GODL Slaan",
+    "buttonMintOnClickResponse": "Slaan in behandeling..."
+    },
+    "popup_burn_success": {
+    "buttonMintSuccessfulText": "Succesvol Verkocht",
+    "addTokenText": "Voeg PAXG toe aan uw verbonden portefeuille."
+    }
+    }
+    },
+    "button2Text": "Verkopen voor USDC"
+    }
+    }
+    }
+    
+    

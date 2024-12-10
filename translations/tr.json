@@ -1,0 +1,284 @@
+{
+    "topStrip": {
+    "price1": "1 PAXG: xxx USDC",
+    "price2": "1 GODL: xxx USDC",
+    "price3": "1 GODL: xxx PAXG"
+    },
+    "navbar": {
+    "link1": "Ana Sayfa",
+    "link2": "Yönlendirme Keşfet",
+    "link3": "Hesabım",
+    "link3OnHover": "Henüz GODL Ağı'na katılmadınız",
+    "link4": "GODL Ticareti",
+    "link5": "Yönetici",
+    "connectWalletButton": "Cüzdanı Bağla"
+    },
+    "footer": {
+    "heading": "GODL Altın Elçi Etki Ağı",
+    "para1": "GODL Gold, her bir jetonun temel altın değerini giderek artırarak uzun vadeli tutmayı ödüllendiren, deflasyonist ve altın destekli bir kripto para birimidir. Elçi Programı, GODL içinde topluluğun itibarını artıran ve platformun büyümesine katkıda bulunan katılımcılara ödül veren bir topluluk destekli bir girişimdir. Bu, GODL etrafında canlı ve aktif bir topluluk oluşmasını sağlar.",
+    "button1": "PAXG Ekle",
+    "button2": "GODL Ekle",
+    "button3": "USDC Ekle",
+    "linkSection1": {
+    "heading": "Topluluk",
+    "link1": "Telegram",
+    "link2": "Discord",
+    "link3": "Twitter",
+    "link4": "YouTube"
+    },
+    "linkSection2": {
+    "heading": "Cüzdanlar",
+    "link1": "Metamask",
+    "link2": "Trust Wallet",
+    "link3": "Wallet Connect"
+    },
+    "linkSection3": {
+    "heading": "Kripto Bağlantılar",
+    "link1": "PAXG Al",
+    "link2": "USDC Al",
+    "link3": "PAXG Jeton Sözleşmesi",
+    "link4": "USDC Jeton Sözleşmesi",
+    "link5": "GODL Jeton Sözleşmesi"
+    },
+    "linkSection4": {
+    "heading": "Araçlar ve Bilgiler",
+    "link1": "Dextool'da Grafikleri Görüntüle",
+    "link2": "Paxos Websitesi",
+    "link3": "Aurium Beyaz Kağıdı",
+    "link4": "Coin Market Cap",
+    "link5": "Coin Gecko"
+    },
+    "copyrightText": "Tüm Hakları Saklıdır - GODL Gold"
+    },
+    "homePage": {
+    "section1": {
+    "heading": "GODL Gold",
+    "subHeading": "ALTININ BÜYÜMEYLE BULUŞTUĞU YER",
+    "para1": "GODL Gold ile servet depolamanın geleceğine adım atın.",
+    "para2": "Altını dijital çağ için yeniden tasarladık, sadece değerini korumakla kalmayıp çoğaltmasını da sağladık. Altın Elçi Etki Ağımıza katılarak, refah ve büyümeyi kolektif olarak teşvik eden aktif bir topluluğun parçası olursunuz.",
+    "para3": "Bir GAINer olun ve altının sadece depolandığı değil, aynı zamanda geliştiği bir varlık yönetimi deneyimi yaşayın!",
+    "button1Text": "Şimdi Katıl!",
+    "button1CTA": {
+    "popup_withoutWalletConnection": {
+    "heading": "GODL Elçi Ağı'na Katılın",
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Referral adresini girin",
+    "errorText": "Lütfen cüzdanınızı bağlayın"
+    },
+    "popup_withWalletConnected_alreadyJoined": {
+    "heading": "Zaten Katıldınız!",
+    "para1": "Tebrikler, GODL Gold Ağı'na başarıyla katıldınız!",
+    "para2": "Yeni bir elçi olarak, altının büyümeyle buluştuğu, gelişen bir ekosistemin parçası haline geldiniz. Birlikte etkileyici bir yolculuk yaratalım.",
+    "para3": "Hoş geldiniz!"
+    },
+    "popup_withWalletConnected_newUser": {
+    "heading": "GODL Elçi Ağı'na Katılın",
+    "popup_approve": {
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Referral adresini girin",
+    "tncButtonText": "Kullanım Koşullarımızı Kabul Edin",
+    "tncButtonCtaPopup": {
+    "heading": "Kullanım Koşulları",
+    "para1": "Açıklama: GODL Gold platformu, eksiksiz güvenlik, güvenilirlik veya doğruluk garantisi verememekle birlikte, 'olduğu gibi' ve 'mevcut olduğu gibi' temelinde sunulan merkezi olmayan bir uygulamadır (DApp). En yüksek hizmet ve performans standartlarını korumak için çaba sarf ediyoruz, ancak tam güvenlik, güvenilirlik veya doğruluk garantisi veremeyiz.",
+    "para2": "Bir kullanıcı olarak, ağ içindeki eylemlerinizin tek sorumlusu sizsiniz. Platformumuzu sorumlu bir şekilde kullanın, detaylı bir inceleme yapın ve GODL Gold dahil herhangi bir kripto para platformuyla etkileşiminin doğal riskler taşıdığını unutmayın. Bu platformu kullanarak, bu riskleri kabul ettiğinizi ve kabul ettiğinizi beyan edersiniz."
+    },
+    "buttonApproveText": "PAXG'yi Onayla",
+    "buttonApproveOnClickResponse": "İşleminiz başlatıldı ve şu anda blockchain'de işleniyor. Ağ yoğunluğuna bağlı olarak birkaç dakika sürebilir. Sabırlı olun!"
+    },
+    "popup_join": {
+    "description": "",
+    "buttonJoinText": "GODL'e Katıl",
+    "buttonJoinOnClickResponse": "Katılım devam ediyor..."
+    },
+    "popup_join_success": {
+    "description": "",
+    "buttonJoinSuccessText": "Başarıyla Katılındı!",
+    "addTokenText": "Bağlı cüzdana GODL ekle."
+    }
+    }
+    },
+    "button2Text": "GODL Ticareti",
+    "button3Text": "PAXG Satın Al"
+    },
+    "section2": {
+    "stats1": "Elçiler",
+    "stats2": "Oluşturulan Toplam Ödüller ",
+    "stats3": "Biriktirilen Toplam Ödüller "
+    },
+    "section3": {
+    "heading": "Deflasyonist Tasarım",
+    "para1": "GODL Gold, deflasyonist yapısı ve altın karşılığında kullanılabilme özelliğiyle kendini diğerlerinden ayırıyor. Jeton sayısı zamanla azaldıkça, kalan her jeton altın rezervinin daha büyük bir payı karşılığında değiştirilebilir hale geliyor. Bu tasarım, sahip olduğunuz varlıkların içsel değerinin sürekli olarak artmasını sağlar.",
+    "para2": "GODL, altın varlığınızı genişletmek için yenilikçi bir yaklaşım sunar, bu da basit ve dijital hale getirir."
+    },
+    "section4": {
+    "heading": "Altın Destekli Güvence",
+    "para1": "GODL, değeri kanıtlanmış bir somut varlık olan altın tarafından desteklenmektedir. Bu altın bağlantısı, dijital varlıklarınız için sağlam bir değer tabanı sağlamakla kalmaz, aynı zamanda bunları fiziksel altınla değiştirmenizi de sağlar. Bu, hızla gelişen dijital finans alanında eşsiz bir güvenlik ve likidite sağlar."
+    },
+    "section5": {
+    "heading": "Gelişen Bir Ağ",
+    "para1": "GODL Gold Elçi Etki Ağı aracılığıyla, değer yaratma ve servet koruma ortak hedefine odaklanan dinamik bir topluluğun parçası olursunuz. Jeton sahibi olarak, rolünüz sadece katılım ile sınırlı değildir. Servet büyümesini topluluk katkısı ve etkin katılıma dönüştüren bir kolektif sistemde katkıda bulunur ve bundan faydalanırsınız."
+    }
+    },
+    "referralExplorerPage": {
+    "heading": "GODL Yönlendirme Keşfet",
+    "para1": "Merak, gelişen bir topluluğun temelidir. Bu nedenle 'GODL Yönlendirme Keşfet' özelliğini ekledik. Bir internet arama motorunu kullanabileceğiniz gibi, arama çubuğuna herhangi bir cüzdan adresini girerek ilgili ayrıntıları görüntüleyebilirsiniz. Adresimizde mevcut ise, Elçi seviyeleri ve yönlendirmeler gibi bilgileri göreceksiniz. Dahası, kullanışlı arayüzümüzle bu adresleri Etherscan'a doğrudan bir bağlantıyla ayrı ayrı işlemlerine kadar takip edebilirsiniz.",
+    "para2": "GODL Ağı Keşfi, birlikte oluşturduğumuz canlı ekosisteme şeffaf bir pencere açar.",
+    "inputBoxPlaceholder": "Cüzdan adresini girin",
+    "buttonText": "Adresi Ara",
+    "tableHeadings": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+    ],
+    "stats1": "Yönlendirme Adresi",
+    "stats2": "Otomatik Seviye Bakiyesi ",
+    "stats3": "Seviye",
+    "stats4": "Yönlendirme Sayısı",
+    "stats5": "Kazanılan Ödüller ",
+    "stats6": "Kayıt Tarihi"
+    },
+    "myAccountPage": {
+    "section1": {
+    "heading": "Arkadaşları Davet Et",
+    "copyLinkText": "Davet Bağlantınızı KOPYALA",
+    "step1": {
+    "title": "Davet Bağlantısını Kopyala",
+    "description": "Benzersiz bağlantınızı panonuza kopyalamak için 'Arkadaşları Davet Et' düğmesine tıklayın."
+    },
+    "step2": {
+    "title": "Davet Bağlantısını Paylaş",
+    "description": "Bağlantı, arkadaşlarınızın cüzdan adresinizi manuel olarak girmelerine gerek kalmadan ağa katılmasını kolaylaştırır."
+    },
+    "step3": {
+    "title": "Ödül Kazan",
+    "description": "Arkadaşlarınız ve onların arkadaşları ağa katıldığında ödüller kazanırsınız. Herkes için kazan-kazan bir durum."
+    }
+    },
+    "section2": {
+    "heading": "İstatistikler",
+    "stats1": "Yönlendirici Adres",
+    "stats2": "Otomatik Seviye Bakiyesi ",
+    "stats3": "Seviye",
+    "stats4": "Yönlendirme Sayısı",
+    "stats5": "Kazanılan Ödüller ",
+    "stats6": "Kayıt Tarihi"
+    },
+    "section3": {
+    "heading": "Otomatik Seviye Yükseltme",
+    "para1": "GODL Gold, ağdaki büyüme potansiyelinizi artıran yenilikçi bir 'Otomatik Seviye Yükseltme' mekanizması içerir. Elçi Programı'ndan gelen ödüllerinizi sadece biriktirmek yerine otomatik olarak bir sonraki seviyeye yükselmek için kullanır. Bu sadece birikim değil, ilerlemeyi ifade eder.",
+    "para2": "Ödüllerinizi yukarı doğru harekete dönüştürerek ağın seviyelerinde yükselme imkanı elde edebilirsiniz. Otomatik Seviye Yükseltme ile GODL, sadece bir sahiplik değil, ağdaki yolculuğunuzda aktif bir katılımcı haline gelir.",
+    "para3": "Şu anda otomatik seviye yükseltme modunuz ${reInvestFlag}",
+    "buttonText": "${!reInvestFlag} Olarak Değiştir",
+    "buttonOnClickResponse": "Otomatik Seviye Yükseltme işlemi devam ediyor..."
+    },
+    "section4": {
+    "heading": "Seviye Yükseltme",
+    "para1": "GODL Gold ağında büyüme, seviyeler arasında yükselmekle eşanlamlıdır. 'Seviye Yükseltme' özelliği, Elçilerin aktif olarak durumlarını ilerletmelerini sağlamak üzere tasarlanmıştır. Daha yüksek bir seviye satın alarak sadece kendi ödül potansiyelinizi artırmakla kalmaz, aynı zamanda genel ağ gücüne katkıda bulunursunuz. 1. Seviyeden 5. Seviyeye doğru her adım, GODL ağının tam potansiyeline ulaşmanıza bir adım daha yaklaştırır.",
+    "para2": "Dahası, ağ içindeki etkinliğinizi artırır ve başarısına hayati bir katkıda bulunan önemli bir katılımcı olmanızı sağlar. 'Seviye Yükseltme' ile sadece katılım sağlamaz, GODL Gold ağındaki yolculuğunuzun kontrolünü elinize alırsınız.",
+    "buttonText": "Seviye Yükselt",
+    "buttonCtaPopup": {
+    "heading": "Seviye Yükseltme",
+    "popup_approve": {
+    "buttonApproveText": "Onay Metni",
+    "notSelectTier_errorText": "Lütfen bir paket seviyesi seçin",
+    "buttonApproveOnClickResponse": "Onay işlemi devam ediyor..."
+    },
+    "popup_tierUp": {
+    "buttonTierUpText": "Seviye Yükselt",
+    "approvalSuccessText": "Onaylama başarılı! Seviye yükseltmek için yukarıdaki düğmeye tıklayın.",
+    "buttonTierUpOnClickResponse": "İşleminiz başlatıldı ve şu anda blok zincirinde işleniyor. Ağ yoğunluğuna bağlı olarak birkaç dakika sürebilir. Sabırlı olun!"
+    },
+    "popup_tierUp_success": {
+    "buttonTierUpSuccessText": "Başarıyla Seviye Güncellendi",
+    "addTokenText": "Bağlı cüzdana GODL ekleyin."
+    }
+    },
+    "section5": {
+    "heading": "Cüzdan Adresini Değiştir",
+    "para1": "Kripto paraların dijital dünyasında cüzdan adresiniz kimliğinizdir. Peki ya bir şeyler olursa? Hesabınızdaki cüzdan adresinizi değiştirmeniz gerekebilir. Bu işlemi kolaylaştırıyoruz.",
+    "para2": "'Cüzdan Adresini Değiştir' özelliğimiz, kripto alanında yeni olanlar için bile basit olacak şekilde tasarlanmıştır. Yeni bir eve taşındığınızda fiziksel adresinizi değiştirebileceğiniz gibi, bu özellik GODL Gold ağındaki dijital adresinizi güncellemenizi sağlar. Yeni cüzdan adresinizi girmeniz ve değişikliği onaylamanız kadar basittir. Böylece, ağdaki kimliğinizin kontrolünü elinizde tutar ve tüm ödüllerinizin doğru yere gitmesini sağlarsınız.",
+    "buttonText": "Cüzdan Adresi",
+    "buttonCtaPopup": {
+    "heading": "Cüzdan Adresini Değiştir",
+    "para1": "Cüzdan adresinizi güncellemeye hazırsınız, GODL Gold ağındaki önemli bir tanımlayıcı. Bunu yaparak, tüm ödüllerin ve faydaların yeni adresinize doğru şekilde bağlı kalmasını sağlarsınız. Değişikliği onaylamayı unutmayın. Kripto kimliğinizi yönetmek için hızlı ve güvenli bir adımdır.",
+    "inputBoxPlaceholder": "Yeni cüzdan adresini girin",
+    "buttonAddNewAddressText": "Yeni Adres Ekle",
+    "buttonAddNewAddressOnClickResponse": "Yeni cüzdan adresi ekleniyor..."
+    }
+    }
+    }
+    },
+    "tradeGodlPage": {
+    "section1": {
+    "heading": "GODL Edin",
+    "subHeading": "DİJİTAL ALTININ POTANSİYELİNİ KEŞFEDİN",
+    "para1": "GODL dünyasına adım atın. PAXG veya USDC kullanarak doğrudan GODL edinin.",
+    "para2": "PAXG sahipleri için kullanıcı dostu Aurium arayüzü, PAXG'nizi kullanarak GODL üretmenizi sağlar.",
+    "para3": "USDC kullanmayı tercih ederseniz, sorun değil. Pürüzsüz bir edinim süreci için partner merkezsiz borsamızı ziyaret edin.",
+    "button1": {
+    "buttonText": "PAXG ile Üret",
+    "buttonCta_popup": {
+    "heading": "PAXG ile GODL Üret",
+    "popup_previewConversion": {
+    "description": "PAXG tokenlarınızı kullanarak yeni bir GODL oluşturma sürecini başlatıyorsunuz. Bu işlem, GODL tokenlarınızın içsel altın değerini bağlayarak dijital varlığınızın büyümesini sağlar. GODL'ünüzü üretmek için onaylayın!",
+    "inputBoxPlaceholder": "Üretmek için PAXG miktarını girin",
+    "buttonText": "Dönüşümü Önizle"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "PAXG'yi Onayla",
+    "buttonApproveOnClickResponse": "İşleminiz başlatıldı ve şu anda blok zincirinde işleniyor. Ağ yoğunluğuna bağlı olarak birkaç dakika sürebilir. Sabırlı olun!"
+    },
+    "popup_mint": {
+    "description": "",
+    "buttonMintText": "GODL Üret",
+    "buttonMintOnClickResponse": "Üretim işlemi devam ediyor..."
+    },
+    "popup_mint_success": {
+    "buttonMintSuccessfulText": "Başarıyla Üretildi",
+    "addTokenText": "Bağlı cüzdana GODL ekleyin."
+    }
+    }
+    },
+    "button2Text": "USDC ile Satın Al"
+    },
+    "section2": {
+    "heading": "GODL'ü Likiditeye Çevir",
+    "subHeading": "GODL'ÜNÜZÜ PAXG VEYA USDC'YE DÖNÜŞTÜRÜN",
+    "para1": "İhtiyaç duyduğunuzda GODL varlıklarınızı kolaylıkla PAXG veya USDC'ye çevirebilirsiniz.",
+    "para2": "Aurium arayüzü ile PAXG sahipleri GODL tokenlarını kolayca yakabilir ve karşılığında PAXG alabilir.",
+    "para3": "GODL'ünüzü USDC karşılığında takas etmek isterseniz, sizin için hazırlıklıyız. Hızlı bir işlem için partner merkezsiz borsamızı ziyaret edin.",
+    "button1": {
+    "buttonText": "PAXG İçin Yak",
+    "buttonCta_popup": {
+    "heading": "PAXG İçin GODL'ü Yak",
+    "popup_previewConversion": {
+    "description": "GODL tokenlarınızı PAXG'ye dönüştürmek üzeresiniz. Dönüşüm oranlarını kontrol ettiğinizden ve takası gerçekleştirmeye hazır olduğunuzdan emin olun. Onaylandığında işlem gerçekleştirilecek.",
+    "inputBoxPlaceholder": "PAXG almak için GODL miktarını girin",
+    "buttonText": "Dönüşümü Önizle"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "GODL'ü Onayla",
+    "buttonApproveOnClickResponse": "İşleminiz başlatıldı ve şu anda blok zincirinde işleniyor. Ağ yoğunluğuna bağlı olarak birkaç dakika sürebilir. Sabırlı olun!"
+    },
+    "popup_burn": {
+    "description": "",
+    "buttonMintText": "GODL Yak",
+    "buttonMintOnClickResponse": "Yakma işlemi devam ediyor..."
+    },
+    "popup_burn_success": {
+    "buttonMintSuccessfulText": "Başarıyla Satıldı",
+    "addTokenText": "Bağlı cüzdana PAXG ekleyin."
+    }
+    }
+    },
+    "button2Text": "USDC için Sat"
+    }
+    }
+    }
+    
+    
+    

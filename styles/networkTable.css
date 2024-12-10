@@ -1,0 +1,49 @@
+.network-table {
+    margin: 30px auto !important;
+}
+
+.network-table table {
+    width: 100%;
+    /* height: 125px; */
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    margin: 30px auto;
+}
+
+.network-table td {
+    text-align: center;
+    border: 1px solid #a7a7a7;
+    font-weight: 400;
+    color: #f8f7f3;
+    font-size: 16px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.table-address {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 15px;
+}
+
+.icons-cont {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.table-flex{
+    display: flex;
+}
+@media screen and (max-width:960px) {
+    .table-flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .network-table table{
+        width: 100%;
+        margin: 15px auto;
+    }
+}

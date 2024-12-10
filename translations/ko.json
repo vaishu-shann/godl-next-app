@@ -1,0 +1,284 @@
+{
+    "topStrip": {
+    "price1": "1 PAXG: xxx USDC",
+    "price2": "1 GODL: xxx USDC",
+    "price3": "1 GODL: xxx PAXG"
+    },
+    "navbar": {
+    "link1": "홈",
+    "link2": "추천 탐색기",
+    "link3": "내 계정",
+    "link3OnHover": "아직 GODL 네트워크에 가입하지 않았습니다",
+    "link4": "GODL 거래",
+    "link5": "관리자",
+    "connectWalletButton": "지갑 연결"
+    },
+    "footer": {
+    "heading": "GODL 골드 앰배서더 영향력 네트워크",
+    "para1": "GODL 골드는 각 토큰의 골드 가치를 점진적으로 증가시켜 장기 보유를 보상하는 소멸적인 골드를 백업한 암호 화폐입니다. 앰배서더 프로그램은 GODL 내에서 진행되는 커뮤니티 주도적인 이니셔티브로, 플랫폼을 홍보하고 성장에 기여한 참가자들에게 보상을 제공합니다. 이를 통해 활발하고 참여적인 GODL 커뮤니티가 형성됩니다.",
+    "button1": "PAXG 추가",
+    "button2": "GODL 추가",
+    "button3": "USDC 추가",
+    "linkSection1": {
+    "heading": "커뮤니티",
+    "link1": "텔레그램",
+    "link2": "디스코드",
+    "link3": "트위터",
+    "link4": "유튜브"
+    },
+    "linkSection2": {
+    "heading": "지갑",
+    "link1": "Metamask",
+    "link2": "Trust Wallet",
+    "link3": "지갑 연결"
+    },
+    "linkSection3": {
+    "heading": "암호 화폐 링크",
+    "link1": "PAXG 얻기",
+    "link2": "USDC 얻기",
+    "link3": "PAXG 토큰 계약",
+    "link4": "USDC 토큰 계약",
+    "link5": "GODL 토큰 계약"
+    },
+    "linkSection4": {
+    "heading": "도구 및 정보",
+    "link1": "Dextool에서 차트 보기",
+    "link2": "Paxos 웹사이트",
+    "link3": "Aurium 백서",
+    "link4": "Coin Market Cap",
+    "link5": "Coin Gecko"
+    },
+    "copyrightText": "All Rights Reserved - GODL Gold"
+    },
+    "homePage": {
+    "section1": {
+    "heading": "GODL 골드",
+    "subHeading": "골드와 성장이 만나는 곳",
+    "para1": "GODL 골드와 함께 재산 저장의 미래로 나아가세요.",
+    "para2": "우리는 디지털 시대를 위해 골드를 재탄생시켰으며, 보존뿐만 아니라 가치도 증가하도록 보장합니다. Gold Ambassador Influence Network에 참여함으로써 번영과 성장을 공동으로 촉진하는 활발한 커뮤니티의 일원이 되실 수 있습니다.",
+    "para3": "GAINer가 되어 골드가 단순히 저장되는 것이 아니라 번성하는 형태의 재산 관리의 새로운 차원을 경험해보세요!",
+    "button1Text": "지금 가입하기!",
+    "button1CTA": {
+    "popup_withoutWalletConnection": {
+    "heading": "GODL 앰배서더 네트워크 가입",
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "추천인 주소 입력",
+    "errorText": "지갑을 연결해 주세요"
+    },
+    "popup_withWalletConnected_alreadyJoined": {
+    "heading": "이미 가입했습니다!",
+    "para1": "축하합니다. GODL 골드 네트워크에 성공적으로 가입하셨습니다!",
+    "para2": "새로운 앰배서더로서 번영하는 생태계의 일원이 되셨으며, 골드와 성장이 만나는 장소입니다. 함께 의미있는 여정을 만들어봅시다.",
+    "para3": "환영합니다!"
+    },
+    "popup_withWalletConnected_newUser": {
+    "heading": "GODL 앰배서더 네트워크 가입",
+    "popup_approve": {
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "추천인 주소 입력",
+    "tncButtonText": "약관 및 조건을 동의합니다",
+    "tncButtonCtaPopup": {
+    "heading": "약관 및 조건",
+    "para1": "면책 조항: GODL 골드 플랫폼은 '있는 그대로' 및 '사용 가능한 상태'의 분산 애플리케이션 (DApp)으로 제공되며, 명시적 또는 암묵적인 어떠한 종류의 보증도 제공하지 않습니다. 우리는 최고의 서비스 및 성능 표준을 유지하기 위해 노력하지만, 완전한 보안, 신뢰성 또는 정확성을 보장할 수 없습니다.",
+    "para2": "사용자로서, 네트워크 내에서의 모든 행동에 대한 단독 책임을 집니다. 담당성 있게 플랫폼을 사용하고 철저한 사전 조사를 수행하며, GODL 골드를 포함한 모든 암호 화폐 플랫폼과의 관계는 본질적인 위험을 내포하고 있음을 기억해야 합니다. 이 플랫폼을 사용함으로써 위험을 인지하고 수락하는 것입니다."
+    },
+    "buttonApproveText": "PAXG 승인",
+    "buttonApproveOnClickResponse": "거래가 시작되었으며, 블록체인에서 처리 중입니다. 네트워크 혼잡에 따라 몇 분이 소요될 수 있습니다. 잠시 기다려주세요!"
+    },
+    "popup_join": {
+    "description": "",
+    "buttonJoinText": "GODL 가입",
+    "buttonJoinOnClickResponse": "가입 진행 중..."
+    },
+    "popup_join_success": {
+    "description": "",
+    "buttonJoinSuccessText": "가입에 성공했습니다!",
+    "addTokenText": "연결된 지갑에 GODL을 추가하세요."
+    }
+    }
+    },
+    "button2Text": "GODL 거래",
+    "button3Text": "PAXG 구매"
+    },
+    "section2": {
+    "stats1": "앰배서더",
+    "stats2": "총 보상 생성량 ",
+    "stats3": "총 누적 보상량 "
+    },
+    "section3": {
+    "heading": "소멸적인 설계",
+    "para1": "GODL 골드는 소멸적인 성질과 골드에서의 교환 가능한 가치를 갖추고 있어 독특한 위치에 있습니다. 시간이 지남에 따라 토큰 수가 감소함에 따라 남은 각 토큰은 기존의 골드 보유분의 더 큰 비율로 교환 가능해집니다. 이 설계는 보유 자산의 본질적 가치가 지속적으로 증가하도록 보장합니다.",
+    "para2": "GODL은 골드에서의 재산 증가를 간편하고 디지털적으로 확장할 수 있는 혁신적인 방법을 제공합니다."
+    },
+    "section4": {
+    "heading": "골드에 백업된 보장",
+    "para1": "GODL은 검증된 가치를 가진 유형의 자산인 골드에 백업됩니다. 이러한 골드와의 연결은 디지털 자산에 견고한 가치 기반을 제공할 뿐만 아니라 물리적인 골드로 교환할 수 있게 해줍니다. 이로써 신속하게 변화하는 디지털 금융 공간에서 앞선 보안성과 유동성을 얻을 수 있습니다."
+    },
+    "section5": {
+    "heading": "번영하는 네트워크",
+    "para1": "GODL 골드 앰배서더 영향력 네트워크를 통해 가치 창출과 재산 보존을 목표로 하는 역동적인 커뮤니티의 일원이 되실 수 있습니다. 토큰 홀더로서 여러분의 역할은 단순한 참여 이상으로 확장됩니다. 참여와 적극적인 기여를 보상하는 집단적인 시스템에 참여하고 혜택을 누리며, 재산의 성장을 공동으로 추구하는 여정으로 전환됩니다."
+    }
+    },
+    "referralExplorerPage": {
+    "heading": "GODL 추천 탐색기",
+    "para1": "호기심은 번영하는 커뮤니티의 기반입니다. 그래서 'GODL 추천 탐색기' 기능을 포함시켰습니다. 인터넷 검색 엔진을 사용하는 것과 같이 검색 창에 어떤 지갑 주소를 입력하면 관련된 세부 정보가 표시됩니다. 주소가 네트워크에 존재한다면 앰배서더 계층 및 추천 등과 같은 정보를 볼 수 있습니다. 더불어 직접 Etherscan으로 연결되는 링크를 통해 해당 주소의 개별 거래까지 탐색할 수 있는 직관적인 인터페이스를 제공합니다.",
+    "para2": "GODL 네트워크 탐색기는 형성 중인 활기찬 생태계로의 투명한 창구입니다.",
+    "inputBoxPlaceholder": "지갑 주소 입력",
+    "buttonText": "주소 검색",
+    "tableHeadings": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+    ],
+    "stats1": "추천인 주소",
+    "stats2": "자동 계층 잔액 ",
+    "stats3": "계층",
+    "stats4": "추천 수",
+    "stats5": "획득한 보상 ",
+    "stats6": "등록일"
+    },
+    "myAccountPage": {
+    "section1": {
+    "heading": "친구 초대",
+    "copyLinkText": "추천 링크 복사",
+    "step1": {
+    "title": "초대 링크 복사",
+    "description": "추천 링크 버튼을 클릭하여 고유한 링크를 클립보드에 복사합니다."
+    },
+    "step2": {
+    "title": "초대 링크 공유",
+    "description": "이 링크를 통해 친구들은 지갑 주소를 수동으로 입력하지 않고도 네트워크에 가입할 수 있습니다."
+    },
+    "step3": {
+    "title": "보상 받기",
+    "description": "친구들과 그들의 친구들이 네트워크에 가입하면 보상을 받습니다. 모두에게 이로운 상황입니다."
+    }
+    },
+    "section2": {
+    "heading": "통계",
+    "stats1": "추천인 주소",
+    "stats2": "자동 계층 잔액 ",
+    "stats3": "계층",
+    "stats4": "추천 횟수",
+    "stats5": "획득한 보상 ",
+    "stats6": "등록일"
+    },
+    "section3": {
+    "heading": "자동 계층 업",
+    "para1": "GODL Gold는 성장 잠재력을 향상시키는 혁신적인 '자동 계층 업' 메커니즘을 도입한 도구입니다. 앰배서더 프로그램에서의 보상을 방치하지 않고 자동으로 다음 계층으로 이동하는 데 사용됩니다. 이는 단순한 축적이 아닌 진보입니다.",
+    "para2": "보상을 원활하게 성장을 위한 움직임으로 전환함으로써 네트워크에서 순위를 높일 수 있습니다. 자동 계층 업을 통해 GODL은 단순한 소유물 이상이며, 네트워크를 통해 여정에 적극적으로 참여하는 주인공입니다.",
+    "para3": "현재 자동 계층 업 모드는 ${reInvestFlag}입니다.",
+    "buttonText": "${!reInvestFlag}으로 전환",
+    "buttonOnClickResponse": "자동 계층 업이 진행 중입니다..."
+    },
+    "section4": {
+    "heading": "계층 업",
+    "para1": "GODL Gold 네트워크에서 성장은 계층을 통해 상승하는 것과 동일한 의미를 가집니다. '계층 업' 기능은 앰배서더가 자신의 지위를 적극적으로 발전시킬 수 있도록 설계되었습니다. 더 높은 계층을 구매함으로써 자신의 보상 잠재력을 높이는 것뿐만 아니라 전체 네트워크 강도에 기여합니다. 1계층에서 5계층으로 올라가는 각각의 단계는 GODL 네트워크의 전체 잠재력을 실현하는 데 한 걸음 더 가까워집니다.",
+    "para2": "무엇보다도 네트워크 내에서 여러분의 영향력을 증폭시켜 성공에 기여하는 중추적인 역할을 합니다. '계층 업'을 통해 여러분은 단순한 참여뿐만 아니라 GODL Gold 네트워크에서 여정을 주도할 수 있습니다.",
+    "buttonText": "계층 업",
+    "buttonCtaPopup": {
+    "heading": "계층 업",
+    "popup_approve": {
+    "buttonApproveText": "승인 텍스트",
+    "notSelectTier_errorText": "패키지 계층을 선택해주세요",
+    "buttonApproveOnClickResponse": "승인 중입니다..."
+    },
+    "popup_tierUp": {
+    "buttonTierUpText": "계층 업",
+    "approvalSuccessText": "승인이 성공적으로 완료되었습니다! 계층 업을 위해 위의 버튼을 클릭하세요.",
+    "buttonTierUpOnClickResponse": "트랜잭션이 시작되어 블록체인에서 처리 중입니다. 네트워크 혼잡에 따라 몇 분이 소요될 수 있습니다. 잠시 기다려주세요!"
+    },
+    "popup_tierUp_success": {
+    "buttonTierUpSuccessText": "계층 업이 성공적으로 업데이트되었습니다",
+    "addTokenText": "연결된 지갑에 GODL 추가하기"
+    }
+    },
+    "section5": {
+    "heading": "지갑 주소 변경",
+    "para1": "암호화폐의 디지털 세계에서는 지갑 주소가 여러분의 신원을 나타냅니다. 하지만 예기치 않은 일이 발생할 경우 어떻게 해야 할까요? 계정의 지갑 주소를 변경해야 할 수도 있습니다. 이를 쉽게 할 수 있도록 지원합니다.",
+    "para2": "'지갑 주소 변경' 기능은 암호화폐 공간에 처음 입문하는 사람들도 간단하게 사용할 수 있도록 설계되었습니다. 새 집으로 이사를 갈 때 물리적 주소를 변경하는 것과 마찬가지로, 이 기능을 사용하면 GODL Gold 네트워크에서 디지털 주소를 업데이트하고 변경 내용을 확인할 수 있습니다. 새로운 지갑 주소를 입력하고 변경을 확인하는 것만으로도 네트워크에서 여러분의 신원을 효과적으로 관리할 수 있습니다. 이를 통해 모든 보상과 혜택이 올바른 장소로 이동되도록 보장합니다.",
+    "buttonText": "지갑 주소",
+    "buttonCtaPopup": {
+    "heading": "지갑 주소 변경",
+    "para1": "GODL Gold 네트워크에서 지갑 주소를 업데이트하려고 합니다. 이렇게 하면 모든 보상과 혜택이 새 주소에 정확하게 연결됩니다. 변경을 확인하세요. 크립토 신원을 관리하기 위한 빠르고 안전한 단계입니다.",
+    "inputBoxPlaceholder": "새 지갑 주소 입력",
+    "buttonAddNewAddressText": "새 주소 추가",
+    "buttonAddNewAddressOnClickResponse": "새 지갑 주소 추가 중..."
+    }
+    }
+    }
+    },
+    "tradeGodlPage": {
+    "section1": {
+    "heading": "GODL 획득",
+    "subHeading": "디지털 골드의 잠재력을 해제하세요",
+    "para1": "PAXG 또는 USDC를 사용하여 직접 GODL을 획득하세요.",
+    "para2": "PAXG 홀더를 위한 사용자 친화적인 Aurium 인터페이스를 통해 PAXG를 사용하여 GODL을 발행할 수 있습니다.",
+    "para3": "USDC를 사용하고 싶으시다구요? 문제 없습니다. 원활한 획득 과정을 위해 우리의 파트너 탈중앙화 거래소를 방문하세요.",
+    "button1": {
+    "buttonText": "PAXG로 발행",
+    "buttonCta_popup": {
+    "heading": "PAXG로 GODL 발행",
+    "popup_previewConversion": {
+    "description": "PAXG 토큰을 사용하여 새로운 GODL을 생성하는 과정을 시작합니다. 이 작업은 GODL 토큰의 내재적 가치를 금과 연결하여 디지털 자산의 가치를 증가시킵니다. GODL을 발행하려면 확인을 클릭하세요!",
+    "inputBoxPlaceholder": "발행할 PAXG 금액을 입력하세요",
+    "buttonText": "변환 미리보기"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "PAXG 승인",
+    "buttonApproveOnClickResponse": "트랜잭션이 시작되어 블록체인에서 처리 중입니다. 네트워크 혼잡에 따라 몇 분이 소요될 수 있습니다. 잠시 기다려주세요!"
+    },
+    "popup_mint": {
+    "description": "",
+    "buttonMintText": "GODL 발행",
+    "buttonMintOnClickResponse": "발행 진행 중..."
+    },
+    "popup_mint_success": {
+    "buttonMintSuccessfulText": "발행 성공",
+    "addTokenText": "연결된 지갑에 GODL 추가하기"
+    }
+    }
+    },
+    "button2Text": "USDC로 구매"
+    },
+    "section2": {
+    "heading": "GODL 환전",
+    "subHeading": "GODL을 PAXG 또는 USDC로 전환하세요",
+    "para1": "원하는 경우 GODL 보유량을 PAXG 또는 USDC로 손쉽게 환전할 수 있습니다.",
+    "para2": "Aurium 인터페이스를 사용하면 PAXG 홀더는 GODL을 손쉽게 태우고 대신 PAXG를 받을 수 있습니다.",
+    "para3": "GODL을 USDC로 교환하려는 경우 파트너 탈중앙화 거래소를 방문하시면 간편한 거래가 가능합니다.",
+    "button1": {
+    "buttonText": "PAXG로 태우기",
+    "buttonCta_popup": {
+    "heading": "GODL을 PAXG로 태우기",
+    "popup_previewConversion": {
+    "description": "GODL을 PAXG로 전환하려고 합니다. 전환율을 확인하고 스왑을 실행할 준비가 되었는지 확인하세요. 확인 후 거래가 처리됩니다.",
+    "inputBoxPlaceholder": "PAXG로 전환할 GODL 금액을 입력하세요",
+    "buttonText": "변환 미리보기"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "GODL 승인",
+    "buttonApproveOnClickResponse": "트랜잭션이 시작되어 블록체인에서 처리 중입니다. 네트워크 혼잡에 따라 몇 분이 소요될 수 있습니다. 잠시 기다려주세요!"
+    },
+    "popup_burn": {
+    "description": "",
+    "buttonMintText": "GODL 태우기",
+    "buttonMintOnClickResponse": "태우기 진행 중..."
+    },
+    "popup_burn_success": {
+    "buttonMintSuccessfulText": "성공적으로 판매되었습니다",
+    "addTokenText": "연결된 지갑에 PAXG 추가하기"
+    }
+    }
+    },
+    "button2Text": "USDC로 판매"
+    }
+    }
+    }
+    
+    
+    

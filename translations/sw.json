@@ -1,0 +1,284 @@
+{
+    "topStrip": {
+    "price1": "1 PAXG: xxx USDC",
+    "price2": "1 GODL: xxx USDC",
+    "price3": "1 GODL: xxx PAXG"
+    },
+    "navbar": {
+    "link1": "Nyumbani",
+    "link2": "Mwambataji wa Rufaa",
+    "link3": "Akaunti Yangu",
+    "link3OnHover": "Bado hujajiunga na Mtandao wa GODL",
+    "link4": "Biashara ya GODL",
+    "link5": "Msimamizi",
+    "connectWalletButton": "unganisha mkoba"
+    },
+    "footer": {
+    "heading": "Mtandao wa Mabalozi wa Dhahabu ya GODL",
+    "para1": "Dhahabu ya GODL ni sarafu inayoungwa mkono na dhahabu ambayo hupunguza kwa utaratibu thamani ya dhahabu ya msingi ya kila ishara. Programu ya Balozi ni mpango unaosukumwa na jamii ndani ya GODL, ambapo washiriki hupokea tuzo kwa kukuza jukwaa na kuchangia ukuaji wake. Hii inajenga jamii yenye nguvu na inayoshiriki kikamilifu karibu na GODL.",
+    "button1": "Ongeza PAXG",
+    "button2": "Ongeza GODL",
+    "button3": "Ongeza USDC",
+    "linkSection1": {
+    "heading": "Jumuiya",
+    "link1": "Telegram",
+    "link2": "Discord",
+    "link3": "Twitter",
+    "link4": "YouTube"
+    },
+    "linkSection2": {
+    "heading": "Mikoba",
+    "link1": "Metamask",
+    "link2": "Trust Wallet",
+    "link3": "Unganisha Mkoba"
+    },
+    "linkSection3": {
+    "heading": "Viungo vya Crypto",
+    "link1": "Pata PAXG",
+    "link2": "Pata USDC",
+    "link3": "Mkataba wa Ishara za PAXG",
+    "link4": "Mkataba wa Ishara za USDC",
+    "link5": "Mkataba wa Ishara za GODL"
+    },
+    "linkSection4": {
+    "heading": "Zana na Habari",
+    "link1": "Tazama Chati kwenye Dextool",
+    "link2": "Tovuti ya Paxos",
+    "link3": "Karatasi Nyeupe ya Aurium",
+    "link4": "Coin Market Cap",
+    "link5": "Coin Gecko"
+    },
+    "copyrightText": "Haki Zote Zimehifadhiwa - Dhahabu ya GODL"
+    },
+    "homePage": {
+    "section1": {
+    "heading": "Dhahabu ya GODL",
+    "subHeading": "MAHALI AMBAPO DHAHABU INAKUTANA NA UKUAJI",
+    "para1": "Ingia katika siku zijazo za uhifadhi wa utajiri na Dhahabu ya GODL.",
+    "para2": "Tumebadilisha dhahabu kwa ajili ya enzi ya dijiti, ikihakikisha kuwa haipotezi tu lakini pia inaongeza thamani yake. Kwa kujiunga na Mtandao wetu wa Mabalozi wa Dhahabu, wewe ni sehemu ya jamii inayofanya kazi kwa pamoja kuendeleza ustawi na ukuaji.",
+    "para3": "Kuwa GAINer na ujue ulimwengu mpya wa usimamizi wa utajiri ambapo dhahabu sio tu kuhifadhiwa - inastawi!",
+    "button1Text": "Jiunge Sasa!",
+    "button1CTA": {
+    "popup_withoutWalletConnection": {
+    "heading": "Jiunge na Mtandao wa Mabalozi wa GODL",
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Ingiza anwani ya mualikaji",
+    "errorText": "Tafadhali unganisha mkoba wako"
+    },
+    "popup_withWalletConnected_alreadyJoined": {
+    "heading": "Tayari Umejiunga!",
+    "para1": "Hongera, umefanikiwa kujiunga na Mtandao wa Dhahabu ya GODL!",
+    "para2": "Kama balozi mpya, sasa wewe ni sehemu ya mfumo unaokua, ambapo dhahabu inakutana na ukuaji. Tuunda safari ya maana pamoja.",
+    "para3": "Karibu!"
+    },
+    "popup_withWalletConnected_newUser": {
+    "heading": "Jiunge na Mtandao wa Mabalozi wa GODL",
+    "popup_approve": {
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "Ingiza anwani ya mualikaji",
+    "tncButtonText": "Kubali Masharti na Masharti yetu",
+    "tncButtonCtaPopup": {
+    "heading": "Masharti na Masharti",
+    "para1": "Maelezo ya Kisheria: Jukwaa la Dhahabu ya GODL ni programu inayosambazwa (DApp) inayotolewa kama ilivyo na inapatikana bila dhamana yoyote ya wazi au ya kuashiria. Tunajitahidi kudumisha viwango vya juu vya huduma na utendaji, lakini hatuwezi kuhakikisha usalama, uaminifu, au usahihi kamili.",
+    "para2": "Kama mtumiaji, wewe ndiye pekee unayewajibika kwa vitendo vyako ndani ya mtandao. Tafadhali tumia jukwaa letu kwa uwajibikaji, fanya uchunguzi wa kina, na kumbuka kuwa kushiriki katika jukwaa lolote la sarafu, pamoja na Dhahabu ya GODL, kuna hatari za asili. Kwa kutumia jukwaa hili, unakiri na kukubali hatari hizi."
+    },
+    "buttonApproveText": "Thibitisha PAXG",
+    "buttonApproveOnClickResponse": "Uhamisho wako umeshaanza na sasa unachakatwa kwenye blockchain. Inaweza kuchukua dakika chache kulingana na msongamano wa mtandao. Subiri kidogo!"
+    },
+    "popup_join": {
+    "description": "",
+    "buttonJoinText": "Jiunge na GODL",
+    "buttonJoinOnClickResponse": "Kujiunga inaendelea..."
+    },
+    "popup_join_success": {
+    "description": "",
+    "buttonJoinSuccessText": "Umefanikiwa Kujiunga!",
+    "addTokenText": "Ongeza GODL kwenye mkoba uliounganishwa."
+    }
+    }
+    },
+    "button2Text": "Biashara ya GODL",
+    "button3Text": "Nunua PAXG"
+    },
+    "section2": {
+    "stats1": "Mabalozi",
+    "stats2": "Jumla ya Tuzo Zilizotengenezwa ",
+    "stats3": "Jumla ya Tuzo Zilizokusanywa "
+    },
+    "section3": {
+    "heading": "Udhaifu kwa Ubunifu",
+    "para1": "Dhahabu ya GODL inajitofautisha na asili yake ya kupungua na thamani inayoweza kubadilishwa kwa dhahabu. Kadri idadi ya ishara inavyopungua kwa muda, kila ishara iliyobaki inakuwa inaweza kubadilishwa kwa sehemu kubwa ya akiba ya dhahabu ya msingi. Ubunifu huu una hakikisha thamani halisi ya ulimiliki wako inaongezeka kila mara.",
+    "para2": "GODL inatoa njia inayoinnovative ya kupanua utajiri wako kwa dhahabu, ikiifanya kuwa rahisi na dijiti."
+    },
+    "section4": {
+    "heading": "Uthibitisho Ulioungwa Mkono na Dhahabu",
+    "para1": "GODL inaungwa mkono na mali halisi yenye thamani iliyothibitishwa - Dhahabu. Uunganisho huu na dhahabu hutoa msingi thabiti wa thamani kwa mali zako za dijiti na pia kukuruhusu kuzibadilisha kwa dhahabu halisi. Hii inakupa usalama na uwezo usio na kifani katika nafasi ya kifedha ya dijiti inayoendelea kubadilika."
+    },
+    "section5": {
+    "heading": "Mtandao Unaostawi",
+    "para1": "Kupitia Mtandao wa Mabalozi wa Dhahabu ya GODL, unakuwa sehemu ya jamii inayoshiriki katika lengo la kujenga thamani na kuhifadhi utajiri. Kama mmiliki wa ishara, jukumu lako linazidi kuwa tu ushiriki. Unachangia na kunufaika na mfumo wa pamoja unaowatuzwa kwa ushiriki na mchango, kugeuza ukuaji wa utajiri kuwa safari ya pamoja."
+    }
+    },
+    "referralExplorerPage": {
+    "heading": "Mwambataji wa Rufaa wa GODL",
+    "para1": "Udadisi ni msingi wa jamii yenye uhai. Ndio maana tumeweka kipengele cha 'Mwambataji wa Rufaa wa GODL'. Kama vile unavyoweza kutumia injini ya utaftaji wa wavuti, unaweza kuingiza anwani yoyote ya mkoba kwenye sanduku la utaftaji ili kupata habari zinazohusiana. Ikiwa anwani ipo kwenye mtandao wetu, utaona habari kama ngazi yao ya Balozi na rufaa. Sio tu hivyo, interface yetu ya kirafiki inakuwezesha kuvinjari anwani hizo hadi kwenye shughuli zao binafsi kupitia kiunga moja kwa moja kwenda Etherscan.",
+    "para2": "Mwambataji wa Rufaa wa GODL ni dirisha lako linalojulikana kwenye mfumo thabiti tunaojenga pamoja.",
+    "inputBoxPlaceholder": "Ingiza anwani ya mkoba",
+    "buttonText": "Tafuta Anwani",
+    "tableHeadings": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+    ],
+    "stats1": "Anwani ya Mwalikaji",
+    "stats2": "Mizani ya Otomatiki ya Ngazi ",
+    "stats3": "Ngazi",
+    "stats4": "Idadi ya Rufaa",
+    "stats5": "Tuzo Zilizopatikana ",
+    "stats6": "Imejiandikisha Tangu"
+    },
+    "myAccountPage": {
+    "section1": {
+    "heading": "Waalike Marafiki",
+    "copyLinkText": "NAKILI LINKI YA RUFAA YAKO",
+    "step1": {
+    "title": "Nakili Kiungo cha Mwaliko",
+    "description": "Bonyeza kitufe cha 'Waalike Marafiki' ili nakili kiungo chako cha kipekee kwenye ubao wako wa kunakili."
+    },
+    "step2": {
+    "title": "Shiriki Kiungo cha Mwaliko",
+    "description": "Kiungo hicho kinawaruhusu marafiki kujiunga na mtandao bila kuhitaji kuingiza anwani yako ya mkoba kwa mikono."
+    },
+    "step3": {
+    "title": "Pata Tuzo",
+    "description": "Marafiki zako na marafiki zao wakijiunga na mtandao, unapata tuzo. Ni ushindi kwa kila mtu."
+    }
+    },
+    "section2": {
+    "heading": "Takwimu",
+    "stats1": "Anwani ya Mwalikaji",
+    "stats2": "Mizani ya Otomatiki ya Ngazi ",
+    "stats3": "Ngazi",
+    "stats4": "Idadi ya Rufaa",
+    "stats5": "Tuzo Zilizopatikana ",
+    "stats6": "Imejiandikisha Tangu"
+    },
+    "section3": {
+    "heading": "Auto Tier Up",
+    "para1": "GODL Gold inaunganisha kipengele cha 'Auto-Tier Up', chombo cha ubunifu kinachoboresha uwezo wako wa kukua katika mtandao. Badala ya kuacha tuzo zako kutoka Programu ya Balozi zisitumike, zinatumika moja kwa moja kukusaidia kupanda ngazi. Hii sio tu kukusanya bali ni maendeleo.",
+    "para2": "Kwa kutafsiri tuzo zako kuwa hatua za juu, unaweza kupanda ngazi katika mtandao. Na 'Auto Tier Up', GODL yako sio tu umiliki; ni mshiriki mwenye tija katika safari yako kupitia mtandao.",
+    "para3": "Kwa sasa hali yako ya auto-tier-up ni ${reInvestFlag}",
+    "buttonText": "Geuza ${!reInvestFlag}",
+    "buttonOnClickResponse": "Auto Tier-Up inaendelea..."
+    },
+    "section4": {
+    "heading": "Panda Ngazi",
+    "para1": "Katika mtandao wa GODL Gold, ukuaji unaolingana na kupanda ngazi. Kipengele cha 'Panda Ngazi' kimeundwa kuwezesha Mabalozi kuendeleza hadhi yao kwa vitendo. Kwa kununua ngazi ya juu, sio tu unakuza uwezo wako wa tuzo binafsi lakini pia unachangia nguvu ya mtandao kwa jumla. Kila hatua ya kupanda, kutoka Ngazi 1 hadi Ngazi 5, inakuleta karibu na kutimiza uwezo kamili wa mtandao wa GODL.",
+    "para2": "Zaidi ya hayo, inaongeza ushawishi wako ndani ya mtandao, ukikufanya uwe mchango muhimu kwa mafanikio yake. Na 'Panda Ngazi', hauji tu kushiriki, unachukua jukumu la safari yako katika mtandao wa GODL Gold.",
+    "buttonText": "Panda Ngazi",
+    "buttonCtaPopup": {
+    "heading": "Panda Ngazi",
+    "popup_approve": {
+    "buttonApproveText": "Idhinisha Nakala",
+    "notSelectTier_errorText": "Tafadhali chagua ngazi ya pakiti",
+    "buttonApproveOnClickResponse": "Idhini inaendelea..."
+    },
+    "popup_tierUp": {
+    "buttonTierUpText": "Panda Ngazi",
+    "approvalSuccessText": "Idhini imefanikiwa! Bonyeza hapo juu kuipandisha ngazi.",
+    "buttonTierUpOnClickResponse": "Shughuli yako imeanzishwa na sasa inaendelea kwenye blockchain. Inaweza kuchukua dakika chache kulingana na msongamano wa mtandao. Subiri kidogo!"
+    },
+    "popup_tierUp_success": {
+    "buttonTierUpSuccessText": "Ngazi Imesasishwa Kwa Mafanikio",
+    "addTokenText": "Ongeza GODL kwenye mkoba uliounganishwa."
+    }
+    },
+    "section5": {
+    "heading": "Badilisha Anwani ya Mkoba",
+    "para1": "Katika ulimwengu wa kidijitali wa sarafu za sarafu, anwani ya mkoba wako ndio kitambulisho chako. Lakini nini kama kitu kinatokea? Unaweza kuhitaji kubadilisha anwani ya mkoba wa akaunti yako. Tunafanya hivyo kuwa rahisi.",
+    "para2": "Kipengele chetu cha 'Badilisha Anwani ya Mkoba' kimeundwa kuwa rahisi, hata kwa wale ambao ni wapya katika nafasi ya sarafu. Kama vile unavyoweza kubadilisha anwani yako ya kimwili wakati unahamia nyumba mpya, kipengele hiki kinakuwezesha kusasisha anwani yako ya dijiti katika mtandao wa GODL Gold. Ni rahisi kama kuweka anwani yako mpya ya mkoba na kuthibitisha mabadiliko. Kwa njia hii, unadumisha udhibiti wa kitambulisho chako katika mtandao, kuhakikisha kuwa tuzo zako na faida zote zinakwenda mahali sahihi.",
+    "buttonText": "Anwani ya Mkoba",
+    "buttonCtaPopup": {
+    "heading": "Badilisha Anwani ya Mkoba",
+    "para1": "Una karibu kusasisha anwani yako ya mkoba, kitambulisho muhimu katika mtandao wa GODL Gold. Kwa kufanya hivyo, unahakikisha kuwa tuzo zote na faida zinabaki zimeunganishwa vizuri na anwani yako mpya. Kumbuka kuthibitisha mabadiliko. Ni hatua rahisi na salama ya kusimamia kitambulisho chako cha sarafu.",
+    "inputBoxPlaceholder": "Ingiza anwani mpya ya mkoba",
+    "buttonAddNewAddressText": "Ongeza Anwani Mpya",
+    "buttonAddNewAddressOnClickResponse": "Kuinakilisha anwani mpya ya mkoba..."
+    }
+    }
+    }
+    },
+    "tradeGodlPage": {
+    "section1": {
+    "heading": "Nunua GODL",
+    "subHeading": "FUNGUA UWEZO WA AURUMU YA DHAHABU YA KIDIGITI",
+    "para1": "Fanya hatua yako katika ulimwengu wa GODL. Nunua GODL moja kwa moja, ukitumia PAXG au USDC.",
+    "para2": "Kwa wamiliki wa PAXG, kiolesura rahisi cha Aurium kinakuruhusu kutengeneza GODL kwa kutumia PAX yako",
+    "para3": "Unapendelea kutumia USDC? Hakuna shida. Tembelea ubadilishaji wetu uliounganishwa na ushughulikie ununuzi kwa urahisi.",
+    "button1": {
+    "buttonText": "Tengeneza na PAXG",
+    "buttonCta_popup": {
+    "heading": "Tengeneza GODL na PAXG",
+    "popup_previewConversion": {
+    "description": "Unachukua hatua ya kuanzisha mchakato wa kutengeneza GODL mpya kwa kutumia alama zako za PAXG. Hatua hii inaunganisha thamani ya ndani ya dhahabu na alama zako za GODL, ikiruhusu mali yako ya kidijiti kukua. Thibitisha tu ili kutengeneza GODL yako!",
+    "inputBoxPlaceholder": "Ingiza kiasi cha PAXG cha kutengeneza GODL",
+    "buttonText": "Onesha Mwonekano"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "Idhinisha PAXG",
+    "buttonApproveOnClickResponse": "Shughuli yako imeanzishwa na sasa inaendelea kwenye blockchain. Inaweza kuchukua dakika chache kulingana na msongamano wa mtandao. Subiri kidogo!"
+    },
+    "popup_mint": {
+    "description": "",
+    "buttonMintText": "Tengeneza GODL",
+    "buttonMintOnClickResponse": "Utaratibu wa kutengeneza unafanyika..."
+    },
+    "popup_mint_success": {
+    "buttonMintSuccessfulText": "Imetengenezwa kwa Mafanikio",
+    "addTokenText": "Ongeza GODL kwenye mkoba uliounganishwa."
+    }
+    }
+    },
+    "button2Text": "Nunua kwa USDC"
+    },
+    "section2": {
+    "heading": "Geuza GODL",
+    "subHeading": "BADILI GODL YAKO KUWA PAXG AU USDC",
+    "para1": "Unapojisikia haja, unaweza kwa urahisi kubadilisha GODL zako kuwa PAXG au USDC.",
+    "para2": "Kwa kutumia kiolesura cha Aurium, wamiliki wa PAXG wanaweza kwa urahisi kuchoma GODL yao, wakipokea PAXG badala yake.",
+    "para3": "Ikiwa unataka kubadilisha GODL yako kuwa USDC, tupo hapa kukusaidia. Tembelea ubadilishaji wetu uliounganishwa na ufanye muamala haraka.",
+    "button1": {
+    "buttonText": "Choma Kwa PAXG",
+    "buttonCta_popup": {
+    "heading": "Choma GODL Kwa PAXG",
+    "popup_previewConversion": {
+    "description": "Una nia ya kubadilisha GODL yako kuwa PAXG. Hakikisha umekagua viwango vya ubadilishaji na uko tayari kutekeleza ubadilishaji. Mara baada ya kuthibitisha, muamala utapewa kipaumbele.",
+    "inputBoxPlaceholder": "Ingiza kiasi cha GODL cha kupata PAXG",
+    "buttonText": "Onesha Mwonekano"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "Idhinisha GODL",
+    "buttonApproveOnClickResponse": "Shughuli yako imeanzishwa na sasa inaendelea kwenye blockchain. Inaweza kuchukua dakika chache kulingana na msongamano wa mtandao. Subiri kidogo!"
+    },
+    "popup_burn": {
+    "description": "",
+    "buttonMintText": "Tengeneza GODL",
+    "buttonMintOnClickResponse": "Utaratibu wa kuchoma unafanyika..."
+    },
+    "popup_burn_success": {
+    "buttonMintSuccessfulText": "Imeuza Kwa Mafanikio",
+    "addTokenText": "Ongeza PAXG kwenye mkoba uliounganishwa."
+    }
+    }
+    },
+    "button2Text": "Uza kwa USDC"
+    }
+    }
+    }
+    
+    
+    

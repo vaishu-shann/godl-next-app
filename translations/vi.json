@@ -1,0 +1,284 @@
+{
+    "topStrip": {
+    "price1": "1 PAXG：xxx USDC",
+    "price2": "1 GODL：xxx USDC",
+    "price3": "1 GODL：xxx PAXG"
+    },
+    "navbar": {
+    "link1": "首页",
+    "link2": "推荐资源浏览器",
+    "link3": "我的账户",
+    "link3OnHover": "您尚未加入GODL网络",
+    "link4": "交易GODL",
+    "link5": "管理员",
+    "connectWalletButton": "连接钱包"
+    },
+    "footer": {
+    "heading": "GODL黄金大使影响力网络",
+    "para1": "GODL Gold是一种通缩的黄金支持加密货币，通过逐渐增加每个代币的潜在黄金价值来奖励长期持有。大使计划是GODL内部的社区驱动型倡议，奖励推广平台并为其增长做出贡献的参与者。这为GODL周围的活跃和投入社区创造了一个充满活力的社区。",
+    "button1": "添加PAXG",
+    "button2": "添加GODL",
+    "button3": "添加USDC",
+    "linkSection1": {
+    "heading": "社区",
+    "link1": "Telegram",
+    "link2": "Discord",
+    "link3": "Twitter",
+    "link4": "YouTube"
+    },
+    "linkSection2": {
+    "heading": "钱包",
+    "link1": "Metamask",
+    "link2": "Trust Wallet",
+    "link3": "Wallet Connect"
+    },
+    "linkSection3": {
+    "heading": "加密货币链接",
+    "link1": "获取PAXG",
+    "link2": "获取USDC",
+    "link3": "PAXG代币合约",
+    "link4": "USDC代币合约",
+    "link5": "GODL代币合约"
+    },
+    "linkSection4": {
+    "heading": "工具和信息",
+    "link1": "在Dextool上查看图表",
+    "link2": "Paxos网站",
+    "link3": "Aurium白皮书",
+    "link4": "Coin Market Cap",
+    "link5": "Coin Gecko"
+    },
+    "copyrightText": "版权所有 - GODL黄金"
+    },
+    "homePage": {
+    "section1": {
+    "heading": "GODL黄金",
+    "subHeading": "金融与增长的交汇处",
+    "para1": "走进GODL黄金的财富存储未来。",
+    "para2": "我们重新定义了数字时代的黄金，确保它不仅保值，还增值。加入我们的黄金大使影响力网络，您将成为一个积极参与社区，共同促进繁荣和增长的一部分。",
+    "para3": "成为GAINer，体验一个黄金财富管理的新维度 - 黄金不仅仅是存储，而是蓬勃发展的财富！",
+    "button1Text": "立即加入！",
+    "button1CTA": {
+    "popup_withoutWalletConnection": {
+    "heading": "加入GODL大使网络",
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "输入推荐人地址",
+    "errorText": "请连接您的钱包"
+    },
+    "popup_withWalletConnected_alreadyJoined": {
+    "heading": "已经加入！",
+    "para1": "恭喜您成功加入GODL黄金网络！",
+    "para2": "作为新的大使，您现在是一个蓬勃发展的生态系统的一部分，金融与增长的交汇处。让我们一起创造一段有影响力的旅程。",
+    "para3": "欢迎加入！"
+    },
+    "popup_withWalletConnected_newUser": {
+    "heading": "加入GODL大使网络",
+    "popup_approve": {
+    "description": "",
+    "referrerAddressInputBoxPlaceholder": "输入推荐人地址",
+    "tncButtonText": "接受我们的条款和条件",
+    "tncButtonCtaPopup": {
+    "heading": "条款和条件",
+    "para1": "免责声明：GODL黄金平台是基于“现状”和“可得到”的基础上提供的分散应用程序（DApp），没有明示或暗示的任何形式的任何担保。我们努力维护最高的服务和性能标准，但我们无法保证完全的安全性，可靠性或准确性。",
+    "para2": "作为用户，您对网络内的行为承担唯一责任。请负责任地使用我们的平台，进行彻底的尽职调查，并记住与任何加密货币平台（包括GODL黄金）的互动都带有固有风险。使用本平台即表示您承认并接受这些风险。"
+    },
+    "buttonApproveText": "批准PAXG",
+    "buttonApproveOnClickResponse": "您的交易已启动，正在区块链上处理。根据网络拥塞情况，可能需要几分钟的时间。请耐心等待！"
+    },
+    "popup_join": {
+    "description": "",
+    "buttonJoinText": "加入GODL",
+    "buttonJoinOnClickResponse": "加入中..."
+    },
+    "popup_join_success": {
+    "description": "",
+    "buttonJoinSuccessText": "加入成功！",
+    "addTokenText": "将GODL添加到已连接的钱包。"
+    }
+    }
+    },
+    "button2Text": "交易GODL",
+    "button3Text": "购买PAXG"
+    },
+    "section2": {
+    "stats1": "大使",
+    "stats2": "累计奖励产生（PAXG）",
+    "stats3": "累计奖励积累（PAXG）"
+    },
+    "section3": {
+    "heading": "通缩设计",
+    "para1": "GODL黄金通过其通缩性质和可兑换的黄金价值与众不同。随着代币数量随时间减少，每个剩余代币可兑换成更大份额的潜在黄金储备。这种设计确保您持有的资产的内在价值不断增长。",
+    "para2": "GODL提供了一种扩大您在黄金中的财富的创新方法，使其变得简单且数字化。"
+    },
+    "section4": {
+    "heading": "黄金支持保障",
+    "para1": "GODL由一个具有实际价值的有形资产 - 黄金支持。与黄金的联系不仅为您的数字资产提供了坚实的价值基础，而且还使您能够将其兑换成实物黄金。这为您在快速发展的数字金融领域中提供了无与伦比的安全性和流动性。"
+    },
+    "section5": {
+    "heading": "蓬勃发展的网络",
+    "para1": "通过GODL黄金大使影响力网络，您成为一个专注于共同创造价值和财富保护目标的充满活力的社区的一部分。作为代币持有人，您的角色超越了简单的参与。您为一个集体系统的参与和贡献获得回报，将财富增长变成一场共同的旅程。"
+    }
+    },
+    "referralExplorerPage": {
+    "heading": "GODL推荐资源浏览器",
+    "para1": "好奇心是一个蓬勃发展社区的基石。这就是为什么我们提供了“GODL推荐资源浏览器”功能。就像您使用互联网搜索引擎一样，您可以在搜索栏中输入任何钱包地址来查看相关详细信息。如果该地址在我们的网络中存在，您将看到关于其大使等级和推荐的信息。不仅如此，我们直观的界面还可以让您通过直接链接到Etherscan浏览器在详细的个体交易中导航。",
+    "para2": "GODL网络浏览器是我们共同建立的透明窗口，展示了我们正在构建的充满活力的生态系统。",
+    "inputBoxPlaceholder": "输入钱包地址",
+    "buttonText": "搜索地址",
+    "tableHeadings": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+    ],
+    "stats1": "推荐人地址",
+    "stats2": "自动层平衡（PAXG）",
+    "stats3": "层级",
+    "stats4": "推荐计数",
+    "stats5": "已获奖励（PAXG）",
+    "stats6": "注册时间"
+    },
+    "myAccountPage": {
+    "section1": {
+    "heading": "邀请好友",
+    "copyLinkText": "复制您的推荐链接",
+    "step1": {
+    "title": "复制邀请链接",
+    "description": "点击“邀请好友”按钮，将您的唯一链接复制到剪贴板。"
+    },
+    "step2": {
+    "title": "分享邀请链接",
+    "description": "这个链接可以让朋友们轻松加入网络，无需手动输入您的钱包地址。"
+    },
+    "step3": {
+    "title": "赚取奖励",
+    "description": "当您的朋友及其朋友加入网络时，您可以获得奖励。这对每个人都是双赢的局面。"
+    }
+    },
+    "section2": {
+    "heading": "统计数据",
+    "stats1": "推荐人地址",
+    "stats2": "自动层平衡（PAXG）",
+    "stats3": "层级",
+    "stats4": "推荐计数",
+    "stats5": "已获奖励（PAXG）",
+    "stats6": "注册时间"
+    },
+    "section3": {
+    "heading": "自动升级层级",
+    "para1": "GODL黄金采用了一种创新的“自动升级层级”机制，这是一种增强您在网络中增长潜力的工具。您的大使计划奖励不会闲置，而是自动用于推动您进入下一个层级。这不仅仅是积累，而是进步。",
+    "para2": "通过将您的奖励无缝转化为上升动力，您可以攀登网络的层级。通过“自动升级层级”，您的GODL不仅仅是一种拥有，它还是您在网络中旅程的积极参与者。",
+    "para3": "目前您的自动升级层级模式为${reInvestFlag}",
+    "buttonText": "切换${!reInvestFlag}",
+    "buttonOnClickResponse": "自动升级层级进行中..."
+    },
+    "section4": {
+    "heading": "升级层级",
+    "para1": "在GODL黄金网络中，增长意味着不断晋升到更高的层级。 “升级层级”功能旨在帮助大使积极提升其地位。通过购买更高层级，您不仅增加自己的奖励潜力，还增强了整个网络的实力。从第1层到第5层的每一步都使您更接近实现GODL网络的全部潜力。",
+    "para2": "更重要的是，它增强了您在网络中的影响力，使您成为其成功的重要贡献者。通过“升级层级”，您不仅仅是参与者，而是掌控GODL黄金网络中的旅程。",
+    "buttonText": "升级层级",
+    "buttonCtaPopup": {
+    "heading": "升级层级",
+    "popup_approve": {
+    "buttonApproveText": "批准文本",
+    "notSelectTier_errorText": "请选中一个套餐层级",
+    "buttonApproveOnClickResponse": "批准进行中..."
+    },
+    "popup_tierUp": {
+    "buttonTierUpText": "升级层级",
+    "approvalSuccessText": "批准成功！点击上方进行层级升级。",
+    "buttonTierUpOnClickResponse": "您的交易已被发起，并正在区块链上进行处理。根据网络拥塞情况，这可能需要几分钟的时间。请耐心等待！"
+    },
+    "popup_tierUp_success": {
+    "buttonTierUpSuccessText": "层级更新成功",
+    "addTokenText": "将GODL添加到已连接的钱包。"
+    }
+    },
+    "section5": {
+    "heading": "更改钱包地址",
+    "para1": "在加密货币的数字世界中，您的钱包地址就是您的身份。但如果发生了什么怎么办？您可能需要更改帐户的钱包地址。我们使这变得简单。",
+    "para2": "我们的“更改钱包地址”功能被设计为简单易用，即使对于新手来说也是如此。就像您搬家时更改物理地址一样，这个功能允许您在GODL黄金网络中更新您的数字地址。只需输入新的钱包地址并确认更改。这样，您可以掌握网络中的身份控制权，确保您的所有奖励和福利都进入正确的地方。",
+    "buttonText": "钱包地址",
+    "buttonCtaPopup": {
+    "heading": "更改钱包地址",
+    "para1": "您将要更新您的钱包地址，这是GODL黄金网络中的一个重要标识符。通过这样做，您确保所有奖励和福利仍然正确链接到您的新地址。请记住确认更改。这是一项快速而安全的管理您的加密货币身份的步骤。",
+    "inputBoxPlaceholder": "输入新的钱包地址",
+    "buttonAddNewAddressText": "添加新地址",
+    "buttonAddNewAddressOnClickResponse": "正在添加新的钱包地址..."
+    }
+    }
+    }
+    },
+    "tradeGodlPage": {
+    "section1": {
+    "heading": "获取GODL",
+    "subHeading": "释放数字黄金的潜力",
+    "para1": "进入GODL的世界，直接使用PAXG或USDC获取GODL。",
+    "para2": "对于PAXG持有者，用户友好的Aurium界面允许您使用PAXG铸造GODL。",
+    "para3": "喜欢使用USDC？没问题。访问我们的合作伙伴去中心化交易所，进行顺畅的获取流程。",
+    "button1": {
+    "buttonText": "使用PAXG铸造",
+    "buttonCta_popup": {
+    "heading": "使用PAXG铸造GODL",
+    "popup_previewConversion": {
+    "description": "您正在启动使用您的PAXG代币创建新的GODL的过程。此操作将将黄金的内在价值与您的GODL代币联系起来，使您的数字财富增长。只需确认以铸造您的GODL！",
+    "inputBoxPlaceholder": "输入要铸造GODL的PAXG数量",
+    "buttonText": "预览转换"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "批准PAXG",
+    "buttonApproveOnClickResponse": "您的交易已被发起，并正在区块链上进行处理。根据网络拥塞情况，这可能需要几分钟的时间。请耐心等待！"
+    },
+    "popup_mint": {
+    "description": "",
+    "buttonMintText": "铸造GODL",
+    "buttonMintOnClickResponse": "铸造进行中..."
+    },
+    "popup_mint_success": {
+    "buttonMintSuccessfulText": "铸造成功",
+    "addTokenText": "将GODL添加到已连接的钱包。"
+    }
+    }
+    },
+    "button2Text": "使用USDC购买"
+    },
+    "section2": {
+    "heading": "清算GODL",
+    "subHeading": "将您的GODL转换为PAXG或USDC",
+    "para1": "无论何时，您都可以轻松将您的GODL持有转换为PAXG或USDC。",
+    "para2": "PAXG持有者可以通过Aurium界面便捷地销毁他们的GODL，并获得PAXG作为回报。",
+    "para3": "如果您想将您的GODL兑换为USDC，我们为您提供了便利。只需访问我们的合作伙伴去中心化交易所进行快速交易。",
+    "button1": {
+    "buttonText": "兑换为PAXG",
+    "buttonCta_popup": {
+    "heading": "将GODL兑换为PAXG",
+    "popup_previewConversion": {
+    "description": "您将要将您的GODL转换为PAXG。请确保您已经检查了兑换率，并准备好执行交换。一旦确认，交易将被处理。",
+    "inputBoxPlaceholder": "输入要兑换为PAXG的GODL数量",
+    "buttonText": "预览转换"
+    },
+    "popup_approve": {
+    "description": "",
+    "buttonApproveText": "批准GODL",
+    "buttonApproveOnClickResponse": "您的交易已被发起，并正在区块链上进行处理。根据网络拥塞情况，这可能需要几分钟的时间。请耐心等待！"
+    },
+    "popup_burn": {
+    "description": "",
+    "buttonMintText": "铸造GODL",
+    "buttonMintOnClickResponse": "铸造进行中..."
+    },
+    "popup_burn_success": {
+    "buttonMintSuccessfulText": "出售成功",
+    "addTokenText": "将PAXG添加到已连接的钱包。"
+    }
+    }
+    },
+    "button2Text": "出售为USDC"
+    }
+    }
+    }
+    
+    
+    
